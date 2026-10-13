@@ -29,3 +29,7 @@ Each app's `package.json` declares its own. The notable runtime libraries:
 ## Icons
 
 The storefront's icons come from [Lucide](https://lucide.dev) (ISC licence), mapped to Grovia names in `apps/web/src/components/ui/Icon.tsx`. The dashboard's `Icon.tsx` draws the same set as original stroke paths, and Lucide covers a few of its controls. The leaf in the logo is original.
+
+## Scope of the MIT licence
+
+The MIT licence in [LICENSE](./LICENSE) covers the source code in this repository. The demo photographs are covered by their own licence (above), and the "Grovia" name and logo identify the author's product. They are not a trademark grant.
