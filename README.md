@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/grovia-cover.jpg" alt="Grovia: a fresh-market storefront, operations dashboard and REST API" width="100%" />
+<img src=".github/assets/grovia-starter-cover.jpg" alt="Grovia Starter: full-stack e-commerce, ready to build on. A Next.js 16 storefront, an admin dashboard and an Express 5 + MongoDB API in one Turborepo monorepo." width="100%" />
 
 # Grovia Starter
 
@@ -50,10 +50,11 @@ The finished product runs in production:
 | REST API health | https://api.grovia.reactbd.com/api/health |
 | REST API reference (Swagger) | https://api.grovia.reactbd.com/api/docs |
 
-<p align="center">
-  <img src=".github/assets/grovia-storefront.jpg" alt="Grovia storefront: shop, product and home pages" width="49%" />
-  <img src=".github/assets/grovia-dashboard.jpg" alt="Grovia admin dashboard overview" width="49%" />
-</p>
+### What you'll build
+
+<img src=".github/assets/pages-storefront.jpg" alt="Storefront pages: home, best sellers, shop, product page, basket, checkout, order tracking and the sign-in sidebar" width="100%" />
+
+<img src=".github/assets/pages-dashboard.jpg" alt="Dashboard pages: overview, sales charts, all products, orders, order detail, packing board, sales reports and home page control" width="100%" />
 
 ---
 
