@@ -1,0 +1,564 @@
+@import "tailwindcss";
+
+/* ────────────────────────────────────────────────────────────────────────────
+   Grovia design tokens — the "Fresh Market" palette: Figma neutrals
+   (white page, grey-green hairlines, slate text) blended with Grovia's own
+   brand greens. Semantic names stay the same so utilities keep working. This file is the styling source of
+   truth for apps/web.
+
+   Rules (see /CLAUDE.md):
+   - Never use raw palette utilities (bg-green-500, text-slate-700, …).
+   - Never add `dark:` variants — Grovia is light-theme only.
+   - Never inline hex colors. Add a token here first.
+   ──────────────────────────────────────────────────────────────────────────── */
+
+@theme {
+  /*
+   * Six solids drive every semantic token below:
+   *   cream #F6F9F4 · mist #E3F3DE · lime #C9F05A
+   *   leaf  #0B6A5B · canopy #0D3D3B · soil #062826
+   */
+  --color-garden-cream: #f6f9f4;
+  --color-garden-mist: #e3f3de;
+  --color-garden-lime: #c9f05a;
+  --color-garden-leaf: #0b6a5b;
+  --color-garden-canopy: #0d3d3b;
+  --color-garden-soil: #062826;
+
+  /* Brand */
+  --color-primary: #0b6a5b;
+  --color-primary-hover: #084f45;
+  --color-primary-soft: #e3f3de;
+  --color-brand: #0d3d3b;
+  --color-brand-deep: #062826;
+  --color-lime: #c9f05a;
+
+  /* Accents */
+  --color-accent-orange: #f4622e;
+  --color-accent-crimson: #cb0233;
+  --color-accent-blue: #1890ff;
+  --color-accent-amber: #ffb400;
+  --color-promo-violet: #6b39a7;
+  --color-promo-wine: #920140;
+  --color-promo-sun: #ffe16a;
+
+  /* Sign-in provider marks (components/auth/SocialButtons.tsx) — the providers' own brand blues. */
+  --color-social-facebook: #1877f2;
+  --color-social-linkedin: #0a66c2;
+
+  /* Surfaces */
+  --color-background: #ffffff;
+  --color-card: #ffffff;
+  --color-muted: #f3f6f1;
+  --color-border: #dbe3d9;
+
+  /* Text */
+  --color-foreground: #1b2b28;
+  --color-muted-foreground: #4c625d;
+  --color-subtle-foreground: #66796f; /* 4.64:1 on white — helper text still passes AA */
+
+  /* Status */
+  --color-success: #1f9d5a;
+  --color-warning: #ffb400;
+  --color-danger: #cb0233;
+  --color-info: #1890ff;
+
+  /* Focus / ring (buttons, inputs) */
+  --color-ring: #0b6a5b;
+
+  /* Radii */
+  --radius-card: 20px;
+  --radius-tile: 14px;
+  --radius-control: 10px;
+
+  /* Hover / color transitions — Tailwind `transition-*` utilities inherit these. */
+  --default-transition-duration: 300ms;
+  --default-transition-timing-function: ease-in-out;
+  /* The "settle" curve every enter animation uses. */
+  --ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Elevation — forest-tinted, soft. Heavy black drop-shadows read cheap. */
+  --shadow-pop: 0 18px 40px -24px
+    color-mix(in oklab, var(--color-brand-deep) 22%, transparent);
+  --shadow-drop: 0 16px 32px -20px
+    color-mix(in oklab, var(--color-brand-deep) 16%, transparent);
+  --shadow-tile: 0 8px 20px -14px
+    color-mix(in oklab, var(--color-brand-deep) 12%, transparent);
+  --shadow-brand: 0 8px 18px -10px
+    color-mix(in oklab, var(--color-primary) 40%, transparent);
+
+  /* Gradient strips — composed from the solids above. */
+  --background-image-garden-1: linear-gradient(
+    180deg,
+    var(--color-garden-cream) 0%,
+    var(--color-garden-lime) 100%
+  );
+  --background-image-garden-2: linear-gradient(
+    180deg,
+    var(--color-garden-mist) 0%,
+    var(--color-garden-lime) 50%,
+    var(--color-garden-leaf) 100%
+  );
+  --background-image-garden-3: linear-gradient(
+    180deg,
+    var(--color-garden-lime) 0%,
+    var(--color-garden-leaf) 50%,
+    var(--color-garden-canopy) 100%
+  );
+  --background-image-garden-4: linear-gradient(
+    180deg,
+    var(--color-garden-leaf) 0%,
+    var(--color-garden-canopy) 55%,
+    var(--color-garden-soil) 100%
+  );
+
+  /* Layout */
+  --spacing-shell: 1380px;
+
+  /* Stacking — header overlays (search, locale, drawers) sit above page content */
+  --z-index-60: 60;
+  --z-index-70: 70;
+  --z-index-90: 90;
+
+  /* Motion */
+  --animate-rise: rise 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-drop: drop 0.16s ease both;
+  --animate-marquee: marquee 34s linear infinite;
+  --animate-float: float 7s ease-in-out infinite;
+  --animate-slide-in: slide-in 0.28s cubic-bezier(0.22, 1, 0.36, 1) both;
+  /* Sheet / drawer exit directions (panel stays mounted until these finish). */
+  --animate-slide-out: slide-out-right 0.24s cubic-bezier(0.4, 0, 1, 1) both;
+  --animate-slide-in-left: slide-in-left 0.28s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-slide-out-left: slide-out-left 0.24s cubic-bezier(0.4, 0, 1, 1) both;
+  --animate-fade-in: fade-in 0.22s ease both;
+  --animate-fade-out: fade-out 0.24s ease both;
+  /* Centered dialog: keyframes include the -50%/-50% translate so they
+     do not fight the panel's centering transform. */
+  --animate-dialog-in: dialog-in 0.28s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-dialog-out: dialog-out 0.2s cubic-bezier(0.4, 0, 1, 1) both;
+  --animate-accordion-down: accordion-down 0.24s cubic-bezier(0.22, 1, 0.36, 1);
+  --animate-accordion-up: accordion-up 0.2s cubic-bezier(0.4, 0, 1, 1);
+  /* Order timeline (components/track/TrackingTimeline.tsx): steps arrive top to
+     bottom, the rail fills down behind them, and the current step stays live. */
+  --animate-step-in: step-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-dot-pop: dot-pop 0.45s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  --animate-rail-fill: rail-fill 0.32s ease-out both;
+  --animate-live-ring: live-ring 1.8s ease-out infinite;
+  --animate-rail-flow: rail-flow 1.8s ease-in-out infinite;
+}
+
+/*
+ * Fonts must be `inline` so utilities resolve to the next/font CSS variables
+ * (set on <html>) rather than a frozen string that never sees the self-hosted
+ * @font-face. TikTok Sans is not in next/font/google — it loads from the
+ * Google Fonts CSS API in the root layout and is referenced by family name.
+ */
+@theme inline {
+  --font-sans: var(--font-public-sans), "Public Sans", system-ui, -apple-system,
+    sans-serif;
+  --font-display: "TikTok Sans", var(--font-public-sans), "Public Sans",
+    system-ui, sans-serif;
+}
+
+@keyframes step-in {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes dot-pop {
+  from {
+    transform: scale(0.4);
+  }
+  to {
+    transform: none;
+  }
+}
+
+@keyframes rail-fill {
+  from {
+    transform: scaleY(0);
+  }
+  to {
+    transform: scaleY(1);
+  }
+}
+
+@keyframes live-ring {
+  0% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  80%,
+  100% {
+    opacity: 0;
+    transform: scale(1.65);
+  }
+}
+
+@keyframes rail-flow {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(220%);
+  }
+}
+
+@keyframes accordion-down {
+  from { height: 0; opacity: 0; }
+  to { height: var(--radix-accordion-content-height); opacity: 1; }
+}
+@keyframes accordion-up {
+  from { height: var(--radix-accordion-content-height); opacity: 1; }
+  to { height: 0; opacity: 0; }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes drop {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes marquee {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-1.5deg);
+  }
+  50% {
+    transform: translateY(-14px) rotate(1.5deg);
+  }
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: none;
+  }
+}
+
+@keyframes slide-out-right {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes slide-in-left {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: none;
+  }
+}
+
+@keyframes slide-out-left {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes dialog-in {
+  from {
+    opacity: 0;
+    transform: translate(-50%, calc(-50% + 14px)) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+@keyframes dialog-out {
+  from {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translate(-50%, calc(-50% + 10px)) scale(0.98);
+  }
+}
+
+/* Shop layout morph — only named product cards animate, not the whole page. */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+}
+
+::view-transition-group(*) {
+  animation-duration: 420ms;
+  animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  /*
+   * Light-only app. Without color-scheme, OS dark mode paints form controls,
+   * scrollbars and autofill with dark UA styles on top of our light tokens.
+   */
+  html {
+    color-scheme: light;
+    scroll-behavior: smooth;
+    /* Sticky offset = compact header (middle row). Top/bottom rows collapse on scroll. */
+    --header-h: 4.5rem;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-primary) 22%, white);
+    color: var(--color-brand-deep);
+  }
+
+  /*
+   * Tailwind v4 defaults borders to currentColor. Pin them to the design
+   * hairline so bare `border` utilities stay neutral.
+   */
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    background-image:
+      radial-gradient(
+        1100px 520px at 8% -8%,
+        color-mix(in oklab, var(--color-primary) 9%, transparent),
+        transparent 55%
+      ),
+      radial-gradient(
+        900px 480px at 108% 4%,
+        color-mix(in oklab, var(--color-lime) 14%, transparent),
+        transparent 50%
+      );
+    background-attachment: fixed;
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /*
+   * Display headings default to canopy green so an unstyled h1–h3 still matches
+   * the palette rather than inheriting body grey or a dark UA colour. Explicit
+   * utilities (text-card on dark bands, text-primary, …) still win via cascade.
+   */
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    color: var(--color-brand);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  /*
+   * Smooth hover everywhere. Interactive elements that omit a Tailwind
+   * `transition-*` class still ease over 300ms. Utilities with an explicit
+   * duration (image zooms, header collapse) keep their own timing.
+   */
+  a,
+  button,
+  [role="button"],
+  [role="tab"],
+  [role="menuitem"],
+  [role="option"],
+  [role="switch"],
+  [role="checkbox"],
+  [role="radio"],
+  summary,
+  select,
+  label,
+  input[type="checkbox"],
+  input[type="radio"] {
+    cursor: pointer;
+    transition-property: color, background-color, border-color, outline-color,
+      text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+  }
+
+  button:disabled,
+  [aria-disabled="true"] {
+    cursor: not-allowed;
+  }
+
+  ::placeholder {
+    color: var(--color-subtle-foreground);
+    opacity: 1;
+  }
+
+  input,
+  textarea,
+  select,
+  button {
+    font: inherit;
+    color: inherit;
+  }
+
+  /* Keep native form widgets light even when the OS is in dark mode. */
+  input:not([type="checkbox"]):not([type="radio"]),
+  textarea,
+  select {
+    background-color: var(--color-card);
+    color: var(--color-foreground);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+}
+
+@utility shell {
+  margin-inline: auto;
+  width: 100%;
+  max-width: var(--spacing-shell);
+  padding-inline: clamp(1rem, 3vw, 2rem);
+}
+
+@utility scroll-slim {
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    height: 7px;
+    width: 7px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: color-mix(in oklab, var(--color-subtle-foreground) 45%, transparent);
+    border-radius: 99px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* ── Sonner toaster (branded via project tokens) ─────────────────────────── */
+[data-sonner-toaster].grovia-toaster {
+  --normal-bg: var(--color-card);
+  --normal-border: var(--color-border);
+  --normal-text: var(--color-foreground);
+  --success-bg: var(--color-card);
+  --success-border: color-mix(in oklab, var(--color-primary) 28%, var(--color-border));
+  --success-text: var(--color-brand);
+  --error-bg: var(--color-card);
+  --error-border: color-mix(in oklab, var(--color-danger) 32%, var(--color-border));
+  --error-text: var(--color-danger);
+  --warning-bg: var(--color-card);
+  --warning-border: color-mix(in oklab, var(--color-warning) 38%, var(--color-border));
+  --warning-text: var(--color-foreground);
+  --info-bg: var(--color-card);
+  --info-border: color-mix(in oklab, var(--color-info) 30%, var(--color-border));
+  --info-text: var(--color-foreground);
+  font-family: var(--font-sans);
+}
+
+[data-sonner-toaster].grovia-toaster [data-sonner-toast] {
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-pop);
+}
+
+[data-sonner-toaster].grovia-toaster [data-close-button] {
+  border-color: var(--color-border);
+  background: var(--color-card);
+  color: var(--color-muted-foreground);
+}
+
+[data-sonner-toaster].grovia-toaster [data-button][data-action] {
+  background: var(--color-primary);
+  color: var(--color-card);
+  font-weight: 700;
+}
+
+/*
+ * Tailwind v4 preflight no longer sets cursor: pointer on buttons. Every
+ * clickable control in the three apps should read as clickable, so restore it
+ * here once instead of per component — and keep disabled controls honest.
+ */
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  [role="tab"]:not([aria-disabled="true"]),
+  [role="switch"]:not([aria-disabled="true"]),
+  [role="menuitem"]:not([aria-disabled="true"]),
+  [role="option"]:not([aria-disabled="true"]),
+  [role="combobox"]:not([aria-disabled="true"]),
+  label[for],
+  summary,
+  select:not(:disabled) {
+    cursor: pointer;
+  }
+  button:disabled,
+  [aria-disabled="true"] {
+    cursor: not-allowed;
+  }
+}

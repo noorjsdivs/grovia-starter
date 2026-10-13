@@ -1,0 +1,1622 @@
+{
+  "/images/products/kent-strawberries.png::products/kent-strawberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/kent-strawberries/kent-strawberries_X3HRWV18B.png",
+    "fileId": "6a6f31665c7cd75eb8af941f",
+    "folder": "grovia/products/kent-strawberries",
+    "uploadedAt": "2026-08-02T12:00:38.741Z"
+  },
+  "/images/products/juicy-vine-tomatoes.png::products/juicy-vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/juicy-vine-tomatoes/juicy-vine-tomatoes_X-dxX18DK.png",
+    "fileId": "6a6f31675c7cd75eb8afaae4",
+    "folder": "grovia/products/juicy-vine-tomatoes",
+    "uploadedAt": "2026-08-02T12:00:40.371Z"
+  },
+  "/images/products/hass-avocados.png::products/hass-avocados": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/hass-avocados/hass-avocados_0XHAC9RRt.png",
+    "fileId": "6a6f31695c7cd75eb8afbda8",
+    "folder": "grovia/products/hass-avocados",
+    "uploadedAt": "2026-08-02T12:00:41.800Z"
+  },
+  "/images/products/tender-okra.png::products/tender-okra": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/tender-okra/tender-okra_SaJgdOgAf.png",
+    "fileId": "6a6f316a5c7cd75eb8afce42",
+    "folder": "grovia/products/tender-okra",
+    "uploadedAt": "2026-08-02T12:00:43.070Z"
+  },
+  "/images/products/crown-broccoli.png::products/crown-broccoli": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/crown-broccoli/crown-broccoli_5_RzQY5uC.png",
+    "fileId": "6a6f316b5c7cd75eb8afdf2d",
+    "folder": "grovia/products/crown-broccoli",
+    "uploadedAt": "2026-08-02T12:00:44.399Z"
+  },
+  "/images/products/seedless-watermelon.png::products/seedless-watermelon": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/seedless-watermelon/seedless-watermelon_mSb7a8uaU.png",
+    "fileId": "6a6f316d5c7cd75eb8aff3d7",
+    "folder": "grovia/products/seedless-watermelon",
+    "uploadedAt": "2026-08-02T12:00:45.773Z"
+  },
+  "/images/products/alphonso-mango.png::products/alphonso-mango": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/alphonso-mango/alphonso-mango_dFfDF5fTL.png",
+    "fileId": "6a6f316e5c7cd75eb8b00791",
+    "folder": "grovia/products/alphonso-mango",
+    "uploadedAt": "2026-08-02T12:00:47.113Z"
+  },
+  "/images/products/baby-potatoes.png::products/baby-potatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-potatoes/baby-potatoes_6zLNC2SYa.png",
+    "fileId": "6a6f316f5c7cd75eb8b01aea",
+    "folder": "grovia/products/baby-potatoes",
+    "uploadedAt": "2026-08-02T12:00:48.442Z"
+  },
+  "/images/products/green-cabbage.png::products/green-cabbage": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/green-cabbage/green-cabbage_94EPfvcEL.png",
+    "fileId": "6a6f31715c7cd75eb8b02bfe",
+    "folder": "grovia/products/green-cabbage",
+    "uploadedAt": "2026-08-02T12:00:49.786Z"
+  },
+  "/images/products/persian-limes.png::products/persian-limes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/persian-limes/persian-limes_yL0nvcqtg.png",
+    "fileId": "6a6f31725c7cd75eb8b03936",
+    "folder": "grovia/products/persian-limes",
+    "uploadedAt": "2026-08-02T12:00:51.139Z"
+  },
+  "/images/products/sweet-snacking-carrots.png::products/sweet-snacking-carrots": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sweet-snacking-carrots/sweet-snacking-carrots_a7j2jax1N.png",
+    "fileId": "6a6f31735c7cd75eb8b043aa",
+    "folder": "grovia/products/sweet-snacking-carrots",
+    "uploadedAt": "2026-08-02T12:00:52.459Z"
+  },
+  "/images/products/roma-tomatoes.png::products/roma-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/roma-tomatoes/roma-tomatoes_c-qe0tSEe.png",
+    "fileId": "6a6f31755c7cd75eb8b04cf4",
+    "folder": "grovia/products/roma-tomatoes",
+    "uploadedAt": "2026-08-02T12:00:53.721Z"
+  },
+  "/images/products/california-walnut-halves.png::products/california-walnut-halves": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/california-walnut-halves/california-walnut-halves_nLG8A0fkI.png",
+    "fileId": "6a6f31765c7cd75eb8b0556c",
+    "folder": "grovia/products/california-walnut-halves",
+    "uploadedAt": "2026-08-02T12:00:55.042Z"
+  },
+  "/images/products/grass-fed-beef-patties.png::products/grass-fed-beef-patties": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/grass-fed-beef-patties/grass-fed-beef-patties_A_vMaD5O9.png",
+    "fileId": "6a6f31775c7cd75eb8b05e8d",
+    "folder": "grovia/products/grass-fed-beef-patties",
+    "uploadedAt": "2026-08-02T12:00:56.390Z"
+  },
+  "/images/products/atlantic-salmon-steaks.png::products/atlantic-salmon-steaks": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/atlantic-salmon-steaks/atlantic-salmon-steaks_YG0EDlsQT.png",
+    "fileId": "6a6f31795c7cd75eb8b06868",
+    "folder": "grovia/products/atlantic-salmon-steaks",
+    "uploadedAt": "2026-08-02T12:00:57.738Z"
+  },
+  "/images/products/milho-verde-sweetcorn-lollies.jpg::products/milho-verde-sweetcorn-lollies": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/milho-verde-sweetcorn-lollies/milho-verde-sweetcorn-lollies_SD2QkqH7M.jpg",
+    "fileId": "6a6f317a5c7cd75eb8b071f9",
+    "folder": "grovia/products/milho-verde-sweetcorn-lollies",
+    "uploadedAt": "2026-08-02T12:00:59.037Z"
+  },
+  "/images/products/vine-tomatoes.png::products/vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/vine-tomatoes/vine-tomatoes_mzvktpMp6.png",
+    "fileId": "6a6f317b5c7cd75eb8b07c80",
+    "folder": "grovia/products/vine-tomatoes",
+    "uploadedAt": "2026-08-02T12:01:00.276Z"
+  },
+  "/images/products/alphonso-mango.png::categories/fruits": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/fruits/alphonso-mango_j6h1gHcCh.png",
+    "fileId": "6a6f317d5c7cd75eb8b08f9e",
+    "folder": "grovia/categories/fruits",
+    "uploadedAt": "2026-08-02T12:01:01.544Z"
+  },
+  "/images/products/crown-broccoli.png::categories/vegetables": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/vegetables/crown-broccoli_7z0iGR-Sh.png",
+    "fileId": "6a6f317e5c7cd75eb8b0a6ba",
+    "folder": "grovia/categories/vegetables",
+    "uploadedAt": "2026-08-02T12:01:02.886Z"
+  },
+  "/images/products/grass-fed-beef-patties.png::categories/meat": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/meat/grass-fed-beef-patties_jo3dtVCbt.png",
+    "fileId": "6a6f317f5c7cd75eb8b0b99f",
+    "folder": "grovia/categories/meat",
+    "uploadedAt": "2026-08-02T12:01:04.203Z"
+  },
+  "/images/products/atlantic-salmon-steaks.png::categories/seafood": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/seafood/atlantic-salmon-steaks_OrVBDYVjr.png",
+    "fileId": "6a6f31815c7cd75eb8b0d028",
+    "folder": "grovia/categories/seafood",
+    "uploadedAt": "2026-08-02T12:01:05.533Z"
+  },
+  "/images/products/california-walnut-halves.png::categories/pantry": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/pantry/california-walnut-halves_loKK6bT2Z.png",
+    "fileId": "6a6f31825c7cd75eb8b0e26c",
+    "folder": "grovia/categories/pantry",
+    "uploadedAt": "2026-08-02T12:01:06.873Z"
+  },
+  "/images/products/milho-verde-sweetcorn-lollies.jpg::categories/frozen": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/frozen/milho-verde-sweetcorn-lollies_V23-ivSim.jpg",
+    "fileId": "6a6f31835c7cd75eb8b0f454",
+    "folder": "grovia/categories/frozen",
+    "uploadedAt": "2026-08-02T12:01:08.090Z"
+  },
+  "/images/shops/greenfield-grocers.svg::sellers/greenfield-grocers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/sellers/greenfield-grocers/greenfield-grocers_iifnavZJ0.svg",
+    "fileId": "6a6f31845c7cd75eb8b1061e",
+    "folder": "grovia/sellers/greenfield-grocers",
+    "uploadedAt": "2026-08-02T12:01:09.491Z"
+  },
+  "/images/shops/harvest-lane.svg::sellers/harvest-lane": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/sellers/harvest-lane/harvest-lane_UioH08WWH.svg",
+    "fileId": "6a6f31865c7cd75eb8b118a4",
+    "folder": "grovia/sellers/harvest-lane",
+    "uploadedAt": "2026-08-02T12:01:10.828Z"
+  },
+  "/images/shops/cold-press-co.svg::sellers/cold-press-co": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/sellers/cold-press-co/cold-press-co_R-VF24LeH.svg",
+    "fileId": "6a6f31875c7cd75eb8b12b67",
+    "folder": "grovia/sellers/cold-press-co",
+    "uploadedAt": "2026-08-02T12:01:12.241Z"
+  },
+  "/images/blog/journal-01.jpg::blogs/10-essential-grocery-items-every-home-should-have": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/10-essential-grocery-items-every-home-should-have/journal-01_pFn_0xVAQ.jpg",
+    "fileId": "6a6f31895c7cd75eb8b13f75",
+    "folder": "grovia/blogs/10-essential-grocery-items-every-home-should-have",
+    "uploadedAt": "2026-08-02T12:01:13.559Z"
+  },
+  "/images/blog/journal-02.jpg::blogs/smart-grocery-shopping-tips-to-save-money-every-week": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/smart-grocery-shopping-tips-to-save-money-every-week/journal-02_XIm3JqViH.jpg",
+    "fileId": "6a6f318a5c7cd75eb8b1513f",
+    "folder": "grovia/blogs/smart-grocery-shopping-tips-to-save-money-every-week",
+    "uploadedAt": "2026-08-02T12:01:14.799Z"
+  },
+  "/images/blog/journal-03.jpg::blogs/how-to-choose-fresh-fruits-and-vegetables-like-a-pro": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/how-to-choose-fresh-fruits-and-vegetables-like-a-pro/journal-03_KZmKBC9BD.jpg",
+    "fileId": "6a6f318b5c7cd75eb8b15fb5",
+    "folder": "grovia/blogs/how-to-choose-fresh-fruits-and-vegetables-like-a-pro",
+    "uploadedAt": "2026-08-02T12:01:16.125Z"
+  },
+  "/images/blog/journal-04.jpg::blogs/weekly-grocery-list-what-to-buy-for-a-healthy-lifestyle": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/weekly-grocery-list-what-to-buy-for-a-healthy-lifestyle/journal-04_lLsATcZZ0.jpg",
+    "fileId": "6a6f318c5c7cd75eb8b169bf",
+    "folder": "grovia/blogs/weekly-grocery-list-what-to-buy-for-a-healthy-lifestyle",
+    "uploadedAt": "2026-08-02T12:01:17.429Z"
+  },
+  "/images/blog/journal-05.jpg::blogs/top-pantry-staples-you-should-always-keep-stocked": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/top-pantry-staples-you-should-always-keep-stocked/journal-05_GunZiUEmS.jpg",
+    "fileId": "6a6f318e5c7cd75eb8b173fc",
+    "folder": "grovia/blogs/top-pantry-staples-you-should-always-keep-stocked",
+    "uploadedAt": "2026-08-02T12:01:18.718Z"
+  },
+  "/images/blog/journal-06.jpg::blogs/organic-vs-regular-what-should-you-actually-choose": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/organic-vs-regular-what-should-you-actually-choose/journal-06_jq0DsWfyj.jpg",
+    "fileId": "6a6f318f5c7cd75eb8b17d3d",
+    "folder": "grovia/blogs/organic-vs-regular-what-should-you-actually-choose",
+    "uploadedAt": "2026-08-02T12:01:19.945Z"
+  },
+  "/images/blog/journal-01.jpg::blogs/batch-cooking-for-people-who-hate-batch-cooking": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/batch-cooking-for-people-who-hate-batch-cooking/journal-01_RXQfCYZTv.jpg",
+    "fileId": "6a6f31905c7cd75eb8b185fc",
+    "folder": "grovia/blogs/batch-cooking-for-people-who-hate-batch-cooking",
+    "uploadedAt": "2026-08-02T12:01:21.186Z"
+  },
+  "/images/blog/journal-02.jpg::blogs/the-cold-chain-explained-in-plain-language": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/the-cold-chain-explained-in-plain-language/journal-02_2hs-L6mT8.jpg",
+    "fileId": "6a6f31925c7cd75eb8b18dbf",
+    "folder": "grovia/blogs/the-cold-chain-explained-in-plain-language",
+    "uploadedAt": "2026-08-02T12:01:22.523Z"
+  },
+  "/images/blog/journal-03.jpg::blogs/reading-a-label-without-falling-for-it": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/reading-a-label-without-falling-for-it/journal-03_aJ_MI2u3S.jpg",
+    "fileId": "6a6f31935c7cd75eb8b195f9",
+    "folder": "grovia/blogs/reading-a-label-without-falling-for-it",
+    "uploadedAt": "2026-08-02T12:01:23.771Z"
+  },
+  "/images/blog/journal-04.jpg::blogs/seasonal-eating-without-a-wall-chart": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/seasonal-eating-without-a-wall-chart/journal-04_iPArTWkYv_.jpg",
+    "fileId": "6a6f31945c7cd75eb8b19b80",
+    "folder": "grovia/blogs/seasonal-eating-without-a-wall-chart",
+    "uploadedAt": "2026-08-02T12:01:25.055Z"
+  },
+  "/images/blog/journal-05.jpg::blogs/how-to-store-herbs-so-they-last-a-fortnight": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/how-to-store-herbs-so-they-last-a-fortnight/journal-05_jvBinZXfQ.jpg",
+    "fileId": "6a6f31955c7cd75eb8b1abe1",
+    "folder": "grovia/blogs/how-to-store-herbs-so-they-last-a-fortnight",
+    "uploadedAt": "2026-08-02T12:01:26.351Z"
+  },
+  "/images/blog/journal-06.jpg::blogs/what-a-fair-price-for-fish-actually-looks-like": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/what-a-fair-price-for-fish-actually-looks-like/journal-06_rFF8blhKB.jpg",
+    "fileId": "6a6f31975c7cd75eb8b1bc06",
+    "folder": "grovia/blogs/what-a-fair-price-for-fish-actually-looks-like",
+    "uploadedAt": "2026-08-02T12:01:27.919Z"
+  },
+  "/images/blog/journal-07.jpg::blogs/meal-planning-for-a-household-of-one": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/meal-planning-for-a-household-of-one/journal-07_FY22SDtan.jpg",
+    "fileId": "6a6f31985c7cd75eb8b1d009",
+    "folder": "grovia/blogs/meal-planning-for-a-household-of-one",
+    "uploadedAt": "2026-08-02T12:01:29.222Z"
+  },
+  "/images/blog/journal-01.jpg::blogs/our-growers-the-vale-orchard-twelve-years-on": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/our-growers-the-vale-orchard-twelve-years-on/journal-01_sS9mJgUCt.jpg",
+    "fileId": "6a6f319a5c7cd75eb8b1e6e6",
+    "folder": "grovia/blogs/our-growers-the-vale-orchard-twelve-years-on",
+    "uploadedAt": "2026-08-02T12:01:30.546Z"
+  },
+  "/images/blog/journal-02.jpg::blogs/the-freezer-is-not-a-graveyard": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/the-freezer-is-not-a-graveyard/journal-02_lGv3jHH2z.jpg",
+    "fileId": "6a6f319b5c7cd75eb8b1f84e",
+    "folder": "grovia/blogs/the-freezer-is-not-a-graveyard",
+    "uploadedAt": "2026-08-02T12:01:31.901Z"
+  },
+  "/images/blog/journal-03.jpg::blogs/breakfast-that-survives-a-weekday-morning": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/breakfast-that-survives-a-weekday-morning/journal-03_kOvwLWgzm.jpg",
+    "fileId": "6a6f319c5c7cd75eb8b20a6a",
+    "folder": "grovia/blogs/breakfast-that-survives-a-weekday-morning",
+    "uploadedAt": "2026-08-02T12:01:33.217Z"
+  },
+  "/images/products/crown-broccoli.png::banners/shop-the-smart-way-anytime-anywhere": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/shop-the-smart-way-anytime-anywhere/crown-broccoli_6HIv_m3gG.png",
+    "fileId": "6a6f319e5c7cd75eb8b21c99",
+    "folder": "grovia/banners/shop-the-smart-way-anytime-anywhere",
+    "uploadedAt": "2026-08-02T12:01:34.536Z"
+  },
+  "/images/products/alphonso-mango.png::banners/picked-at-dawn-on-your-table-by-lunch": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/picked-at-dawn-on-your-table-by-lunch/alphonso-mango_MlnCiaeUg.png",
+    "fileId": "6a6f319f5c7cd75eb8b22d65",
+    "folder": "grovia/banners/picked-at-dawn-on-your-table-by-lunch",
+    "uploadedAt": "2026-08-02T12:01:35.895Z"
+  },
+  "/images/products/kent-strawberries.png::banners/free-delivery-on-every-single-order": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/free-delivery-on-every-single-order/kent-strawberries_e5QFaJwk_.png",
+    "fileId": "6a6f31a05c7cd75eb8b23e37",
+    "folder": "grovia/banners/free-delivery-on-every-single-order",
+    "uploadedAt": "2026-08-02T12:01:37.158Z"
+  },
+  "/images/people/priya-nandakumar.jpg::people/priya-nandakumar": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/priya-nandakumar/priya-nandakumar_l0xNBd7jk.jpg",
+    "fileId": "6a6f31a15c7cd75eb8b25166",
+    "folder": "grovia/people/priya-nandakumar",
+    "uploadedAt": "2026-08-02T12:01:38.446Z"
+  },
+  "/images/people/jonas-weber.svg::people/jonas-weber": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/jonas-weber/jonas-weber_KY5yczbvl.svg",
+    "fileId": "6a6f31a35c7cd75eb8b26abc",
+    "folder": "grovia/people/jonas-weber",
+    "uploadedAt": "2026-08-02T12:01:39.784Z"
+  },
+  "/images/people/anya-volkova.jpg::people/anya-volkova": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/anya-volkova/anya-volkova_0oPpumoIJ.jpg",
+    "fileId": "6a6f31a45c7cd75eb8b2773d",
+    "folder": "grovia/people/anya-volkova",
+    "uploadedAt": "2026-08-02T12:01:41.058Z"
+  },
+  "/images/people/marcus-bell.jpg::people/marcus-bell": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/marcus-bell/marcus-bell_6zo5ka6ZD.jpg",
+    "fileId": "6a6f31a55c7cd75eb8b27c08",
+    "folder": "grovia/people/marcus-bell",
+    "uploadedAt": "2026-08-02T12:01:42.344Z"
+  },
+  "/images/people/mei-lin-chow.svg::people/mei-lin-chow": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/mei-lin-chow/mei-lin-chow_0VmpjC__g.svg",
+    "fileId": "6a6f31a75c7cd75eb8b28141",
+    "folder": "grovia/people/mei-lin-chow",
+    "uploadedAt": "2026-08-02T12:01:43.671Z"
+  },
+  "/images/people/daniel-osei.jpg::people/daniel-osei": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/daniel-osei/daniel-osei_B2v2WeEDq.jpg",
+    "fileId": "6a6f31a85c7cd75eb8b286bf",
+    "folder": "grovia/people/daniel-osei",
+    "uploadedAt": "2026-08-02T12:01:44.951Z"
+  },
+  "/images/people/leslie-alexander.jpg::people/leslie-alexander": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/leslie-alexander/leslie-alexander_uDQLajQzH.jpg",
+    "fileId": "6a6f31a95c7cd75eb8b28c21",
+    "folder": "grovia/people/leslie-alexander",
+    "uploadedAt": "2026-08-02T12:01:46.234Z"
+  },
+  "/images/hero/winter-sale.svg::banners/wintersale": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/wintersale/winter-sale_CLhdLqKPc.svg",
+    "fileId": "6a6f31aa5c7cd75eb8b2930a",
+    "folder": "grovia/banners/wintersale",
+    "uploadedAt": "2026-08-02T12:01:47.602Z"
+  },
+  "/images/editorial/tote-of-veg.jpg::banners/daily": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/daily/tote-of-veg_y8rdZSC7b.jpg",
+    "fileId": "6a6f31ac5c7cd75eb8b299b8",
+    "folder": "grovia/banners/daily",
+    "uploadedAt": "2026-08-02T12:01:48.905Z"
+  },
+  "/images/editorial/handful-of-produce.jpg::banners/delivery": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/delivery/handful-of-produce_ek-iE1UOk.jpg",
+    "fileId": "6a6f31ad5c7cd75eb8b2a070",
+    "folder": "grovia/banners/delivery",
+    "uploadedAt": "2026-08-02T12:01:50.118Z"
+  },
+  "/images/editorial/veg-basket.jpg::banners/newlaunch": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/newlaunch/veg-basket_n7dBeVJQ0.jpg",
+    "fileId": "6a6f31ae5c7cd75eb8b2afed",
+    "folder": "grovia/banners/newlaunch",
+    "uploadedAt": "2026-08-02T12:01:51.406Z"
+  },
+  "/images/hero/about-hero.svg::banners/about": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/about/about-hero_QR4zC4wlG.svg",
+    "fileId": "6a6f31b05c7cd75eb8b2bf5c",
+    "folder": "grovia/banners/about",
+    "uploadedAt": "2026-08-02T12:01:52.731Z"
+  },
+  "/images/editorial/tote-of-veg.jpg::editorial/tote": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/editorial/tote/tote-of-veg_uq6UMcoLF.jpg",
+    "fileId": "6a6f31b15c7cd75eb8b2d135",
+    "folder": "grovia/editorial/tote",
+    "uploadedAt": "2026-08-02T12:01:54.027Z"
+  },
+  "/images/editorial/veg-basket.jpg::editorial/basket": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/editorial/basket/veg-basket_1Soke4n9y.jpg",
+    "fileId": "6a6f31b25c7cd75eb8b2e0e8",
+    "folder": "grovia/editorial/basket",
+    "uploadedAt": "2026-08-02T12:01:55.236Z"
+  },
+  "/images/editorial/handful-of-produce.jpg::editorial/handful": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/editorial/handful/handful-of-produce_E0w9OC0Im.jpg",
+    "fileId": "6a6f31b45c7cd75eb8b2f174",
+    "folder": "grovia/editorial/handful",
+    "uploadedAt": "2026-08-02T12:01:56.545Z"
+  },
+  "/images/brand/payment-cards.png::brand": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/brand/payment-cards_3wbTTDqzf.png",
+    "fileId": "6a6f31b55c7cd75eb8b3009b",
+    "folder": "grovia/brand",
+    "uploadedAt": "2026-08-02T12:01:57.824Z"
+  },
+  "/images/products/kent-strawberries/02.png::products/kent-strawberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/kent-strawberries/02_N7ca_ajpD.png",
+    "fileId": "6aa244b2ead997d09ae55efd",
+    "folder": "grovia/products/kent-strawberries",
+    "uploadedAt": "2026-09-10T05:48:33.083Z"
+  },
+  "/images/products/kent-strawberries/03.png::products/kent-strawberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/kent-strawberries/03_sa5Aq9_Tu.png",
+    "fileId": "6aa244b4ead997d09ae56c63",
+    "folder": "grovia/products/kent-strawberries",
+    "uploadedAt": "2026-09-10T05:48:34.756Z"
+  },
+  "/images/products/kent-strawberries/04.png::products/kent-strawberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/kent-strawberries/04_HLZLC5ASca.png",
+    "fileId": "6aa244b5ead997d09ae57018",
+    "folder": "grovia/products/kent-strawberries",
+    "uploadedAt": "2026-09-10T05:48:36.178Z"
+  },
+  "/images/products/juicy-vine-tomatoes/02.png::products/juicy-vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/juicy-vine-tomatoes/02_sMy2daCg4T.png",
+    "fileId": "6aa244b7ead997d09ae57705",
+    "folder": "grovia/products/juicy-vine-tomatoes",
+    "uploadedAt": "2026-09-10T05:48:38.033Z"
+  },
+  "/images/products/juicy-vine-tomatoes/03.png::products/juicy-vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/juicy-vine-tomatoes/03_7RQtA789w.png",
+    "fileId": "6aa244b8ead997d09ae57cf0",
+    "folder": "grovia/products/juicy-vine-tomatoes",
+    "uploadedAt": "2026-09-10T05:48:39.388Z"
+  },
+  "/images/products/juicy-vine-tomatoes/04.png::products/juicy-vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/juicy-vine-tomatoes/04_RBCrBT9PG.png",
+    "fileId": "6aa244baead997d09ae5810a",
+    "folder": "grovia/products/juicy-vine-tomatoes",
+    "uploadedAt": "2026-09-10T05:48:40.851Z"
+  },
+  "/images/products/hass-avocados/02.png::products/hass-avocados": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/hass-avocados/02_c6keBr1UB9.png",
+    "fileId": "6aa244bbead997d09ae5849a",
+    "folder": "grovia/products/hass-avocados",
+    "uploadedAt": "2026-09-10T05:48:42.195Z"
+  },
+  "/images/products/hass-avocados/03.png::products/hass-avocados": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/hass-avocados/03_dTncBelz5.png",
+    "fileId": "6aa244bdead997d09ae5889e",
+    "folder": "grovia/products/hass-avocados",
+    "uploadedAt": "2026-09-10T05:48:43.529Z"
+  },
+  "/images/products/hass-avocados/04.png::products/hass-avocados": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/hass-avocados/04_T0wPKFoW-e.png",
+    "fileId": "6aa244beead997d09ae590a7",
+    "folder": "grovia/products/hass-avocados",
+    "uploadedAt": "2026-09-10T05:48:45.483Z"
+  },
+  "/images/products/tender-okra/02.png::products/tender-okra": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/tender-okra/02_AVHHvRwQxh.png",
+    "fileId": "6aa244c0ead997d09ae59a11",
+    "folder": "grovia/products/tender-okra",
+    "uploadedAt": "2026-09-10T05:48:46.771Z"
+  },
+  "/images/products/tender-okra/03.png::products/tender-okra": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/tender-okra/03_r12dhMA5Y4.png",
+    "fileId": "6aa244c1ead997d09ae5a086",
+    "folder": "grovia/products/tender-okra",
+    "uploadedAt": "2026-09-10T05:48:48.087Z"
+  },
+  "/images/products/tender-okra/04.png::products/tender-okra": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/tender-okra/04_h2K75s8PS.png",
+    "fileId": "6aa244c2ead997d09ae5ac67",
+    "folder": "grovia/products/tender-okra",
+    "uploadedAt": "2026-09-10T05:48:49.472Z"
+  },
+  "/images/products/tender-okra/05.png::products/tender-okra": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/tender-okra/05_jbwxvsB28.png",
+    "fileId": "6aa244c4ead997d09ae5bd93",
+    "folder": "grovia/products/tender-okra",
+    "uploadedAt": "2026-09-10T05:48:50.892Z"
+  },
+  "/images/products/crown-broccoli/02.png::products/crown-broccoli": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/crown-broccoli/02_oTNtH9iH3.png",
+    "fileId": "6aa244c5ead997d09ae5c25b",
+    "folder": "grovia/products/crown-broccoli",
+    "uploadedAt": "2026-09-10T05:48:52.399Z"
+  },
+  "/images/products/crown-broccoli/04.png::products/crown-broccoli": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/crown-broccoli/04_Us7g3BJ2Ba.png",
+    "fileId": "6aa244c7ead997d09ae5cbd1",
+    "folder": "grovia/products/crown-broccoli",
+    "uploadedAt": "2026-09-10T05:48:53.747Z"
+  },
+  "/images/products/crown-broccoli/06.png::products/crown-broccoli": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/crown-broccoli/06_BSWg1OSW7f.png",
+    "fileId": "6aa244c8ead997d09ae5d1c2",
+    "folder": "grovia/products/crown-broccoli",
+    "uploadedAt": "2026-09-10T05:48:55.181Z"
+  },
+  "/images/products/seedless-watermelon/02.png::products/seedless-watermelon": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/seedless-watermelon/02_bdu00Yu79c.png",
+    "fileId": "6aa244caead997d09ae5d781",
+    "folder": "grovia/products/seedless-watermelon",
+    "uploadedAt": "2026-09-10T05:48:56.759Z"
+  },
+  "/images/products/seedless-watermelon/03.png::products/seedless-watermelon": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/seedless-watermelon/03_rTcyZXVhWF.png",
+    "fileId": "6aa244cbead997d09ae5dfa6",
+    "folder": "grovia/products/seedless-watermelon",
+    "uploadedAt": "2026-09-10T05:48:58.158Z"
+  },
+  "/images/products/seedless-watermelon/04.png::products/seedless-watermelon": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/seedless-watermelon/04_tcqWvM07aj.png",
+    "fileId": "6aa244cdead997d09ae5e43c",
+    "folder": "grovia/products/seedless-watermelon",
+    "uploadedAt": "2026-09-10T05:48:59.505Z"
+  },
+  "/images/products/alphonso-mango/02.png::products/alphonso-mango": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/alphonso-mango/02_WWqVG0lTjL.png",
+    "fileId": "6aa244ceead997d09ae5e878",
+    "folder": "grovia/products/alphonso-mango",
+    "uploadedAt": "2026-09-10T05:49:00.871Z"
+  },
+  "/images/products/alphonso-mango/03.png::products/alphonso-mango": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/alphonso-mango/03_n4k_aWm3p.png",
+    "fileId": "6aa244cfead997d09ae5ed19",
+    "folder": "grovia/products/alphonso-mango",
+    "uploadedAt": "2026-09-10T05:49:02.475Z"
+  },
+  "/images/products/alphonso-mango/04.png::products/alphonso-mango": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/alphonso-mango/04_YYjFtrVYF.png",
+    "fileId": "6aa244d1ead997d09ae5f0ac",
+    "folder": "grovia/products/alphonso-mango",
+    "uploadedAt": "2026-09-10T05:49:03.937Z"
+  },
+  "/images/products/baby-potatoes/02.png::products/baby-potatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-potatoes/02_q-82HfeIk.png",
+    "fileId": "6aa244d2ead997d09ae5f471",
+    "folder": "grovia/products/baby-potatoes",
+    "uploadedAt": "2026-09-10T05:49:05.375Z"
+  },
+  "/images/products/baby-potatoes/03.png::products/baby-potatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-potatoes/03_7-SbXPMHtK.png",
+    "fileId": "6aa244d4ead997d09ae5ff27",
+    "folder": "grovia/products/baby-potatoes",
+    "uploadedAt": "2026-09-10T05:49:06.714Z"
+  },
+  "/images/products/baby-potatoes/04.png::products/baby-potatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-potatoes/04_ufnN7PzC-u.png",
+    "fileId": "6aa244d5ead997d09ae60217",
+    "folder": "grovia/products/baby-potatoes",
+    "uploadedAt": "2026-09-10T05:49:08.136Z"
+  },
+  "/images/products/green-cabbage/02.png::products/green-cabbage": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/green-cabbage/02_B6bTpagwr.png",
+    "fileId": "6aa244d7ead997d09ae605ee",
+    "folder": "grovia/products/green-cabbage",
+    "uploadedAt": "2026-09-10T05:49:09.790Z"
+  },
+  "/images/products/green-cabbage/03.png::products/green-cabbage": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/green-cabbage/03_zcdjZDzQqN.png",
+    "fileId": "6aa244d8ead997d09ae613f0",
+    "folder": "grovia/products/green-cabbage",
+    "uploadedAt": "2026-09-10T05:49:11.067Z"
+  },
+  "/images/products/green-cabbage/04.png::products/green-cabbage": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/green-cabbage/04_u3oF0cjsjU.png",
+    "fileId": "6aa244d9ead997d09ae61723",
+    "folder": "grovia/products/green-cabbage",
+    "uploadedAt": "2026-09-10T05:49:12.477Z"
+  },
+  "/images/products/persian-limes/02.png::products/persian-limes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/persian-limes/02_Qrd9sBF7z.png",
+    "fileId": "6aa244dbead997d09ae62443",
+    "folder": "grovia/products/persian-limes",
+    "uploadedAt": "2026-09-10T05:49:13.950Z"
+  },
+  "/images/products/persian-limes/03.png::products/persian-limes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/persian-limes/03_wjGUUG-wn.png",
+    "fileId": "6aa244dcead997d09ae62f44",
+    "folder": "grovia/products/persian-limes",
+    "uploadedAt": "2026-09-10T05:49:15.408Z"
+  },
+  "/images/products/persian-limes/04.png::products/persian-limes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/persian-limes/04_XB3GZusLG.png",
+    "fileId": "6aa244deead997d09ae632b9",
+    "folder": "grovia/products/persian-limes",
+    "uploadedAt": "2026-09-10T05:49:16.668Z"
+  },
+  "/images/products/sweet-snacking-carrots/02.png::products/sweet-snacking-carrots": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sweet-snacking-carrots/02_LEYXwluLnr.png",
+    "fileId": "6aa244dfead997d09ae63567",
+    "folder": "grovia/products/sweet-snacking-carrots",
+    "uploadedAt": "2026-09-10T05:49:17.924Z"
+  },
+  "/images/products/sweet-snacking-carrots/03.png::products/sweet-snacking-carrots": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sweet-snacking-carrots/03_lvwAkBa63S.png",
+    "fileId": "6aa244e0ead997d09ae63905",
+    "folder": "grovia/products/sweet-snacking-carrots",
+    "uploadedAt": "2026-09-10T05:49:19.339Z"
+  },
+  "/images/products/sweet-snacking-carrots/04.png::products/sweet-snacking-carrots": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sweet-snacking-carrots/04_sZfBm0Trc.png",
+    "fileId": "6aa244e2ead997d09ae63c88",
+    "folder": "grovia/products/sweet-snacking-carrots",
+    "uploadedAt": "2026-09-10T05:49:20.631Z"
+  },
+  "/images/products/sweet-snacking-carrots/05.png::products/sweet-snacking-carrots": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sweet-snacking-carrots/05_SFx-IFkyim.png",
+    "fileId": "6aa244e3ead997d09ae64504",
+    "folder": "grovia/products/sweet-snacking-carrots",
+    "uploadedAt": "2026-09-10T05:49:22.003Z"
+  },
+  "/images/products/sweet-snacking-carrots/06.png::products/sweet-snacking-carrots": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sweet-snacking-carrots/06_6Unx7kWax.png",
+    "fileId": "6aa244e4ead997d09ae64af4",
+    "folder": "grovia/products/sweet-snacking-carrots",
+    "uploadedAt": "2026-09-10T05:49:23.320Z"
+  },
+  "/images/products/roma-tomatoes/02.png::products/roma-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/roma-tomatoes/02_Y3SYqrhlEq.png",
+    "fileId": "6aa244e6ead997d09ae6525f",
+    "folder": "grovia/products/roma-tomatoes",
+    "uploadedAt": "2026-09-10T05:49:24.637Z"
+  },
+  "/images/products/roma-tomatoes/03.png::products/roma-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/roma-tomatoes/03_e5XFtBx4st.png",
+    "fileId": "6aa244e7ead997d09ae6570f",
+    "folder": "grovia/products/roma-tomatoes",
+    "uploadedAt": "2026-09-10T05:49:26.102Z"
+  },
+  "/images/products/roma-tomatoes/04.png::products/roma-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/roma-tomatoes/04_wRcFzTl1o.png",
+    "fileId": "6aa244e8ead997d09ae65a59",
+    "folder": "grovia/products/roma-tomatoes",
+    "uploadedAt": "2026-09-10T05:49:27.490Z"
+  },
+  "/images/products/california-walnut-halves/02.png::products/california-walnut-halves": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/california-walnut-halves/02_ooDte-vBR.png",
+    "fileId": "6aa244eaead997d09ae65d97",
+    "folder": "grovia/products/california-walnut-halves",
+    "uploadedAt": "2026-09-10T05:49:28.930Z"
+  },
+  "/images/products/california-walnut-halves/03.png::products/california-walnut-halves": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/california-walnut-halves/03_Fu4Hu2atH.png",
+    "fileId": "6aa244ebead997d09ae6611a",
+    "folder": "grovia/products/california-walnut-halves",
+    "uploadedAt": "2026-09-10T05:49:30.287Z"
+  },
+  "/images/products/california-walnut-halves/04.png::products/california-walnut-halves": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/california-walnut-halves/04_MCnvQeplx.png",
+    "fileId": "6aa244edead997d09ae66706",
+    "folder": "grovia/products/california-walnut-halves",
+    "uploadedAt": "2026-09-10T05:49:31.642Z"
+  },
+  "/images/products/grass-fed-beef-patties/02.png::products/grass-fed-beef-patties": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/grass-fed-beef-patties/02_Eb83Dqbnd.png",
+    "fileId": "6aa244eeead997d09ae67063",
+    "folder": "grovia/products/grass-fed-beef-patties",
+    "uploadedAt": "2026-09-10T05:49:32.901Z"
+  },
+  "/images/products/grass-fed-beef-patties/03.png::products/grass-fed-beef-patties": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/grass-fed-beef-patties/03_F5HcATz2o5.png",
+    "fileId": "6aa244efead997d09ae67528",
+    "folder": "grovia/products/grass-fed-beef-patties",
+    "uploadedAt": "2026-09-10T05:49:34.233Z"
+  },
+  "/images/products/atlantic-salmon-steaks/02.png::products/atlantic-salmon-steaks": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/atlantic-salmon-steaks/02_hKUWC4_Kg.png",
+    "fileId": "6aa244f1ead997d09ae67eb8",
+    "folder": "grovia/products/atlantic-salmon-steaks",
+    "uploadedAt": "2026-09-10T05:49:35.782Z"
+  },
+  "/images/products/atlantic-salmon-steaks/03.png::products/atlantic-salmon-steaks": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/atlantic-salmon-steaks/03_evXweKQRO_.png",
+    "fileId": "6aa244f2ead997d09ae68681",
+    "folder": "grovia/products/atlantic-salmon-steaks",
+    "uploadedAt": "2026-09-10T05:49:37.187Z"
+  },
+  "/images/products/milho-verde-sweetcorn-lollies/02.png::products/milho-verde-sweetcorn-lollies": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/milho-verde-sweetcorn-lollies/02_milaRnUgw.png",
+    "fileId": "6aa244f4ead997d09ae69469",
+    "folder": "grovia/products/milho-verde-sweetcorn-lollies",
+    "uploadedAt": "2026-09-10T05:49:38.542Z"
+  },
+  "/images/products/milho-verde-sweetcorn-lollies/03.png::products/milho-verde-sweetcorn-lollies": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/milho-verde-sweetcorn-lollies/03_3FFlYt-BQj.png",
+    "fileId": "6aa244f5ead997d09ae6a19b",
+    "folder": "grovia/products/milho-verde-sweetcorn-lollies",
+    "uploadedAt": "2026-09-10T05:49:40.002Z"
+  },
+  "/images/products/milho-verde-sweetcorn-lollies/04.png::products/milho-verde-sweetcorn-lollies": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/milho-verde-sweetcorn-lollies/04_FqEtqk37Q.png",
+    "fileId": "6aa244f6ead997d09ae6ad63",
+    "folder": "grovia/products/milho-verde-sweetcorn-lollies",
+    "uploadedAt": "2026-09-10T05:49:41.471Z"
+  },
+  "/images/products/vine-tomatoes/02.png::products/vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/vine-tomatoes/02_SnEsC3VACi.png",
+    "fileId": "6aa244f8ead997d09ae6b199",
+    "folder": "grovia/products/vine-tomatoes",
+    "uploadedAt": "2026-09-10T05:49:42.815Z"
+  },
+  "/images/products/vine-tomatoes/03.png::products/vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/vine-tomatoes/03_yx5m2j1_C.png",
+    "fileId": "6aa244f9ead997d09ae6b5fe",
+    "folder": "grovia/products/vine-tomatoes",
+    "uploadedAt": "2026-09-10T05:49:44.265Z"
+  },
+  "/images/products/vine-tomatoes/04.png::products/vine-tomatoes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/vine-tomatoes/04_bkz9VlMZz.png",
+    "fileId": "6aa244fbead997d09ae6b917",
+    "folder": "grovia/products/vine-tomatoes",
+    "uploadedAt": "2026-09-10T05:49:45.623Z"
+  },
+  "/images/products/wild-blueberries/01.png::products/wild-blueberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/wild-blueberries/01_exU3RfAPd.png",
+    "fileId": "6aa244fcead997d09ae6bc36",
+    "folder": "grovia/products/wild-blueberries",
+    "uploadedAt": "2026-09-10T05:49:46.904Z"
+  },
+  "/images/products/wild-blueberries/02.png::products/wild-blueberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/wild-blueberries/02_ifSsnN0ww7.png",
+    "fileId": "6aa244fdead997d09ae6bf6a",
+    "folder": "grovia/products/wild-blueberries",
+    "uploadedAt": "2026-09-10T05:49:48.227Z"
+  },
+  "/images/products/wild-blueberries/03.png::products/wild-blueberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/wild-blueberries/03_hceaRXFR5.png",
+    "fileId": "6aa244ffead997d09ae6c2a8",
+    "folder": "grovia/products/wild-blueberries",
+    "uploadedAt": "2026-09-10T05:49:49.583Z"
+  },
+  "/images/products/wild-blueberries/04.png::products/wild-blueberries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/wild-blueberries/04_uNtkVyeML.png",
+    "fileId": "6aa24500ead997d09ae6c58a",
+    "folder": "grovia/products/wild-blueberries",
+    "uploadedAt": "2026-09-10T05:49:50.937Z"
+  },
+  "/images/products/pink-lady-apples/01.png::products/pink-lady-apples": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/pink-lady-apples/01_qL11-ngTX.png",
+    "fileId": "6aa24501ead997d09ae6c8f0",
+    "folder": "grovia/products/pink-lady-apples",
+    "uploadedAt": "2026-09-10T05:49:52.370Z"
+  },
+  "/images/products/pink-lady-apples/02.png::products/pink-lady-apples": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/pink-lady-apples/02_CKrBHKU4R.png",
+    "fileId": "6aa24503ead997d09ae6cbff",
+    "folder": "grovia/products/pink-lady-apples",
+    "uploadedAt": "2026-09-10T05:49:53.759Z"
+  },
+  "/images/products/pink-lady-apples/03.png::products/pink-lady-apples": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/pink-lady-apples/03_bJ1UJfN-A.png",
+    "fileId": "6aa24504ead997d09ae6d70b",
+    "folder": "grovia/products/pink-lady-apples",
+    "uploadedAt": "2026-09-10T05:49:55.010Z"
+  },
+  "/images/products/pink-lady-apples/04.png::products/pink-lady-apples": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/pink-lady-apples/04_GcW5GeuVE.png",
+    "fileId": "6aa24505ead997d09ae6d9c0",
+    "folder": "grovia/products/pink-lady-apples",
+    "uploadedAt": "2026-09-10T05:49:56.324Z"
+  },
+  "/images/products/conference-pears/01.png::products/conference-pears": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/conference-pears/01_VXHHVM484.png",
+    "fileId": "6aa24507ead997d09ae6dc89",
+    "folder": "grovia/products/conference-pears",
+    "uploadedAt": "2026-09-10T05:49:57.666Z"
+  },
+  "/images/products/conference-pears/02.png::products/conference-pears": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/conference-pears/02_hn1skpbps.png",
+    "fileId": "6aa24508ead997d09ae6df26",
+    "folder": "grovia/products/conference-pears",
+    "uploadedAt": "2026-09-10T05:49:59.064Z"
+  },
+  "/images/products/conference-pears/03.png::products/conference-pears": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/conference-pears/03_VoM_g6Fk6.png",
+    "fileId": "6aa24509ead997d09ae6e1f5",
+    "folder": "grovia/products/conference-pears",
+    "uploadedAt": "2026-09-10T05:50:00.367Z"
+  },
+  "/images/products/conference-pears/04.png::products/conference-pears": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/conference-pears/04_5_9a1xEjg.png",
+    "fileId": "6aa2450bead997d09ae6e82d",
+    "folder": "grovia/products/conference-pears",
+    "uploadedAt": "2026-09-10T05:50:01.783Z"
+  },
+  "/images/products/navel-oranges/01.png::products/navel-oranges": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/navel-oranges/01_WLTLuqNYz.png",
+    "fileId": "6aa2450cead997d09ae6ec12",
+    "folder": "grovia/products/navel-oranges",
+    "uploadedAt": "2026-09-10T05:50:03.133Z"
+  },
+  "/images/products/navel-oranges/02.png::products/navel-oranges": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/navel-oranges/02_AnEItbJNQ.png",
+    "fileId": "6aa2450eead997d09ae6f026",
+    "folder": "grovia/products/navel-oranges",
+    "uploadedAt": "2026-09-10T05:50:04.559Z"
+  },
+  "/images/products/navel-oranges/03.png::products/navel-oranges": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/navel-oranges/03_5mg_e-rMy.png",
+    "fileId": "6aa2450fead997d09ae6f436",
+    "folder": "grovia/products/navel-oranges",
+    "uploadedAt": "2026-09-10T05:50:05.887Z"
+  },
+  "/images/products/navel-oranges/04.png::products/navel-oranges": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/navel-oranges/04_sX5XSNqvR.png",
+    "fileId": "6aa24510ead997d09ae6f90d",
+    "folder": "grovia/products/navel-oranges",
+    "uploadedAt": "2026-09-10T05:50:07.139Z"
+  },
+  "/images/products/navel-oranges/05.png::products/navel-oranges": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/navel-oranges/05_bGTysBrkQK.png",
+    "fileId": "6aa24512ead997d09ae6fd81",
+    "folder": "grovia/products/navel-oranges",
+    "uploadedAt": "2026-09-10T05:50:08.520Z"
+  },
+  "/images/products/navel-oranges/06.png::products/navel-oranges": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/navel-oranges/06_X5MdYfgnXQ.png",
+    "fileId": "6aa24513ead997d09ae70223",
+    "folder": "grovia/products/navel-oranges",
+    "uploadedAt": "2026-09-10T05:50:09.913Z"
+  },
+  "/images/products/red-seedless-grapes/01.png::products/red-seedless-grapes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-seedless-grapes/01_1oO54jp_Fn.png",
+    "fileId": "6aa24514ead997d09ae70e9f",
+    "folder": "grovia/products/red-seedless-grapes",
+    "uploadedAt": "2026-09-10T05:50:11.231Z"
+  },
+  "/images/products/red-seedless-grapes/02.png::products/red-seedless-grapes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-seedless-grapes/02_XXpOWmC11.png",
+    "fileId": "6aa24516ead997d09ae7122e",
+    "folder": "grovia/products/red-seedless-grapes",
+    "uploadedAt": "2026-09-10T05:50:12.614Z"
+  },
+  "/images/products/red-seedless-grapes/03.png::products/red-seedless-grapes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-seedless-grapes/03_9wo-VTXuVS.png",
+    "fileId": "6aa24517ead997d09ae715d0",
+    "folder": "grovia/products/red-seedless-grapes",
+    "uploadedAt": "2026-09-10T05:50:13.956Z"
+  },
+  "/images/products/red-seedless-grapes/04.png::products/red-seedless-grapes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-seedless-grapes/04_b8I-WHC-Y.png",
+    "fileId": "6aa24518ead997d09ae71947",
+    "folder": "grovia/products/red-seedless-grapes",
+    "uploadedAt": "2026-09-10T05:50:15.304Z"
+  },
+  "/images/products/mixed-bell-peppers/01.png::products/mixed-bell-peppers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mixed-bell-peppers/01_f70GutxTx.png",
+    "fileId": "6aa2451aead997d09ae71e50",
+    "folder": "grovia/products/mixed-bell-peppers",
+    "uploadedAt": "2026-09-10T05:50:16.640Z"
+  },
+  "/images/products/mixed-bell-peppers/02.png::products/mixed-bell-peppers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mixed-bell-peppers/02_e3AY6rIVRS.png",
+    "fileId": "6aa2451bead997d09ae7220d",
+    "folder": "grovia/products/mixed-bell-peppers",
+    "uploadedAt": "2026-09-10T05:50:18.119Z"
+  },
+  "/images/products/mixed-bell-peppers/03.png::products/mixed-bell-peppers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mixed-bell-peppers/03_v0t20kEN6.png",
+    "fileId": "6aa2451cead997d09ae72678",
+    "folder": "grovia/products/mixed-bell-peppers",
+    "uploadedAt": "2026-09-10T05:50:19.477Z"
+  },
+  "/images/products/mixed-bell-peppers/04.png::products/mixed-bell-peppers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mixed-bell-peppers/04_n5DDiQ4QC.png",
+    "fileId": "6aa2451eead997d09ae72a7e",
+    "folder": "grovia/products/mixed-bell-peppers",
+    "uploadedAt": "2026-09-10T05:50:20.917Z"
+  },
+  "/images/products/ridge-cucumbers/01.png::products/ridge-cucumbers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ridge-cucumbers/01_IWGgIpfy6f.png",
+    "fileId": "6aa2451fead997d09ae72e46",
+    "folder": "grovia/products/ridge-cucumbers",
+    "uploadedAt": "2026-09-10T05:50:22.298Z"
+  },
+  "/images/products/ridge-cucumbers/02.png::products/ridge-cucumbers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ridge-cucumbers/02_qa_5aMoRt.png",
+    "fileId": "6aa24521ead997d09ae73a78",
+    "folder": "grovia/products/ridge-cucumbers",
+    "uploadedAt": "2026-09-10T05:50:23.806Z"
+  },
+  "/images/products/ridge-cucumbers/03.png::products/ridge-cucumbers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ridge-cucumbers/03_xfB9adzKQ.png",
+    "fileId": "6aa24522ead997d09ae741a5",
+    "folder": "grovia/products/ridge-cucumbers",
+    "uploadedAt": "2026-09-10T05:50:25.177Z"
+  },
+  "/images/products/ridge-cucumbers/04.png::products/ridge-cucumbers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ridge-cucumbers/04_DFIXcFBt5.png",
+    "fileId": "6aa24523ead997d09ae74f20",
+    "folder": "grovia/products/ridge-cucumbers",
+    "uploadedAt": "2026-09-10T05:50:26.516Z"
+  },
+  "/images/products/ridge-cucumbers/05.png::products/ridge-cucumbers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ridge-cucumbers/05_5p7227W8T.png",
+    "fileId": "6aa24525ead997d09ae756ce",
+    "folder": "grovia/products/ridge-cucumbers",
+    "uploadedAt": "2026-09-10T05:50:27.870Z"
+  },
+  "/images/products/ridge-cucumbers/06.png::products/ridge-cucumbers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ridge-cucumbers/06_4Y6bqePyo.png",
+    "fileId": "6aa24526ead997d09ae75afc",
+    "folder": "grovia/products/ridge-cucumbers",
+    "uploadedAt": "2026-09-10T05:50:29.284Z"
+  },
+  "/images/products/red-onions/01.png::products/red-onions": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-onions/01_IkOPgYcto.png",
+    "fileId": "6aa24528ead997d09ae76294",
+    "folder": "grovia/products/red-onions",
+    "uploadedAt": "2026-09-10T05:50:30.692Z"
+  },
+  "/images/products/red-onions/02.png::products/red-onions": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-onions/02_T3pD_29iDV.png",
+    "fileId": "6aa24529ead997d09ae76be5",
+    "folder": "grovia/products/red-onions",
+    "uploadedAt": "2026-09-10T05:50:32.066Z"
+  },
+  "/images/products/red-onions/03.png::products/red-onions": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-onions/03_A4dmxa9GZ.png",
+    "fileId": "6aa2452aead997d09ae76f8f",
+    "folder": "grovia/products/red-onions",
+    "uploadedAt": "2026-09-10T05:50:33.523Z"
+  },
+  "/images/products/red-onions/04.png::products/red-onions": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/red-onions/04_c53NmiJa0.png",
+    "fileId": "6aa2452cead997d09ae773fe",
+    "folder": "grovia/products/red-onions",
+    "uploadedAt": "2026-09-10T05:50:34.945Z"
+  },
+  "/images/products/baby-leaf-spinach/01.png::products/baby-leaf-spinach": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-leaf-spinach/01_tmoP_RiyS.png",
+    "fileId": "6aa2452dead997d09ae777fa",
+    "folder": "grovia/products/baby-leaf-spinach",
+    "uploadedAt": "2026-09-10T05:50:36.471Z"
+  },
+  "/images/products/baby-leaf-spinach/02.png::products/baby-leaf-spinach": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-leaf-spinach/02_Q8QbE-FX10.png",
+    "fileId": "6aa2452fead997d09ae77cdf",
+    "folder": "grovia/products/baby-leaf-spinach",
+    "uploadedAt": "2026-09-10T05:50:37.817Z"
+  },
+  "/images/products/baby-leaf-spinach/03.png::products/baby-leaf-spinach": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-leaf-spinach/03_ZdlfsvL0k.png",
+    "fileId": "6aa24530ead997d09ae782dc",
+    "folder": "grovia/products/baby-leaf-spinach",
+    "uploadedAt": "2026-09-10T05:50:39.109Z"
+  },
+  "/images/products/baby-leaf-spinach/04.png::products/baby-leaf-spinach": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/baby-leaf-spinach/04_SYOGW5L0XD.png",
+    "fileId": "6aa24531ead997d09ae7889e",
+    "folder": "grovia/products/baby-leaf-spinach",
+    "uploadedAt": "2026-09-10T05:50:40.482Z"
+  },
+  "/images/products/garlic-bulbs/01.png::products/garlic-bulbs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/garlic-bulbs/01_Q7OPLo83y.png",
+    "fileId": "6aa24533ead997d09ae78c06",
+    "folder": "grovia/products/garlic-bulbs",
+    "uploadedAt": "2026-09-10T05:50:41.773Z"
+  },
+  "/images/products/garlic-bulbs/02.png::products/garlic-bulbs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/garlic-bulbs/02_D3Xwv6jiNH.png",
+    "fileId": "6aa24534ead997d09ae79699",
+    "folder": "grovia/products/garlic-bulbs",
+    "uploadedAt": "2026-09-10T05:50:43.165Z"
+  },
+  "/images/products/garlic-bulbs/03.png::products/garlic-bulbs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/garlic-bulbs/03_yLp2rDWk4Q.png",
+    "fileId": "6aa24535ead997d09ae79adb",
+    "folder": "grovia/products/garlic-bulbs",
+    "uploadedAt": "2026-09-10T05:50:44.478Z"
+  },
+  "/images/products/garlic-bulbs/04.png::products/garlic-bulbs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/garlic-bulbs/04_8miCDo1F6.png",
+    "fileId": "6aa24537ead997d09ae79e61",
+    "folder": "grovia/products/garlic-bulbs",
+    "uploadedAt": "2026-09-10T05:50:45.852Z"
+  },
+  "/images/products/courgettes/01.png::products/courgettes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/courgettes/01_aJ_DoCcOKa.png",
+    "fileId": "6aa24538ead997d09ae7a187",
+    "folder": "grovia/products/courgettes",
+    "uploadedAt": "2026-09-10T05:50:47.310Z"
+  },
+  "/images/products/courgettes/02.png::products/courgettes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/courgettes/02_3u7ZawchJ.png",
+    "fileId": "6aa2453aead997d09ae7a532",
+    "folder": "grovia/products/courgettes",
+    "uploadedAt": "2026-09-10T05:50:48.714Z"
+  },
+  "/images/products/courgettes/03.png::products/courgettes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/courgettes/03_p7H-2ECqH.png",
+    "fileId": "6aa2453bead997d09ae7a88f",
+    "folder": "grovia/products/courgettes",
+    "uploadedAt": "2026-09-10T05:50:50.056Z"
+  },
+  "/images/products/courgettes/04.png::products/courgettes": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/courgettes/04_WtEGTmd7t9.png",
+    "fileId": "6aa2453cead997d09ae7abbc",
+    "folder": "grovia/products/courgettes",
+    "uploadedAt": "2026-09-10T05:50:51.331Z"
+  },
+  "/images/products/jumbo-rolled-oats/01.png::products/jumbo-rolled-oats": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/jumbo-rolled-oats/01_06f9NDjOk.png",
+    "fileId": "6aa2453eead997d09ae7af6b",
+    "folder": "grovia/products/jumbo-rolled-oats",
+    "uploadedAt": "2026-09-10T05:50:52.644Z"
+  },
+  "/images/products/jumbo-rolled-oats/02.png::products/jumbo-rolled-oats": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/jumbo-rolled-oats/02_CLKq2G4YB.png",
+    "fileId": "6aa2453fead997d09ae7b2b6",
+    "folder": "grovia/products/jumbo-rolled-oats",
+    "uploadedAt": "2026-09-10T05:50:54.027Z"
+  },
+  "/images/products/jumbo-rolled-oats/03.png::products/jumbo-rolled-oats": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/jumbo-rolled-oats/03_puiyVUHjY.png",
+    "fileId": "6aa24540ead997d09ae7b620",
+    "folder": "grovia/products/jumbo-rolled-oats",
+    "uploadedAt": "2026-09-10T05:50:55.357Z"
+  },
+  "/images/products/puy-lentils/01.png::products/puy-lentils": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/puy-lentils/01_L7kWXqag8V.png",
+    "fileId": "6aa24542ead997d09ae7b94b",
+    "folder": "grovia/products/puy-lentils",
+    "uploadedAt": "2026-09-10T05:50:56.600Z"
+  },
+  "/images/products/puy-lentils/02.png::products/puy-lentils": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/puy-lentils/02_zVfGRH4W9.png",
+    "fileId": "6aa24543ead997d09ae7bd92",
+    "folder": "grovia/products/puy-lentils",
+    "uploadedAt": "2026-09-10T05:50:57.994Z"
+  },
+  "/images/products/puy-lentils/03.png::products/puy-lentils": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/puy-lentils/03_eQFmlW12Y.png",
+    "fileId": "6aa24544ead997d09ae7c802",
+    "folder": "grovia/products/puy-lentils",
+    "uploadedAt": "2026-09-10T05:50:59.320Z"
+  },
+  "/images/products/puy-lentils/04.png::products/puy-lentils": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/puy-lentils/04_008qwm_UG.png",
+    "fileId": "6aa24546ead997d09ae7ce04",
+    "folder": "grovia/products/puy-lentils",
+    "uploadedAt": "2026-09-10T05:51:00.678Z"
+  },
+  "/images/products/free-range-eggs/01.png::products/free-range-eggs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/free-range-eggs/01_lEIazPTT5.png",
+    "fileId": "6aa24547ead997d09ae7d30b",
+    "folder": "grovia/products/free-range-eggs",
+    "uploadedAt": "2026-09-10T05:51:01.968Z"
+  },
+  "/images/products/free-range-eggs/02.png::products/free-range-eggs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/free-range-eggs/02_PQ95Iv4bx.png",
+    "fileId": "6aa24548ead997d09ae7d7a4",
+    "folder": "grovia/products/free-range-eggs",
+    "uploadedAt": "2026-09-10T05:51:03.258Z"
+  },
+  "/images/products/free-range-eggs/03.png::products/free-range-eggs": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/free-range-eggs/03_bsPJzWmWN.png",
+    "fileId": "6aa2454aead997d09ae7dc0d",
+    "folder": "grovia/products/free-range-eggs",
+    "uploadedAt": "2026-09-10T05:51:04.573Z"
+  },
+  "/images/products/runny-blossom-honey/01.png::products/runny-blossom-honey": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/runny-blossom-honey/01_qbAOLBpSeD.png",
+    "fileId": "6aa2454bead997d09ae7df7c",
+    "folder": "grovia/products/runny-blossom-honey",
+    "uploadedAt": "2026-09-10T05:51:05.929Z"
+  },
+  "/images/products/runny-blossom-honey/02.png::products/runny-blossom-honey": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/runny-blossom-honey/02_lpjOXIRLSq.png",
+    "fileId": "6aa2454cead997d09ae7e2fe",
+    "folder": "grovia/products/runny-blossom-honey",
+    "uploadedAt": "2026-09-10T05:51:07.402Z"
+  },
+  "/images/products/runny-blossom-honey/03.png::products/runny-blossom-honey": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/runny-blossom-honey/03_DlAtY7eKy.png",
+    "fileId": "6aa2454eead997d09ae7e61b",
+    "folder": "grovia/products/runny-blossom-honey",
+    "uploadedAt": "2026-09-10T05:51:08.775Z"
+  },
+  "/images/products/chicken-thigh-fillets/01.png::products/chicken-thigh-fillets": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/chicken-thigh-fillets/01_hf4lo0Q7X.png",
+    "fileId": "6aa2454fead997d09ae7ee18",
+    "folder": "grovia/products/chicken-thigh-fillets",
+    "uploadedAt": "2026-09-10T05:51:10.069Z"
+  },
+  "/images/products/chicken-thigh-fillets/02.png::products/chicken-thigh-fillets": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/chicken-thigh-fillets/02_noe4CB4uE.png",
+    "fileId": "6aa24550ead997d09ae7f4be",
+    "folder": "grovia/products/chicken-thigh-fillets",
+    "uploadedAt": "2026-09-10T05:51:11.437Z"
+  },
+  "/images/products/chicken-thigh-fillets/03.png::products/chicken-thigh-fillets": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/chicken-thigh-fillets/03__GUXdf6l8.png",
+    "fileId": "6aa24552ead997d09ae7f910",
+    "folder": "grovia/products/chicken-thigh-fillets",
+    "uploadedAt": "2026-09-10T05:51:12.848Z"
+  },
+  "/images/products/outdoor-pork-sausages/01.png::products/outdoor-pork-sausages": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/outdoor-pork-sausages/01_UFDoEA9bH.png",
+    "fileId": "6aa24553ead997d09ae80437",
+    "folder": "grovia/products/outdoor-pork-sausages",
+    "uploadedAt": "2026-09-10T05:51:14.166Z"
+  },
+  "/images/products/outdoor-pork-sausages/02.png::products/outdoor-pork-sausages": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/outdoor-pork-sausages/02_zak0n0cPK.png",
+    "fileId": "6aa24554ead997d09ae8123e",
+    "folder": "grovia/products/outdoor-pork-sausages",
+    "uploadedAt": "2026-09-10T05:51:15.442Z"
+  },
+  "/images/products/outdoor-pork-sausages/03.png::products/outdoor-pork-sausages": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/outdoor-pork-sausages/03_AXrnbqhoRV.png",
+    "fileId": "6aa24556ead997d09ae82af5",
+    "folder": "grovia/products/outdoor-pork-sausages",
+    "uploadedAt": "2026-09-10T05:51:16.697Z"
+  },
+  "/images/products/raw-king-prawns/01.png::products/raw-king-prawns": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/raw-king-prawns/01_0BkZV9A5Q.png",
+    "fileId": "6aa24557ead997d09ae831a5",
+    "folder": "grovia/products/raw-king-prawns",
+    "uploadedAt": "2026-09-10T05:51:17.956Z"
+  },
+  "/images/products/raw-king-prawns/02.png::products/raw-king-prawns": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/raw-king-prawns/02_eRa0bOaQy.png",
+    "fileId": "6aa24558ead997d09ae836a8",
+    "folder": "grovia/products/raw-king-prawns",
+    "uploadedAt": "2026-09-10T05:51:19.274Z"
+  },
+  "/images/products/raw-king-prawns/03.png::products/raw-king-prawns": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/raw-king-prawns/03_TTwWLH5jJ.png",
+    "fileId": "6aa2455aead997d09ae83e6e",
+    "folder": "grovia/products/raw-king-prawns",
+    "uploadedAt": "2026-09-10T05:51:20.576Z"
+  },
+  "/images/products/skinless-cod-fillets/01.png::products/skinless-cod-fillets": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/skinless-cod-fillets/01_IKOvNP9w07.png",
+    "fileId": "6aa2455bead997d09ae84545",
+    "folder": "grovia/products/skinless-cod-fillets",
+    "uploadedAt": "2026-09-10T05:51:21.819Z"
+  },
+  "/images/products/skinless-cod-fillets/02.png::products/skinless-cod-fillets": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/skinless-cod-fillets/02_vRfzLTSDQp.png",
+    "fileId": "6aa2455cead997d09ae849eb",
+    "folder": "grovia/products/skinless-cod-fillets",
+    "uploadedAt": "2026-09-10T05:51:23.123Z"
+  },
+  "/images/products/skinless-cod-fillets/03.png::products/skinless-cod-fillets": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/skinless-cod-fillets/03_XtzFnOC8b.png",
+    "fileId": "6aa2455dead997d09ae84df3",
+    "folder": "grovia/products/skinless-cod-fillets",
+    "uploadedAt": "2026-09-10T05:51:24.473Z"
+  },
+  "/images/products/frozen-garden-peas/01.png::products/frozen-garden-peas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-garden-peas/01_ggzR5cP21.png",
+    "fileId": "6aa2455fead997d09ae851a7",
+    "folder": "grovia/products/frozen-garden-peas",
+    "uploadedAt": "2026-09-10T05:51:25.853Z"
+  },
+  "/images/products/frozen-garden-peas/02.png::products/frozen-garden-peas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-garden-peas/02_CjCGbRos49.png",
+    "fileId": "6aa24560ead997d09ae8551d",
+    "folder": "grovia/products/frozen-garden-peas",
+    "uploadedAt": "2026-09-10T05:51:27.169Z"
+  },
+  "/images/products/frozen-garden-peas/03.png::products/frozen-garden-peas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-garden-peas/03_5-vFIjE66l.png",
+    "fileId": "6aa24561ead997d09ae858b4",
+    "folder": "grovia/products/frozen-garden-peas",
+    "uploadedAt": "2026-09-10T05:51:28.497Z"
+  },
+  "/images/products/frozen-garden-peas/04.png::products/frozen-garden-peas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-garden-peas/04_qKdHgu6Rs8.png",
+    "fileId": "6aa24563ead997d09ae85ce7",
+    "folder": "grovia/products/frozen-garden-peas",
+    "uploadedAt": "2026-09-10T05:51:29.921Z"
+  },
+  "/images/products/frozen-mixed-berries/01.png::products/frozen-mixed-berries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-mixed-berries/01_ZuhiwSVPn.png",
+    "fileId": "6aa24564ead997d09ae866c0",
+    "folder": "grovia/products/frozen-mixed-berries",
+    "uploadedAt": "2026-09-10T05:51:31.300Z"
+  },
+  "/images/products/frozen-mixed-berries/02.png::products/frozen-mixed-berries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-mixed-berries/02_Qj3pO8m4jI.png",
+    "fileId": "6aa24566ead997d09ae86bf5",
+    "folder": "grovia/products/frozen-mixed-berries",
+    "uploadedAt": "2026-09-10T05:51:32.582Z"
+  },
+  "/images/products/frozen-mixed-berries/03.png::products/frozen-mixed-berries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-mixed-berries/03_IJIj-X9a1.png",
+    "fileId": "6aa24567ead997d09ae86f88",
+    "folder": "grovia/products/frozen-mixed-berries",
+    "uploadedAt": "2026-09-10T05:51:34.041Z"
+  },
+  "/images/products/frozen-mixed-berries/04.png::products/frozen-mixed-berries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/frozen-mixed-berries/04_jjyQSq-5L.png",
+    "fileId": "6aa24568ead997d09ae873a2",
+    "folder": "grovia/products/frozen-mixed-berries",
+    "uploadedAt": "2026-09-10T05:51:35.329Z"
+  },
+  "/images/products/cavendish-bananas/01.png::products/cavendish-bananas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/cavendish-bananas/01_9xIVfBaTZ.png",
+    "fileId": "6aa2456aead997d09ae8775a",
+    "folder": "grovia/products/cavendish-bananas",
+    "uploadedAt": "2026-09-10T05:51:36.727Z"
+  },
+  "/images/products/cavendish-bananas/02.png::products/cavendish-bananas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/cavendish-bananas/02_oIh8MwsFX.png",
+    "fileId": "6aa2456bead997d09ae87acc",
+    "folder": "grovia/products/cavendish-bananas",
+    "uploadedAt": "2026-09-10T05:51:38.046Z"
+  },
+  "/images/products/cavendish-bananas/03.png::products/cavendish-bananas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/cavendish-bananas/03_jDmE2Zy7O.png",
+    "fileId": "6aa2456cead997d09ae87e32",
+    "folder": "grovia/products/cavendish-bananas",
+    "uploadedAt": "2026-09-10T05:51:39.373Z"
+  },
+  "/images/products/cavendish-bananas/04.png::products/cavendish-bananas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/cavendish-bananas/04_rZagRDxwVu.png",
+    "fileId": "6aa2456eead997d09ae8811f",
+    "folder": "grovia/products/cavendish-bananas",
+    "uploadedAt": "2026-09-10T05:51:40.764Z"
+  },
+  "/images/products/ripe-kiwis/01.png::products/ripe-kiwis": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ripe-kiwis/01_W1r_vyTox.png",
+    "fileId": "6aa2456fead997d09ae88603",
+    "folder": "grovia/products/ripe-kiwis",
+    "uploadedAt": "2026-09-10T05:51:42.178Z"
+  },
+  "/images/products/ripe-kiwis/02.png::products/ripe-kiwis": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ripe-kiwis/02_9dN0gCR_B.png",
+    "fileId": "6aa24570ead997d09ae8897a",
+    "folder": "grovia/products/ripe-kiwis",
+    "uploadedAt": "2026-09-10T05:51:43.493Z"
+  },
+  "/images/products/ripe-kiwis/03.png::products/ripe-kiwis": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ripe-kiwis/03_oJmHbIcSD.png",
+    "fileId": "6aa24572ead997d09ae88d32",
+    "folder": "grovia/products/ripe-kiwis",
+    "uploadedAt": "2026-09-10T05:51:44.833Z"
+  },
+  "/images/products/ripe-kiwis/04.png::products/ripe-kiwis": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/ripe-kiwis/04_h7fibWd-OA.png",
+    "fileId": "6aa24573ead997d09ae89015",
+    "folder": "grovia/products/ripe-kiwis",
+    "uploadedAt": "2026-09-10T05:51:46.235Z"
+  },
+  "/images/products/sicilian-lemons/01.png::products/sicilian-lemons": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sicilian-lemons/01_JJdFCbNnc.png",
+    "fileId": "6aa24575ead997d09ae89a85",
+    "folder": "grovia/products/sicilian-lemons",
+    "uploadedAt": "2026-09-10T05:51:47.622Z"
+  },
+  "/images/products/sicilian-lemons/02.png::products/sicilian-lemons": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sicilian-lemons/02_jPBQmQGif.png",
+    "fileId": "6aa24576ead997d09ae89f65",
+    "folder": "grovia/products/sicilian-lemons",
+    "uploadedAt": "2026-09-10T05:51:49.141Z"
+  },
+  "/images/products/sicilian-lemons/03.png::products/sicilian-lemons": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sicilian-lemons/03_Z8ER-OO3M.png",
+    "fileId": "6aa24578ead997d09ae8a3b4",
+    "folder": "grovia/products/sicilian-lemons",
+    "uploadedAt": "2026-09-10T05:51:50.538Z"
+  },
+  "/images/products/sicilian-lemons/04.png::products/sicilian-lemons": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/sicilian-lemons/04_eWJRzZkHgh.png",
+    "fileId": "6aa24579ead997d09ae8a76c",
+    "folder": "grovia/products/sicilian-lemons",
+    "uploadedAt": "2026-09-10T05:51:51.915Z"
+  },
+  "/images/products/snow-cauliflower/01.png::products/snow-cauliflower": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/snow-cauliflower/01_OZ6F4n6x7.png",
+    "fileId": "6aa2457aead997d09ae8aa8f",
+    "folder": "grovia/products/snow-cauliflower",
+    "uploadedAt": "2026-09-10T05:51:53.293Z"
+  },
+  "/images/products/snow-cauliflower/02.png::products/snow-cauliflower": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/snow-cauliflower/02_GAjyjKb5A.png",
+    "fileId": "6aa2457cead997d09ae8ae72",
+    "folder": "grovia/products/snow-cauliflower",
+    "uploadedAt": "2026-09-10T05:51:54.718Z"
+  },
+  "/images/products/snow-cauliflower/03.png::products/snow-cauliflower": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/snow-cauliflower/03_E7zalNwGY.png",
+    "fileId": "6aa2457dead997d09ae8b2df",
+    "folder": "grovia/products/snow-cauliflower",
+    "uploadedAt": "2026-09-10T05:51:56.119Z"
+  },
+  "/images/products/snow-cauliflower/04.png::products/snow-cauliflower": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/snow-cauliflower/04_07jaesuok.png",
+    "fileId": "6aa2457fead997d09ae8bae8",
+    "folder": "grovia/products/snow-cauliflower",
+    "uploadedAt": "2026-09-10T05:51:57.568Z"
+  },
+  "/images/products/glossy-aubergines/01.png::products/glossy-aubergines": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/glossy-aubergines/01_642GNSIxyd.png",
+    "fileId": "6aa24580ead997d09ae8beb5",
+    "folder": "grovia/products/glossy-aubergines",
+    "uploadedAt": "2026-09-10T05:51:58.860Z"
+  },
+  "/images/products/glossy-aubergines/02.png::products/glossy-aubergines": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/glossy-aubergines/02_imvAHJowQw.png",
+    "fileId": "6aa24581ead997d09ae8c75a",
+    "folder": "grovia/products/glossy-aubergines",
+    "uploadedAt": "2026-09-10T05:52:00.215Z"
+  },
+  "/images/products/glossy-aubergines/03.png::products/glossy-aubergines": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/glossy-aubergines/03_WC9tEz-jn.png",
+    "fileId": "6aa24583ead997d09ae8cf67",
+    "folder": "grovia/products/glossy-aubergines",
+    "uploadedAt": "2026-09-10T05:52:01.544Z"
+  },
+  "/images/products/glossy-aubergines/04.png::products/glossy-aubergines": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/glossy-aubergines/04_3SOKqZheL.png",
+    "fileId": "6aa24584ead997d09ae8d3ed",
+    "folder": "grovia/products/glossy-aubergines",
+    "uploadedAt": "2026-09-10T05:52:02.871Z"
+  },
+  "/images/products/extra-virgin-olive-oil/01.png::products/extra-virgin-olive-oil": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/extra-virgin-olive-oil/01_Zke9FAFRD.png",
+    "fileId": "6aa24585ead997d09ae8e5b4",
+    "folder": "grovia/products/extra-virgin-olive-oil",
+    "uploadedAt": "2026-09-10T05:52:04.279Z"
+  },
+  "/images/products/extra-virgin-olive-oil/02.png::products/extra-virgin-olive-oil": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/extra-virgin-olive-oil/02_RqbsZbPy4.png",
+    "fileId": "6aa24587ead997d09ae8e90d",
+    "folder": "grovia/products/extra-virgin-olive-oil",
+    "uploadedAt": "2026-09-10T05:52:05.588Z"
+  },
+  "/images/products/extra-virgin-olive-oil/03.png::products/extra-virgin-olive-oil": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/extra-virgin-olive-oil/03_G7OjYk3fn.png",
+    "fileId": "6aa24588ead997d09ae8ec8f",
+    "folder": "grovia/products/extra-virgin-olive-oil",
+    "uploadedAt": "2026-09-10T05:52:06.969Z"
+  },
+  "/images/products/mature-cheddar/01.png::products/mature-cheddar": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mature-cheddar/01_bAmevxcOI.png",
+    "fileId": "6aa24589ead997d09ae8f08c",
+    "folder": "grovia/products/mature-cheddar",
+    "uploadedAt": "2026-09-10T05:52:08.341Z"
+  },
+  "/images/products/mature-cheddar/02.png::products/mature-cheddar": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mature-cheddar/02_D1v6YvltWz.png",
+    "fileId": "6aa2458bead997d09ae8f3b0",
+    "folder": "grovia/products/mature-cheddar",
+    "uploadedAt": "2026-09-10T05:52:09.655Z"
+  },
+  "/images/products/mature-cheddar/03.png::products/mature-cheddar": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/mature-cheddar/03_9_yY4wlOB.png",
+    "fileId": "6aa2458cead997d09ae8f70c",
+    "folder": "grovia/products/mature-cheddar",
+    "uploadedAt": "2026-09-10T05:52:10.967Z"
+  },
+  "/images/products/aged-basmati-rice/01.png::products/aged-basmati-rice": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/aged-basmati-rice/01_INZOMbKfv.png",
+    "fileId": "6aa2458dead997d09ae8fb95",
+    "folder": "grovia/products/aged-basmati-rice",
+    "uploadedAt": "2026-09-10T05:52:12.316Z"
+  },
+  "/images/products/aged-basmati-rice/02.png::products/aged-basmati-rice": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/aged-basmati-rice/02_o-kfH_LjJ.png",
+    "fileId": "6aa2458fead997d09ae9002a",
+    "folder": "grovia/products/aged-basmati-rice",
+    "uploadedAt": "2026-09-10T05:52:13.811Z"
+  },
+  "/images/products/aged-basmati-rice/03.png::products/aged-basmati-rice": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/aged-basmati-rice/03_vOGMX-_2L-.png",
+    "fileId": "6aa24590ead997d09ae9043d",
+    "folder": "grovia/products/aged-basmati-rice",
+    "uploadedAt": "2026-09-10T05:52:15.252Z"
+  },
+  "/images/products/aged-basmati-rice/04.png::products/aged-basmati-rice": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/aged-basmati-rice/04_e03-1zuTc.png",
+    "fileId": "6aa24592ead997d09ae90780",
+    "folder": "grovia/products/aged-basmati-rice",
+    "uploadedAt": "2026-09-10T05:52:16.626Z"
+  },
+  "/images/products/bronze-die-spaghetti/01.png::products/bronze-die-spaghetti": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/bronze-die-spaghetti/01_GhSpvWCTVX.png",
+    "fileId": "6aa24593ead997d09ae90a88",
+    "folder": "grovia/products/bronze-die-spaghetti",
+    "uploadedAt": "2026-09-10T05:52:17.944Z"
+  },
+  "/images/products/bronze-die-spaghetti/02.png::products/bronze-die-spaghetti": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/bronze-die-spaghetti/02_IfoRRz8f23.png",
+    "fileId": "6aa24594ead997d09ae912b3",
+    "folder": "grovia/products/bronze-die-spaghetti",
+    "uploadedAt": "2026-09-10T05:52:19.249Z"
+  },
+  "/images/products/bronze-die-spaghetti/03.png::products/bronze-die-spaghetti": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/bronze-die-spaghetti/03_nDvdCQoyg.png",
+    "fileId": "6aa24596ead997d09ae91b41",
+    "folder": "grovia/products/bronze-die-spaghetti",
+    "uploadedAt": "2026-09-10T05:52:20.600Z"
+  },
+  "/images/home-promos/keep-active.jpg::home-promos/shortlist-keep-active": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/home-promos/shortlist-keep-active/keep-active_3aJw6VXUlq.jpg",
+    "fileId": "6aa27bc4ead997d09a695c59",
+    "folder": "grovia/home-promos/shortlist-keep-active",
+    "uploadedAt": "2026-09-10T09:43:31.441Z"
+  },
+  "/images/home-promos/maintain-fitness.jpg::home-promos/shortlist-maintain-fitness": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/home-promos/shortlist-maintain-fitness/maintain-fitness_7ja_hM_bt.jpg",
+    "fileId": "6aa27bc6ead997d09a6963ad",
+    "folder": "grovia/home-promos/shortlist-maintain-fitness",
+    "uploadedAt": "2026-09-10T09:43:33.224Z"
+  },
+  "/images/home-promos/stay-strong.jpg::home-promos/shortlist-stay-strong": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/home-promos/shortlist-stay-strong/stay-strong_m8iujNijK.jpg",
+    "fileId": "6aa27bc8ead997d09a6969c9",
+    "folder": "grovia/home-promos/shortlist-stay-strong",
+    "uploadedAt": "2026-09-10T09:43:34.550Z"
+  },
+  "/images/home-promos/family.jpg::home-promos/after-category-family": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/home-promos/after-category-family/family_Dk45FycVU.jpg",
+    "fileId": "6aa27bc9ead997d09a696f2e",
+    "folder": "grovia/home-promos/after-category-family",
+    "uploadedAt": "2026-09-10T09:43:35.947Z"
+  },
+  "/images/home-promos/essentials.jpg::home-promos/after-category-essentials": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/home-promos/after-category-essentials/essentials_o2mmIwO7i.jpg",
+    "fileId": "6aa27bcaead997d09a69745d",
+    "folder": "grovia/home-promos/after-category-essentials",
+    "uploadedAt": "2026-09-10T09:43:37.362Z"
+  },
+  "/images/home-promos/staples.jpg::home-promos/after-category-staples": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/home-promos/after-category-staples/staples_XpTadrrdP.jpg",
+    "fileId": "6aa27bccead997d09a697a1f",
+    "folder": "grovia/home-promos/after-category-staples",
+    "uploadedAt": "2026-09-10T09:43:38.818Z"
+  },
+  "/images/products/persian-limes.png::categories/beverages": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/beverages/persian-limes_Kbig9Ey40Y.png",
+    "fileId": "6aaba801ead997d09a5cd097",
+    "folder": "grovia/categories/beverages",
+    "uploadedAt": "2026-09-17T08:42:42.316Z"
+  },
+  "/images/products/kent-strawberries.png::categories/berries": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/berries/kent-strawberries_JMr6X4GeD8.png",
+    "fileId": "6aaba803ead997d09a5ce0d1",
+    "folder": "grovia/categories/berries",
+    "uploadedAt": "2026-09-17T08:42:43.852Z"
+  },
+  "/images/products/persian-limes.png::categories/citrus": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/citrus/persian-limes_5GmXma42wd.png",
+    "fileId": "6aaba804ead997d09a5cf149",
+    "folder": "grovia/categories/citrus",
+    "uploadedAt": "2026-09-17T08:42:45.211Z"
+  },
+  "/images/products/hass-avocados.png::categories/tropical": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/tropical/hass-avocados_XAgTKiEdP.png",
+    "fileId": "6aaba805ead997d09a5cffc1",
+    "folder": "grovia/categories/tropical",
+    "uploadedAt": "2026-09-17T08:42:46.516Z"
+  },
+  "/images/products/seedless-watermelon.png::categories/melons": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/melons/seedless-watermelon_8ytQsEZY0.png",
+    "fileId": "6aaba807ead997d09a5d0d18",
+    "folder": "grovia/categories/melons",
+    "uploadedAt": "2026-09-17T08:42:47.805Z"
+  },
+  "/images/products/juicy-vine-tomatoes.png::categories/salads-greens": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/salads-greens/juicy-vine-tomatoes_IOF1fpsW3p.png",
+    "fileId": "6aaba808ead997d09a5d15ad",
+    "folder": "grovia/categories/salads-greens",
+    "uploadedAt": "2026-09-17T08:42:49.125Z"
+  },
+  "/images/products/baby-potatoes.png::categories/roots-alliums": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/roots-alliums/baby-potatoes_t9z1_yzlZ.png",
+    "fileId": "6aaba809ead997d09a5d1e03",
+    "folder": "grovia/categories/roots-alliums",
+    "uploadedAt": "2026-09-17T08:42:50.395Z"
+  },
+  "/images/products/crown-broccoli.png::categories/brassicas": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/brassicas/crown-broccoli_Abr-N-7B6e.png",
+    "fileId": "6aaba80bead997d09a5d25b7",
+    "folder": "grovia/categories/brassicas",
+    "uploadedAt": "2026-09-17T08:42:51.742Z"
+  },
+  "/images/products/tender-okra.png::categories/summer-veg": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/summer-veg/tender-okra__3itTLAem.png",
+    "fileId": "6aaba80cead997d09a5d2fe3",
+    "folder": "grovia/categories/summer-veg",
+    "uploadedAt": "2026-09-17T08:42:53.008Z"
+  },
+  "/images/products/grass-fed-beef-patties.png::categories/beef": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/beef/grass-fed-beef-patties_ZrP4XhZdI.png",
+    "fileId": "6aaba80dead997d09a5d3bd5",
+    "folder": "grovia/categories/beef",
+    "uploadedAt": "2026-09-17T08:42:54.348Z"
+  },
+  "/images/products/atlantic-salmon-steaks.png::categories/fish": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/fish/atlantic-salmon-steaks_k7Skk92Sec.png",
+    "fileId": "6aaba80fead997d09a5d4c22",
+    "folder": "grovia/categories/fish",
+    "uploadedAt": "2026-09-17T08:42:55.673Z"
+  },
+  "/images/products/california-walnut-halves.png::categories/nuts-pulses": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/nuts-pulses/california-walnut-halves_VRWmIhpW97.png",
+    "fileId": "6aaba810ead997d09a5d5ed2",
+    "folder": "grovia/categories/nuts-pulses",
+    "uploadedAt": "2026-09-17T08:42:57.129Z"
+  },
+  "/images/products/milho-verde-sweetcorn-lollies.jpg::categories/frozen-treats": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/frozen-treats/milho-verde-sweetcorn-lollies_S-iPhfrt5.jpg",
+    "fileId": "6aaba811ead997d09a5d713d",
+    "folder": "grovia/categories/frozen-treats",
+    "uploadedAt": "2026-09-17T08:42:58.420Z"
+  },
+  "/images/shops/greenfield-grocers.jpg::sellers/greenfield-grocers": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/sellers/greenfield-grocers/greenfield-grocers_3Jh7hrIro.jpg",
+    "fileId": "6aaba813ead997d09a5d81e5",
+    "folder": "grovia/sellers/greenfield-grocers",
+    "uploadedAt": "2026-09-17T08:42:59.755Z"
+  },
+  "/images/shops/harvest-lane.jpg::sellers/harvest-lane": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/sellers/harvest-lane/harvest-lane_x_5396CgW.jpg",
+    "fileId": "6aaba814ead997d09a5d9380",
+    "folder": "grovia/sellers/harvest-lane",
+    "uploadedAt": "2026-09-17T08:43:01.058Z"
+  },
+  "/images/shops/cold-press-co.jpg::sellers/cold-press-co": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/sellers/cold-press-co/cold-press-co_sUzerySna.jpg",
+    "fileId": "6aaba815ead997d09a5d9af2",
+    "folder": "grovia/sellers/cold-press-co",
+    "uploadedAt": "2026-09-17T08:43:02.355Z"
+  },
+  "/images/people/jonas-weber.jpg::people/jonas-weber": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/jonas-weber/jonas-weber_9q26bqqmX.jpg",
+    "fileId": "6aaba817ead997d09a5da60f",
+    "folder": "grovia/people/jonas-weber",
+    "uploadedAt": "2026-09-17T08:43:03.596Z"
+  },
+  "/images/people/mei-lin-chow.jpg::people/mei-lin-chow": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/people/mei-lin-chow/mei-lin-chow_9tj_67hIu.jpg",
+    "fileId": "6aaba818ead997d09a5db17f",
+    "folder": "grovia/people/mei-lin-chow",
+    "uploadedAt": "2026-09-17T08:43:04.893Z"
+  },
+  "/images/hero/winter-sale.jpg::banners/wintersale": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/wintersale/winter-sale_VSPXKkEMA.jpg",
+    "fileId": "6aaba819ead997d09a5dbbe3",
+    "folder": "grovia/banners/wintersale",
+    "uploadedAt": "2026-09-17T08:43:06.478Z"
+  },
+  "/images/hero/about-hero.jpg::banners/about": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/banners/about/about-hero_xNfsH4u3f.jpg",
+    "fileId": "6aaba81bead997d09a5dc512",
+    "folder": "grovia/banners/about",
+    "uploadedAt": "2026-09-17T08:43:07.813Z"
+  },
+  "/images/editorial/tote-of-veg.jpg::blogs/top-pantry-staples-you-should-always-keep-stocked": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/top-pantry-staples-you-should-always-keep-stocked/tote-of-veg_qSjNXLFCt.jpg",
+    "fileId": "6ab4e5e4ead997d09a2eab02",
+    "folder": "grovia/blogs/top-pantry-staples-you-should-always-keep-stocked",
+    "uploadedAt": "2026-09-24T08:57:08.827Z"
+  },
+  "/images/home-promos/maintain-fitness.jpg::blogs/organic-vs-regular-what-should-you-actually-choose": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/organic-vs-regular-what-should-you-actually-choose/maintain-fitness_zB2Z9xKoJ.jpg",
+    "fileId": "6ab4e5e6ead997d09a2eb41e",
+    "folder": "grovia/blogs/organic-vs-regular-what-should-you-actually-choose",
+    "uploadedAt": "2026-09-24T08:57:10.663Z"
+  },
+  "/images/home-promos/keep-active.jpg::blogs/seasonal-eating-without-a-wall-chart": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/seasonal-eating-without-a-wall-chart/keep-active_TfUsACNCXB.jpg",
+    "fileId": "6ab4e5e7ead997d09a2ebb64",
+    "folder": "grovia/blogs/seasonal-eating-without-a-wall-chart",
+    "uploadedAt": "2026-09-24T08:57:12.225Z"
+  },
+  "/images/editorial/veg-basket.jpg::blogs/how-to-store-herbs-so-they-last-a-fortnight": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/how-to-store-herbs-so-they-last-a-fortnight/veg-basket_2s-M64rqp.jpg",
+    "fileId": "6ab4e5e9ead997d09a2ec3ca",
+    "folder": "grovia/blogs/how-to-store-herbs-so-they-last-a-fortnight",
+    "uploadedAt": "2026-09-24T08:57:13.621Z"
+  },
+  "/images/home-promos/grocery-cta.jpg::blogs/what-a-fair-price-for-fish-actually-looks-like": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/what-a-fair-price-for-fish-actually-looks-like/grocery-cta_oykiL-TbDu.jpg",
+    "fileId": "6ab4e5eaead997d09a2ecc19",
+    "folder": "grovia/blogs/what-a-fair-price-for-fish-actually-looks-like",
+    "uploadedAt": "2026-09-24T08:57:15.043Z"
+  },
+  "/images/home-promos/stay-strong.jpg::blogs/our-growers-the-vale-orchard-twelve-years-on": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/blogs/our-growers-the-vale-orchard-twelve-years-on/stay-strong_uQntlz4O7.jpg",
+    "fileId": "6ab4e5ebead997d09a2ed252",
+    "folder": "grovia/blogs/our-growers-the-vale-orchard-twelve-years-on",
+    "uploadedAt": "2026-09-24T08:57:16.497Z"
+  },
+  "/images/products/fresh-squeezed-orange-juice.png::products/fresh-squeezed-orange-juice": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/fresh-squeezed-orange-juice/fresh-squeezed-orange-juice_Qngsd1oA7.png",
+    "fileId": "6ab4ff00ead997d09adab300",
+    "folder": "grovia/products/fresh-squeezed-orange-juice",
+    "uploadedAt": "2026-09-24T10:44:16.781Z"
+  },
+  "/images/products/cloudy-apple-juice.png::products/cloudy-apple-juice": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/cloudy-apple-juice/cloudy-apple-juice_N_EFrmFut.png",
+    "fileId": "6ab4ff02ead997d09adac48e",
+    "folder": "grovia/products/cloudy-apple-juice",
+    "uploadedAt": "2026-09-24T10:44:18.748Z"
+  },
+  "/images/products/young-drinking-coconut.png::products/young-drinking-coconut": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/young-drinking-coconut/young-drinking-coconut_-aNWLgb_W.png",
+    "fileId": "6ab4ff03ead997d09adad1ea",
+    "folder": "grovia/products/young-drinking-coconut",
+    "uploadedAt": "2026-09-24T10:44:20.419Z"
+  },
+  "/images/products/lassi-duo.png::products/lassi-duo": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/lassi-duo/lassi-duo_igsGrcAfy.png",
+    "fileId": "6ab4ff05ead997d09adad958",
+    "folder": "grovia/products/lassi-duo",
+    "uploadedAt": "2026-09-24T10:44:22.113Z"
+  },
+  "/images/products/lemon-iced-tea.png::products/lemon-iced-tea": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/lemon-iced-tea/lemon-iced-tea_BehW-rxay.png",
+    "fileId": "6ab4ff07ead997d09adadebf",
+    "folder": "grovia/products/lemon-iced-tea",
+    "uploadedAt": "2026-09-24T10:44:23.757Z"
+  },
+  "/images/products/darjeeling-loose-leaf-tea.png::products/darjeeling-loose-leaf-tea": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/darjeeling-loose-leaf-tea/darjeeling-loose-leaf-tea_DTsLCC5N-.png",
+    "fileId": "6ab4ff08ead997d09adae573",
+    "folder": "grovia/products/darjeeling-loose-leaf-tea",
+    "uploadedAt": "2026-09-24T10:44:25.419Z"
+  },
+  "/images/products/dark-roast-coffee-beans.png::products/dark-roast-coffee-beans": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/dark-roast-coffee-beans/dark-roast-coffee-beans_dT7qoKcqS.png",
+    "fileId": "6ab4ff0aead997d09adaec9e",
+    "folder": "grovia/products/dark-roast-coffee-beans",
+    "uploadedAt": "2026-09-24T10:44:27.020Z"
+  },
+  "/images/products/cold-brew-coffee.png::products/cold-brew-coffee": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/products/cold-brew-coffee/cold-brew-coffee_NCd-nX1XP.png",
+    "fileId": "6ab4ff0bead997d09adaf3cb",
+    "folder": "grovia/products/cold-brew-coffee",
+    "uploadedAt": "2026-09-24T10:44:28.612Z"
+  },
+  "/images/products/fresh-squeezed-orange-juice.png::categories/beverages": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/beverages/fresh-squeezed-orange-juice_RYeuOi-gT.png",
+    "fileId": "6ab4ff0dead997d09adafb72",
+    "folder": "grovia/categories/beverages",
+    "uploadedAt": "2026-09-24T10:44:30.210Z"
+  },
+  "/images/products/fresh-squeezed-orange-juice.png::categories/juices-smoothies": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/juices-smoothies/fresh-squeezed-orange-juice_twqc37XTX.png",
+    "fileId": "6ab4ff0fead997d09adb01ff",
+    "folder": "grovia/categories/juices-smoothies",
+    "uploadedAt": "2026-09-24T10:44:31.751Z"
+  },
+  "/images/products/dark-roast-coffee-beans.png::categories/tea-coffee": {
+    "url": "https://ik.imagekit.io/memcdiu2t/grovia/categories/tea-coffee/dark-roast-coffee-beans_xlipnyxij.png",
+    "fileId": "6ab4ff10ead997d09adb093c",
+    "folder": "grovia/categories/tea-coffee",
+    "uploadedAt": "2026-09-24T10:44:33.325Z"
+  }
+}

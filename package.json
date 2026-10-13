@@ -1,0 +1,38 @@
+{
+  "name": "grovia",
+  "private": true,
+  "engines": {
+    "node": ">=20.9.0",
+    "pnpm": ">=10"
+  },
+  "scripts": {
+    "setup": "node setup.mjs",
+    "dev": "turbo run dev",
+    "dev:api": "pnpm --filter api run dev",
+    "dev:web": "pnpm --filter web run dev",
+    "dev:admin": "pnpm --filter admin run dev",
+    "build": "turbo run build",
+    "build:api": "turbo run build --filter=api",
+    "build:web": "turbo run build --filter=web",
+    "build:admin": "turbo run build --filter=admin",
+    "lint": "turbo run lint",
+    "lint:api": "pnpm --filter api run lint",
+    "lint:web": "pnpm --filter web run lint",
+    "lint:admin": "pnpm --filter admin run lint",
+    "type-check": "turbo run type-check",
+    "type-check:api": "pnpm --filter api run type-check",
+    "type-check:web": "pnpm --filter web run type-check",
+    "type-check:admin": "pnpm --filter admin run type-check",
+    "test": "turbo run test"
+  },
+  "devDependencies": {
+    "turbo": "^2.11.7"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.21.0",
+      "onFail": "download"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build outputs and caches
+dist
+build
+out
+.next
+.turbo
+.cache
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment — the real values never leave your machine
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test reports
+coverage
+playwright-report
+test-results
+
+# OS and editors
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json

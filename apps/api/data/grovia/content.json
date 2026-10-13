@@ -1,0 +1,2225 @@
+{
+  "generatedFrom": "apps/web/src/data",
+  "products": [
+    {
+      "ref": "p1",
+      "slug": "kent-strawberries",
+      "name": "Kent Strawberries — Sweet, Tart & Picked at Dawn",
+      "category": "Berries",
+      "seller": "greenfield-grocers",
+      "price": 27.49,
+      "compareAt": 29.99,
+      "stock": 94,
+      "rating": 4.8,
+      "reviews": 189,
+      "unit": "250 g punnet",
+      "tag": "Best seller",
+      "image": "/images/products/kent-strawberries.png",
+      "description": "Kent Strawberries bought at market this morning, graded by hand and packed the same day. Sold in a 250 g punnet.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/kent-strawberries.png",
+        "/images/products/kent-strawberries/02.png",
+        "/images/products/kent-strawberries/03.png",
+        "/images/products/kent-strawberries/04.png"
+      ]
+    },
+    {
+      "ref": "p2",
+      "slug": "juicy-vine-tomatoes",
+      "name": "Juicy Vine Tomatoes — Bold Flavour, Naturally Sweet",
+      "category": "Salads & Greens",
+      "seller": "greenfield-grocers",
+      "price": 4.2,
+      "compareAt": 5.6,
+      "stock": 86,
+      "rating": 4.6,
+      "reviews": 142,
+      "unit": "500 g",
+      "tag": "Farm fresh",
+      "image": "/images/products/juicy-vine-tomatoes.png",
+      "description": "Juicy Vine Tomatoes bought at market this morning, graded by hand and packed the same day. Sold in a 500 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/juicy-vine-tomatoes.png",
+        "/images/products/juicy-vine-tomatoes/02.png",
+        "/images/products/juicy-vine-tomatoes/03.png",
+        "/images/products/juicy-vine-tomatoes/04.png"
+      ]
+    },
+    {
+      "ref": "p3",
+      "slug": "hass-avocados",
+      "name": "Hass Avocados — Buttery, Ripe & Ready to Eat",
+      "category": "Tropical",
+      "seller": "greenfield-grocers",
+      "price": 6.8,
+      "compareAt": 8.5,
+      "stock": 84,
+      "rating": 4.9,
+      "reviews": 311,
+      "unit": "Pack of 3",
+      "tag": "Trending",
+      "image": "/images/products/hass-avocados.png",
+      "description": "Hass Avocados bought at market this morning, graded by hand and packed the same day. Sold in a pack of 3.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/hass-avocados.png",
+        "/images/products/hass-avocados/02.png",
+        "/images/products/hass-avocados/03.png",
+        "/images/products/hass-avocados/04.png"
+      ]
+    },
+    {
+      "ref": "p4",
+      "slug": "tender-okra",
+      "name": "Tender Okra — Young, Snappy & Hand Picked",
+      "category": "Summer Veg",
+      "seller": "greenfield-grocers",
+      "price": 3.1,
+      "compareAt": 0,
+      "stock": 75,
+      "rating": 4.4,
+      "reviews": 96,
+      "unit": "400 g bag",
+      "tag": "",
+      "image": "/images/products/tender-okra.png",
+      "description": "Tender Okra bought at market this morning, graded by hand and packed the same day. Sold in a 400 g bag.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/tender-okra.png",
+        "/images/products/tender-okra/02.png",
+        "/images/products/tender-okra/03.png",
+        "/images/products/tender-okra/04.png",
+        "/images/products/tender-okra/05.png"
+      ]
+    },
+    {
+      "ref": "p5",
+      "slug": "crown-broccoli",
+      "name": "Crown Broccoli — Crisp Florets, Picked This Morning",
+      "category": "Brassicas",
+      "seller": "greenfield-grocers",
+      "price": 3.75,
+      "compareAt": 4.9,
+      "stock": 91,
+      "rating": 4.5,
+      "reviews": 74,
+      "unit": "Per head",
+      "tag": "",
+      "image": "/images/products/crown-broccoli.png",
+      "description": "Crown Broccoli bought at market this morning, graded by hand and packed the same day. Sold in a per head.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/crown-broccoli.png",
+        "/images/products/crown-broccoli/02.png",
+        "/images/products/crown-broccoli/04.png",
+        "/images/products/crown-broccoli/06.png"
+      ]
+    },
+    {
+      "ref": "p6",
+      "slug": "seedless-watermelon",
+      "name": "Seedless Watermelon — Deep Red, Cool & Refreshing",
+      "category": "Melons",
+      "seller": "greenfield-grocers",
+      "price": 9.4,
+      "compareAt": 0,
+      "stock": 76,
+      "rating": 4.7,
+      "reviews": 203,
+      "unit": "Half melon",
+      "tag": "Seasonal",
+      "image": "/images/products/seedless-watermelon.png",
+      "description": "Seedless Watermelon bought at market this morning, graded by hand and packed the same day. Sold in a half melon.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/seedless-watermelon.png",
+        "/images/products/seedless-watermelon/02.png",
+        "/images/products/seedless-watermelon/03.png",
+        "/images/products/seedless-watermelon/04.png"
+      ]
+    },
+    {
+      "ref": "p7",
+      "slug": "alphonso-mango",
+      "name": "Alphonso Mango — Fragrant, Silky & Sun-Ripened",
+      "category": "Tropical",
+      "seller": "greenfield-grocers",
+      "price": 12.6,
+      "compareAt": 15,
+      "stock": 96,
+      "rating": 4.9,
+      "reviews": 428,
+      "unit": "Pack of 2",
+      "tag": "Editor's pick",
+      "image": "/images/products/alphonso-mango.png",
+      "description": "Alphonso Mango bought at market this morning, graded by hand and packed the same day. Sold in a pack of 2.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/alphonso-mango.png",
+        "/images/products/alphonso-mango/02.png",
+        "/images/products/alphonso-mango/03.png",
+        "/images/products/alphonso-mango/04.png"
+      ]
+    },
+    {
+      "ref": "p8",
+      "slug": "baby-potatoes",
+      "name": "Baby Potatoes — Waxy, Creamy & Perfect for Roasting",
+      "category": "Roots & Alliums",
+      "seller": "greenfield-grocers",
+      "price": 5.25,
+      "compareAt": 0,
+      "stock": 63,
+      "rating": 4.3,
+      "reviews": 58,
+      "unit": "1.5 kg bag",
+      "tag": "",
+      "image": "/images/products/baby-potatoes.png",
+      "description": "Baby Potatoes bought at market this morning, graded by hand and packed the same day. Sold in a 1.5 kg bag.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/baby-potatoes.png",
+        "/images/products/baby-potatoes/02.png",
+        "/images/products/baby-potatoes/03.png",
+        "/images/products/baby-potatoes/04.png"
+      ]
+    },
+    {
+      "ref": "p9",
+      "slug": "green-cabbage",
+      "name": "Green Cabbage — Dense, Crunchy & Locally Grown",
+      "category": "Brassicas",
+      "seller": "greenfield-grocers",
+      "price": 2.95,
+      "compareAt": 3.8,
+      "stock": 92,
+      "rating": 4.2,
+      "reviews": 41,
+      "unit": "Per head",
+      "tag": "",
+      "image": "/images/products/green-cabbage.png",
+      "description": "Green Cabbage bought at market this morning, graded by hand and packed the same day. Sold in a per head.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/green-cabbage.png",
+        "/images/products/green-cabbage/02.png",
+        "/images/products/green-cabbage/03.png",
+        "/images/products/green-cabbage/04.png"
+      ]
+    },
+    {
+      "ref": "p10",
+      "slug": "persian-limes",
+      "name": "Persian Limes — Zesty, Juicy & Cocktail Ready",
+      "category": "Citrus",
+      "seller": "greenfield-grocers",
+      "price": 4.6,
+      "compareAt": 0,
+      "stock": 83,
+      "rating": 4.6,
+      "reviews": 88,
+      "unit": "Pack of 6",
+      "tag": "",
+      "image": "/images/products/persian-limes.png",
+      "description": "Persian Limes bought at market this morning, graded by hand and packed the same day. Sold in a pack of 6.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/persian-limes.png",
+        "/images/products/persian-limes/02.png",
+        "/images/products/persian-limes/03.png",
+        "/images/products/persian-limes/04.png"
+      ]
+    },
+    {
+      "ref": "p11",
+      "slug": "sweet-snacking-carrots",
+      "name": "Sweet Snacking Carrots — Washed, Peeled & Ready",
+      "category": "Roots & Alliums",
+      "seller": "greenfield-grocers",
+      "price": 3.4,
+      "compareAt": 4.25,
+      "stock": 76,
+      "rating": 4.7,
+      "reviews": 167,
+      "unit": "400 g bag",
+      "tag": "Kids love it",
+      "image": "/images/products/sweet-snacking-carrots.png",
+      "description": "Sweet Snacking Carrots bought at market this morning, graded by hand and packed the same day. Sold in a 400 g bag.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/sweet-snacking-carrots.png",
+        "/images/products/sweet-snacking-carrots/02.png",
+        "/images/products/sweet-snacking-carrots/03.png",
+        "/images/products/sweet-snacking-carrots/04.png",
+        "/images/products/sweet-snacking-carrots/05.png",
+        "/images/products/sweet-snacking-carrots/06.png"
+      ]
+    },
+    {
+      "ref": "p12",
+      "slug": "roma-tomatoes",
+      "name": "Roma Tomatoes — Tray Packed, Firm & Meaty",
+      "category": "Salads & Greens",
+      "seller": "greenfield-grocers",
+      "price": 5.9,
+      "compareAt": 7.2,
+      "stock": 93,
+      "rating": 4.5,
+      "reviews": 112,
+      "unit": "Tray of 6",
+      "tag": "",
+      "image": "/images/products/roma-tomatoes.png",
+      "description": "Roma Tomatoes bought at market this morning, graded by hand and packed the same day. Sold in a tray of 6.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/roma-tomatoes.png",
+        "/images/products/roma-tomatoes/02.png",
+        "/images/products/roma-tomatoes/03.png",
+        "/images/products/roma-tomatoes/04.png"
+      ]
+    },
+    {
+      "ref": "p13",
+      "slug": "california-walnut-halves",
+      "name": "California Walnut Halves — Raw, Unsalted & Crunchy",
+      "category": "Nuts & Pulses",
+      "seller": "cold-press-co",
+      "price": 14.3,
+      "compareAt": 17.9,
+      "stock": 75,
+      "rating": 4.8,
+      "reviews": 234,
+      "unit": "500 g pouch",
+      "tag": "Bulk save",
+      "image": "/images/products/california-walnut-halves.png",
+      "description": "California Walnut Halves bought at market this morning, graded by hand and packed the same day. Sold in a 500 g pouch.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/california-walnut-halves.png",
+        "/images/products/california-walnut-halves/02.png",
+        "/images/products/california-walnut-halves/03.png",
+        "/images/products/california-walnut-halves/04.png"
+      ]
+    },
+    {
+      "ref": "p15",
+      "slug": "grass-fed-beef-patties",
+      "name": "Grass-Fed Beef Patties — 12% Fat, Butcher Packed",
+      "category": "Beef",
+      "seller": "harvest-lane",
+      "price": 11.75,
+      "compareAt": 13.5,
+      "stock": 87,
+      "rating": 4.6,
+      "reviews": 149,
+      "unit": "Tray of 2",
+      "tag": "",
+      "image": "/images/products/grass-fed-beef-patties.png",
+      "description": "Grass-Fed Beef Patties bought at market this morning, graded by hand and packed the same day. Sold in a tray of 2.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/grass-fed-beef-patties.png",
+        "/images/products/grass-fed-beef-patties/02.png",
+        "/images/products/grass-fed-beef-patties/03.png"
+      ]
+    },
+    {
+      "ref": "p16",
+      "slug": "atlantic-salmon-steaks",
+      "name": "Atlantic Salmon Steaks — Bone In, Tray Packed",
+      "category": "Fish",
+      "seller": "harvest-lane",
+      "price": 18.4,
+      "compareAt": 22,
+      "stock": 60,
+      "rating": 4.8,
+      "reviews": 276,
+      "unit": "2 × 150 g",
+      "tag": "Chef's choice",
+      "image": "/images/products/atlantic-salmon-steaks.png",
+      "description": "Atlantic Salmon Steaks bought at market this morning, graded by hand and packed the same day. Sold in a 2 × 150 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/atlantic-salmon-steaks.png",
+        "/images/products/atlantic-salmon-steaks/02.png",
+        "/images/products/atlantic-salmon-steaks/03.png"
+      ]
+    },
+    {
+      "ref": "p17",
+      "slug": "milho-verde-sweetcorn-lollies",
+      "name": "Milho Verde Sweetcorn Lollies — Creamy & Frozen",
+      "category": "Frozen Treats",
+      "seller": "cold-press-co",
+      "price": 6.3,
+      "compareAt": 7.8,
+      "stock": 83,
+      "rating": 4.3,
+      "reviews": 67,
+      "unit": "6 pack",
+      "tag": "",
+      "image": "/images/products/milho-verde-sweetcorn-lollies.jpg",
+      "description": "Milho Verde Sweetcorn Lollies bought at market this morning, graded by hand and packed the same day. Sold in a 6 pack.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/milho-verde-sweetcorn-lollies.jpg",
+        "/images/products/milho-verde-sweetcorn-lollies/02.png",
+        "/images/products/milho-verde-sweetcorn-lollies/03.png",
+        "/images/products/milho-verde-sweetcorn-lollies/04.png"
+      ]
+    },
+    {
+      "ref": "p18",
+      "slug": "vine-tomatoes",
+      "name": "Vine Tomatoes — Tray Packed, Slow Ripened",
+      "category": "Salads & Greens",
+      "seller": "greenfield-grocers",
+      "price": 6.1,
+      "compareAt": 0,
+      "stock": 79,
+      "rating": 4.4,
+      "reviews": 53,
+      "unit": "400 g",
+      "tag": "",
+      "image": "/images/products/vine-tomatoes.png",
+      "description": "Vine Tomatoes bought at market this morning, graded by hand and packed the same day. Sold in a 400 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/vine-tomatoes.png",
+        "/images/products/vine-tomatoes/02.png",
+        "/images/products/vine-tomatoes/03.png",
+        "/images/products/vine-tomatoes/04.png"
+      ]
+    },
+    {
+      "ref": "p19",
+      "slug": "wild-blueberries",
+      "name": "Wild Blueberries — Small, Intense & Dusted Bloom",
+      "category": "Berries",
+      "seller": "harvest-lane",
+      "price": 5.9,
+      "compareAt": 6.8,
+      "stock": 78,
+      "rating": 4.7,
+      "reviews": 154,
+      "unit": "200 g punnet",
+      "tag": "Trending",
+      "image": "/images/products/wild-blueberries/01.png",
+      "description": "Wild Blueberries bought at market this morning, graded by hand and packed the same day. Sold in a 200 g punnet.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/wild-blueberries/01.png",
+        "/images/products/wild-blueberries/02.png",
+        "/images/products/wild-blueberries/03.png",
+        "/images/products/wild-blueberries/04.png"
+      ]
+    },
+    {
+      "ref": "p20",
+      "slug": "pink-lady-apples",
+      "name": "Pink Lady Apples — Crisp, Sweet-Sharp & Polished",
+      "category": "Orchard",
+      "seller": "greenfield-grocers",
+      "price": 4.5,
+      "compareAt": 0,
+      "stock": 62,
+      "rating": 4.6,
+      "reviews": 201,
+      "unit": "Pack of 6",
+      "tag": "",
+      "image": "/images/products/pink-lady-apples/01.png",
+      "description": "Pink Lady Apples bought at market this morning, graded by hand and packed the same day. Sold in a pack of 6.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/pink-lady-apples/01.png",
+        "/images/products/pink-lady-apples/02.png",
+        "/images/products/pink-lady-apples/03.png",
+        "/images/products/pink-lady-apples/04.png"
+      ]
+    },
+    {
+      "ref": "p21",
+      "slug": "conference-pears",
+      "name": "Conference Pears — Honeyed, Firm & Just Ripe",
+      "category": "Orchard",
+      "seller": "harvest-lane",
+      "price": 3.8,
+      "compareAt": 4.6,
+      "stock": 98,
+      "rating": 4.4,
+      "reviews": 92,
+      "unit": "Pack of 4",
+      "tag": "",
+      "image": "/images/products/conference-pears/01.png",
+      "description": "Conference Pears bought at market this morning, graded by hand and packed the same day. Sold in a pack of 4.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/conference-pears/01.png",
+        "/images/products/conference-pears/02.png",
+        "/images/products/conference-pears/03.png",
+        "/images/products/conference-pears/04.png"
+      ]
+    },
+    {
+      "ref": "p22",
+      "slug": "navel-oranges",
+      "name": "Navel Oranges — Heavy, Bright & Easy to Peel",
+      "category": "Citrus",
+      "seller": "greenfield-grocers",
+      "price": 3.2,
+      "compareAt": 0,
+      "stock": 100,
+      "rating": 4.5,
+      "reviews": 118,
+      "unit": "Net of 4",
+      "tag": "Everyday",
+      "image": "/images/products/navel-oranges/01.png",
+      "description": "Navel Oranges bought at market this morning, graded by hand and packed the same day. Sold in a net of 4.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/navel-oranges/01.png",
+        "/images/products/navel-oranges/02.png",
+        "/images/products/navel-oranges/03.png",
+        "/images/products/navel-oranges/04.png",
+        "/images/products/navel-oranges/05.png",
+        "/images/products/navel-oranges/06.png"
+      ]
+    },
+    {
+      "ref": "p23",
+      "slug": "red-seedless-grapes",
+      "name": "Red Seedless Grapes — Crisp, Juicy & Cold-Stored",
+      "category": "Berries",
+      "seller": "harvest-lane",
+      "price": 4.9,
+      "compareAt": 5.8,
+      "stock": 93,
+      "rating": 4.6,
+      "reviews": 176,
+      "unit": "500 g bunch",
+      "tag": "",
+      "image": "/images/products/red-seedless-grapes/01.png",
+      "description": "Red Seedless Grapes bought at market this morning, graded by hand and packed the same day. Sold in a 500 g bunch.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/red-seedless-grapes/01.png",
+        "/images/products/red-seedless-grapes/02.png",
+        "/images/products/red-seedless-grapes/03.png",
+        "/images/products/red-seedless-grapes/04.png"
+      ]
+    },
+    {
+      "ref": "p24",
+      "slug": "mixed-bell-peppers",
+      "name": "Mixed Bell Peppers — Red, Yellow & Green",
+      "category": "Salads & Greens",
+      "seller": "greenfield-grocers",
+      "price": 3.6,
+      "compareAt": 4.4,
+      "stock": 68,
+      "rating": 4.5,
+      "reviews": 133,
+      "unit": "Pack of 3",
+      "tag": "Farm fresh",
+      "image": "/images/products/mixed-bell-peppers/01.png",
+      "description": "Mixed Bell Peppers bought at market this morning, graded by hand and packed the same day. Sold in a pack of 3.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/mixed-bell-peppers/01.png",
+        "/images/products/mixed-bell-peppers/02.png",
+        "/images/products/mixed-bell-peppers/03.png",
+        "/images/products/mixed-bell-peppers/04.png"
+      ]
+    },
+    {
+      "ref": "p25",
+      "slug": "ridge-cucumbers",
+      "name": "Ridge Cucumbers — Cool, Firm & Thin Skinned",
+      "category": "Salads & Greens",
+      "seller": "harvest-lane",
+      "price": 1.9,
+      "compareAt": 0,
+      "stock": 94,
+      "rating": 4.3,
+      "reviews": 64,
+      "unit": "Each",
+      "tag": "",
+      "image": "/images/products/ridge-cucumbers/01.png",
+      "description": "Ridge Cucumbers bought at market this morning, graded by hand and packed the same day. Sold in a each.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/ridge-cucumbers/01.png",
+        "/images/products/ridge-cucumbers/02.png",
+        "/images/products/ridge-cucumbers/03.png",
+        "/images/products/ridge-cucumbers/04.png",
+        "/images/products/ridge-cucumbers/05.png",
+        "/images/products/ridge-cucumbers/06.png"
+      ]
+    },
+    {
+      "ref": "p26",
+      "slug": "red-onions",
+      "name": "Red Onions — Tight Skins, Mild Heat",
+      "category": "Roots & Alliums",
+      "seller": "greenfield-grocers",
+      "price": 1.75,
+      "compareAt": 0,
+      "stock": 89,
+      "rating": 4.4,
+      "reviews": 81,
+      "unit": "1 kg net",
+      "tag": "Everyday",
+      "image": "/images/products/red-onions/01.png",
+      "description": "Red Onions bought at market this morning, graded by hand and packed the same day. Sold in a 1 kg net.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/red-onions/01.png",
+        "/images/products/red-onions/02.png",
+        "/images/products/red-onions/03.png",
+        "/images/products/red-onions/04.png"
+      ]
+    },
+    {
+      "ref": "p27",
+      "slug": "baby-leaf-spinach",
+      "name": "Baby Leaf Spinach — Tender, Washed & Ready",
+      "category": "Salads & Greens",
+      "seller": "harvest-lane",
+      "price": 2.4,
+      "compareAt": 2.9,
+      "stock": 70,
+      "rating": 4.6,
+      "reviews": 147,
+      "unit": "200 g",
+      "tag": "",
+      "image": "/images/products/baby-leaf-spinach/01.png",
+      "description": "Baby Leaf Spinach bought at market this morning, graded by hand and packed the same day. Sold in a 200 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/baby-leaf-spinach/01.png",
+        "/images/products/baby-leaf-spinach/02.png",
+        "/images/products/baby-leaf-spinach/03.png",
+        "/images/products/baby-leaf-spinach/04.png"
+      ]
+    },
+    {
+      "ref": "p28",
+      "slug": "garlic-bulbs",
+      "name": "Garlic Bulbs — Tight, Pungent & Papery White",
+      "category": "Roots & Alliums",
+      "seller": "greenfield-grocers",
+      "price": 2.1,
+      "compareAt": 0,
+      "stock": 90,
+      "rating": 4.5,
+      "reviews": 99,
+      "unit": "3 bulbs",
+      "tag": "",
+      "image": "/images/products/garlic-bulbs/01.png",
+      "description": "Garlic Bulbs bought at market this morning, graded by hand and packed the same day. Sold in a 3 bulbs.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/garlic-bulbs/01.png",
+        "/images/products/garlic-bulbs/02.png",
+        "/images/products/garlic-bulbs/03.png",
+        "/images/products/garlic-bulbs/04.png"
+      ]
+    },
+    {
+      "ref": "p29",
+      "slug": "courgettes",
+      "name": "Courgettes — Glossy, Firm & Harvested Young",
+      "category": "Summer Veg",
+      "seller": "harvest-lane",
+      "price": 2.6,
+      "compareAt": 3.2,
+      "stock": 69,
+      "rating": 4.4,
+      "reviews": 73,
+      "unit": "500 g",
+      "tag": "",
+      "image": "/images/products/courgettes/01.png",
+      "description": "Courgettes bought at market this morning, graded by hand and packed the same day. Sold in a 500 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/courgettes/01.png",
+        "/images/products/courgettes/02.png",
+        "/images/products/courgettes/03.png",
+        "/images/products/courgettes/04.png"
+      ]
+    },
+    {
+      "ref": "p30",
+      "slug": "jumbo-rolled-oats",
+      "name": "Jumbo Rolled Oats — Creamy Porridge Flakes",
+      "category": "Oats & Cereals",
+      "seller": "cold-press-co",
+      "price": 3.15,
+      "compareAt": 3.9,
+      "stock": 93,
+      "rating": 4.7,
+      "reviews": 188,
+      "unit": "1 kg pouch",
+      "tag": "Everyday",
+      "image": "/images/products/jumbo-rolled-oats/01.png",
+      "description": "Jumbo Rolled Oats bought at market this morning, graded by hand and packed the same day. Sold in a 1 kg pouch.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/jumbo-rolled-oats/01.png",
+        "/images/products/jumbo-rolled-oats/02.png",
+        "/images/products/jumbo-rolled-oats/03.png"
+      ]
+    },
+    {
+      "ref": "p31",
+      "slug": "puy-lentils",
+      "name": "Puy Lentils — Small, Peppery & Hold Their Shape",
+      "category": "Nuts & Pulses",
+      "seller": "cold-press-co",
+      "price": 4.25,
+      "compareAt": 0,
+      "stock": 64,
+      "rating": 4.5,
+      "reviews": 76,
+      "unit": "500 g",
+      "tag": "",
+      "image": "/images/products/puy-lentils/01.png",
+      "description": "Puy Lentils bought at market this morning, graded by hand and packed the same day. Sold in a 500 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/puy-lentils/01.png",
+        "/images/products/puy-lentils/02.png",
+        "/images/products/puy-lentils/03.png",
+        "/images/products/puy-lentils/04.png"
+      ]
+    },
+    {
+      "ref": "p32",
+      "slug": "free-range-eggs",
+      "name": "Free-Range Eggs — Brown, Mixed Size, Farm Dated",
+      "category": "Eggs",
+      "seller": "greenfield-grocers",
+      "price": 3.9,
+      "compareAt": 4.5,
+      "stock": 79,
+      "rating": 4.8,
+      "reviews": 265,
+      "unit": "Box of 6",
+      "tag": "Best seller",
+      "image": "/images/products/free-range-eggs/01.png",
+      "description": "Free-Range Eggs bought at market this morning, graded by hand and packed the same day. Sold in a box of 6.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/free-range-eggs/01.png",
+        "/images/products/free-range-eggs/02.png",
+        "/images/products/free-range-eggs/03.png"
+      ]
+    },
+    {
+      "ref": "p33",
+      "slug": "runny-blossom-honey",
+      "name": "Runny Blossom Honey — Clear, Floral & Unfiltered",
+      "category": "Honey & Spreads",
+      "seller": "cold-press-co",
+      "price": 7.4,
+      "compareAt": 8.9,
+      "stock": 85,
+      "rating": 4.7,
+      "reviews": 121,
+      "unit": "340 g jar",
+      "tag": "",
+      "image": "/images/products/runny-blossom-honey/01.png",
+      "description": "Runny Blossom Honey bought at market this morning, graded by hand and packed the same day. Sold in a 340 g jar.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/runny-blossom-honey/01.png",
+        "/images/products/runny-blossom-honey/02.png",
+        "/images/products/runny-blossom-honey/03.png"
+      ]
+    },
+    {
+      "ref": "p34",
+      "slug": "chicken-thigh-fillets",
+      "name": "Chicken Thigh Fillets — Skinless, Outdoor Reared",
+      "category": "Chicken",
+      "seller": "greenfield-grocers",
+      "price": 8.6,
+      "compareAt": 9.9,
+      "stock": 63,
+      "rating": 4.5,
+      "reviews": 134,
+      "unit": "600 g",
+      "tag": "",
+      "image": "/images/products/chicken-thigh-fillets/01.png",
+      "description": "Chicken Thigh Fillets bought at market this morning, graded by hand and packed the same day. Sold in a 600 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/chicken-thigh-fillets/01.png",
+        "/images/products/chicken-thigh-fillets/02.png",
+        "/images/products/chicken-thigh-fillets/03.png"
+      ]
+    },
+    {
+      "ref": "p35",
+      "slug": "outdoor-pork-sausages",
+      "name": "Outdoor Pork Sausages — Herby, Butcher Linked",
+      "category": "Pork",
+      "seller": "greenfield-grocers",
+      "price": 6.5,
+      "compareAt": 0,
+      "stock": 79,
+      "rating": 4.6,
+      "reviews": 98,
+      "unit": "Pack of 6",
+      "tag": "Farm fresh",
+      "image": "/images/products/outdoor-pork-sausages/01.png",
+      "description": "Outdoor Pork Sausages bought at market this morning, graded by hand and packed the same day. Sold in a pack of 6.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/outdoor-pork-sausages/01.png",
+        "/images/products/outdoor-pork-sausages/02.png",
+        "/images/products/outdoor-pork-sausages/03.png"
+      ]
+    },
+    {
+      "ref": "p36",
+      "slug": "raw-king-prawns",
+      "name": "Raw King Prawns — Peeled, Tail On, Frozen at Sea",
+      "category": "Shellfish",
+      "seller": "greenfield-grocers",
+      "price": 9.8,
+      "compareAt": 12.4,
+      "stock": 82,
+      "rating": 4.7,
+      "reviews": 156,
+      "unit": "300 g",
+      "tag": "",
+      "image": "/images/products/raw-king-prawns/01.png",
+      "description": "Raw King Prawns bought at market this morning, graded by hand and packed the same day. Sold in a 300 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/raw-king-prawns/01.png",
+        "/images/products/raw-king-prawns/02.png",
+        "/images/products/raw-king-prawns/03.png"
+      ]
+    },
+    {
+      "ref": "p37",
+      "slug": "skinless-cod-fillets",
+      "name": "Skinless Cod Fillets — Thick, White & MSC",
+      "category": "Fish",
+      "seller": "greenfield-grocers",
+      "price": 11.2,
+      "compareAt": 13.5,
+      "stock": 100,
+      "rating": 4.6,
+      "reviews": 109,
+      "unit": "2 × 140 g",
+      "tag": "",
+      "image": "/images/products/skinless-cod-fillets/01.png",
+      "description": "Skinless Cod Fillets bought at market this morning, graded by hand and packed the same day. Sold in a 2 × 140 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/skinless-cod-fillets/01.png",
+        "/images/products/skinless-cod-fillets/02.png",
+        "/images/products/skinless-cod-fillets/03.png"
+      ]
+    },
+    {
+      "ref": "p38",
+      "slug": "frozen-garden-peas",
+      "name": "Frozen Garden Peas — Sweet, Bright & IQF",
+      "category": "Frozen Veg",
+      "seller": "cold-press-co",
+      "price": 1.85,
+      "compareAt": 2.3,
+      "stock": 90,
+      "rating": 4.4,
+      "reviews": 87,
+      "unit": "750 g",
+      "tag": "Everyday",
+      "image": "/images/products/frozen-garden-peas/01.png",
+      "description": "Frozen Garden Peas bought at market this morning, graded by hand and packed the same day. Sold in a 750 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/frozen-garden-peas/01.png",
+        "/images/products/frozen-garden-peas/02.png",
+        "/images/products/frozen-garden-peas/03.png",
+        "/images/products/frozen-garden-peas/04.png"
+      ]
+    },
+    {
+      "ref": "p39",
+      "slug": "frozen-mixed-berries",
+      "name": "Frozen Mixed Berries — Strawberries, Raspberries & Blackberries",
+      "category": "Frozen Fruit",
+      "seller": "cold-press-co",
+      "price": 4.1,
+      "compareAt": 5.2,
+      "stock": 77,
+      "rating": 4.6,
+      "reviews": 143,
+      "unit": "500 g",
+      "tag": "",
+      "image": "/images/products/frozen-mixed-berries/01.png",
+      "description": "Frozen Mixed Berries bought at market this morning, graded by hand and packed the same day. Sold in a 500 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/frozen-mixed-berries/01.png",
+        "/images/products/frozen-mixed-berries/02.png",
+        "/images/products/frozen-mixed-berries/03.png",
+        "/images/products/frozen-mixed-berries/04.png"
+      ]
+    },
+    {
+      "ref": "p40",
+      "slug": "cavendish-bananas",
+      "name": "Cavendish Bananas — Ripe, Creamy & Snack Ready",
+      "category": "Tropical",
+      "seller": "harvest-lane",
+      "price": 2.15,
+      "compareAt": 0,
+      "stock": 84,
+      "rating": 4.5,
+      "reviews": 210,
+      "unit": "Bunch of 5",
+      "tag": "Everyday",
+      "image": "/images/products/cavendish-bananas/01.png",
+      "description": "Cavendish Bananas bought at market this morning, graded by hand and packed the same day. Sold in a bunch of 5.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/cavendish-bananas/01.png",
+        "/images/products/cavendish-bananas/02.png",
+        "/images/products/cavendish-bananas/03.png",
+        "/images/products/cavendish-bananas/04.png"
+      ]
+    },
+    {
+      "ref": "p41",
+      "slug": "ripe-kiwis",
+      "name": "Ripe Kiwis — Bright Green, Tangy & Ready",
+      "category": "Tropical",
+      "seller": "greenfield-grocers",
+      "price": 3.4,
+      "compareAt": 4.1,
+      "stock": 60,
+      "rating": 4.6,
+      "reviews": 88,
+      "unit": "Pack of 6",
+      "tag": "",
+      "image": "/images/products/ripe-kiwis/01.png",
+      "description": "Ripe Kiwis bought at market this morning, graded by hand and packed the same day. Sold in a pack of 6.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/ripe-kiwis/01.png",
+        "/images/products/ripe-kiwis/02.png",
+        "/images/products/ripe-kiwis/03.png",
+        "/images/products/ripe-kiwis/04.png"
+      ]
+    },
+    {
+      "ref": "p42",
+      "slug": "sicilian-lemons",
+      "name": "Sicilian Lemons — Thick Skinned, Juicy & Fragrant",
+      "category": "Citrus",
+      "seller": "harvest-lane",
+      "price": 2.4,
+      "compareAt": 0,
+      "stock": 97,
+      "rating": 4.5,
+      "reviews": 73,
+      "unit": "Pack of 4",
+      "tag": "",
+      "image": "/images/products/sicilian-lemons/01.png",
+      "description": "Sicilian Lemons bought at market this morning, graded by hand and packed the same day. Sold in a pack of 4.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/sicilian-lemons/01.png",
+        "/images/products/sicilian-lemons/02.png",
+        "/images/products/sicilian-lemons/03.png",
+        "/images/products/sicilian-lemons/04.png"
+      ]
+    },
+    {
+      "ref": "p43",
+      "slug": "snow-cauliflower",
+      "name": "Snow Cauliflower — Tight Curds, Fresh Cut",
+      "category": "Brassicas",
+      "seller": "greenfield-grocers",
+      "price": 3.1,
+      "compareAt": 3.9,
+      "stock": 64,
+      "rating": 4.4,
+      "reviews": 61,
+      "unit": "Per head",
+      "tag": "",
+      "image": "/images/products/snow-cauliflower/01.png",
+      "description": "Snow Cauliflower bought at market this morning, graded by hand and packed the same day. Sold in a per head.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/snow-cauliflower/01.png",
+        "/images/products/snow-cauliflower/02.png",
+        "/images/products/snow-cauliflower/03.png",
+        "/images/products/snow-cauliflower/04.png"
+      ]
+    },
+    {
+      "ref": "p44",
+      "slug": "glossy-aubergines",
+      "name": "Glossy Aubergines — Firm, Shiny & Bitter-Free",
+      "category": "Summer Veg",
+      "seller": "harvest-lane",
+      "price": 2.7,
+      "compareAt": 0,
+      "stock": 98,
+      "rating": 4.3,
+      "reviews": 54,
+      "unit": "500 g",
+      "tag": "",
+      "image": "/images/products/glossy-aubergines/01.png",
+      "description": "Glossy Aubergines bought at market this morning, graded by hand and packed the same day. Sold in a 500 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/glossy-aubergines/01.png",
+        "/images/products/glossy-aubergines/02.png",
+        "/images/products/glossy-aubergines/03.png",
+        "/images/products/glossy-aubergines/04.png"
+      ]
+    },
+    {
+      "ref": "p45",
+      "slug": "extra-virgin-olive-oil",
+      "name": "Extra Virgin Olive Oil — Cold Pressed, Peppery Finish",
+      "category": "Oils & Vinegars",
+      "seller": "cold-press-co",
+      "price": 8.9,
+      "compareAt": 10.5,
+      "stock": 82,
+      "rating": 4.8,
+      "reviews": 192,
+      "unit": "500 ml",
+      "tag": "Editor's pick",
+      "image": "/images/products/extra-virgin-olive-oil/01.png",
+      "description": "Extra Virgin Olive Oil bought at market this morning, graded by hand and packed the same day. Sold in a 500 ml.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/extra-virgin-olive-oil/01.png",
+        "/images/products/extra-virgin-olive-oil/02.png",
+        "/images/products/extra-virgin-olive-oil/03.png"
+      ]
+    },
+    {
+      "ref": "p46",
+      "slug": "mature-cheddar",
+      "name": "Mature Cheddar — Twelve Month, Cloth-Bound Style",
+      "category": "Cheese",
+      "seller": "greenfield-grocers",
+      "price": 4.6,
+      "compareAt": 5.4,
+      "stock": 68,
+      "rating": 4.7,
+      "reviews": 156,
+      "unit": "400 g",
+      "tag": "",
+      "image": "/images/products/mature-cheddar/01.png",
+      "description": "Mature Cheddar bought at market this morning, graded by hand and packed the same day. Sold in a 400 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/mature-cheddar/01.png",
+        "/images/products/mature-cheddar/02.png",
+        "/images/products/mature-cheddar/03.png"
+      ]
+    },
+    {
+      "ref": "p47",
+      "slug": "aged-basmati-rice",
+      "name": "Aged Basmati Rice — Long Grain, Fragrant",
+      "category": "Pasta & Rice",
+      "seller": "cold-press-co",
+      "price": 3.85,
+      "compareAt": 0,
+      "stock": 68,
+      "rating": 4.6,
+      "reviews": 101,
+      "unit": "1 kg",
+      "tag": "Everyday",
+      "image": "/images/products/aged-basmati-rice/01.png",
+      "description": "Aged Basmati Rice bought at market this morning, graded by hand and packed the same day. Sold in a 1 kg.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/aged-basmati-rice/01.png",
+        "/images/products/aged-basmati-rice/02.png",
+        "/images/products/aged-basmati-rice/03.png",
+        "/images/products/aged-basmati-rice/04.png"
+      ]
+    },
+    {
+      "ref": "p48",
+      "slug": "bronze-die-spaghetti",
+      "name": "Bronze-Die Spaghetti — Rough Texture, Holds Sauce",
+      "category": "Pasta & Rice",
+      "seller": "cold-press-co",
+      "price": 2.15,
+      "compareAt": 2.6,
+      "stock": 95,
+      "rating": 4.5,
+      "reviews": 84,
+      "unit": "500 g",
+      "tag": "",
+      "image": "/images/products/bronze-die-spaghetti/01.png",
+      "description": "Bronze-Die Spaghetti bought at market this morning, graded by hand and packed the same day. Sold in a 500 g.\n\nWe list this only while the crop holds up. If quality drops mid-season it comes off the site rather than going out at a discount.",
+      "images": [
+        "/images/products/bronze-die-spaghetti/01.png",
+        "/images/products/bronze-die-spaghetti/02.png",
+        "/images/products/bronze-die-spaghetti/03.png"
+      ]
+    },
+    {
+      "ref": "p49",
+      "slug": "fresh-squeezed-orange-juice",
+      "name": "Fresh-Squeezed Orange Juice — Valencia, Never From Concentrate",
+      "category": "Juices & Smoothies",
+      "seller": "cold-press-co",
+      "price": 4.99,
+      "compareAt": 5.99,
+      "stock": 72,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "1 L bottle",
+      "tag": "Best seller",
+      "image": "/images/products/fresh-squeezed-orange-juice.png",
+      "description": "Squeezed from whole Valencia oranges the morning it leaves us — nothing added, nothing taken out, and never reconstituted from concentrate. Expect real pulp, a sweet-sharp balance and the colour of the fruit itself.\n\nKeep it cold and drink it within four days of opening; it separates as it rests, which is how you know it is real. Give the bottle a shake before pouring.",
+      "images": [
+        "/images/products/fresh-squeezed-orange-juice.png"
+      ]
+    },
+    {
+      "ref": "p50",
+      "slug": "cloudy-apple-juice",
+      "name": "Cloudy Apple Juice — Pressed Braeburn & Cox, Unfiltered",
+      "category": "Juices & Smoothies",
+      "seller": "harvest-lane",
+      "price": 3.49,
+      "compareAt": 0,
+      "stock": 64,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "1 L bottle",
+      "tag": "Farm fresh",
+      "image": "/images/products/cloudy-apple-juice.png",
+      "description": "Braeburn for sweetness and Cox for that aromatic, slightly tart finish, pressed together and bottled unfiltered — so it pours hazy and tastes of the orchard rather than of sugar.\n\nLightly pasteurised for a longer life: unopened it keeps in a cool cupboard, once opened keep it in the fridge and finish it within five days.",
+      "images": [
+        "/images/products/cloudy-apple-juice.png"
+      ]
+    },
+    {
+      "ref": "p51",
+      "slug": "young-drinking-coconut",
+      "name": "Young Drinking Coconut — Tender Flesh, Straw Included",
+      "category": "Juices & Smoothies",
+      "seller": "greenfield-grocers",
+      "price": 2.99,
+      "compareAt": 3.49,
+      "stock": 48,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "Each",
+      "tag": "Trending",
+      "image": "/images/products/young-drinking-coconut.png",
+      "description": "A young green coconut, trimmed and scored so it opens with one firm push — around 300 ml of naturally sweet, lightly salty coconut water inside, and soft jelly-like flesh to scoop out once you have finished.\n\nChill it for an hour before opening. Each one comes with a paper straw; the flesh is best eaten the same day.",
+      "images": [
+        "/images/products/young-drinking-coconut.png"
+      ]
+    },
+    {
+      "ref": "p52",
+      "slug": "lassi-duo",
+      "name": "Lassi Duo — Mango & Classic Salted, Live Yoghurt",
+      "category": "Juices & Smoothies",
+      "seller": "cold-press-co",
+      "price": 3.99,
+      "compareAt": 0,
+      "stock": 40,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "2 × 250 ml bottles",
+      "tag": "Kids love it",
+      "image": "/images/products/lassi-duo.png",
+      "description": "Two bottles of lassi blended from live whole-milk yoghurt: one with ripe Alphonso mango pulp, one classic salted with a pinch of roasted cumin. Thick enough to feel like a treat, light enough for breakfast.\n\nMade in small batches and kept chilled all the way to your door. Shake well and drink within three days.",
+      "images": [
+        "/images/products/lassi-duo.png"
+      ]
+    },
+    {
+      "ref": "p53",
+      "slug": "lemon-iced-tea",
+      "name": "Lemon Iced Tea — Brewed Assam, Lightly Sweetened",
+      "category": "Tea & Coffee",
+      "seller": "cold-press-co",
+      "price": 2.79,
+      "compareAt": 3.29,
+      "stock": 86,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "1 L bottle",
+      "tag": "Seasonal",
+      "image": "/images/products/lemon-iced-tea.png",
+      "description": "Real Assam tea brewed hot, cooled slowly and finished with fresh lemon juice and just enough cane sugar to round it off — about a third of the sugar of a typical bottled iced tea.\n\nPour over plenty of ice with a slice of lemon. Keep refrigerated and drink within five days of opening.",
+      "images": [
+        "/images/products/lemon-iced-tea.png"
+      ]
+    },
+    {
+      "ref": "p54",
+      "slug": "darjeeling-loose-leaf-tea",
+      "name": "Darjeeling Loose Leaf Tea — Second Flush, Muscatel",
+      "category": "Tea & Coffee",
+      "seller": "greenfield-grocers",
+      "price": 7.49,
+      "compareAt": 8.99,
+      "stock": 55,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "100 g pouch",
+      "tag": "Editor's pick",
+      "image": "/images/products/darjeeling-loose-leaf-tea.png",
+      "description": "Whole-leaf second-flush Darjeeling from a single estate, picked in early summer when the leaf develops its famous muscatel note — bright, gently fruity and never bitter when brewed right.\n\nOne rounded teaspoon per cup, water just off the boil, three to four minutes. The resealable pouch makes around fifty cups; keep it away from light and strong smells.",
+      "images": [
+        "/images/products/darjeeling-loose-leaf-tea.png"
+      ]
+    },
+    {
+      "ref": "p55",
+      "slug": "dark-roast-coffee-beans",
+      "name": "Dark Roast Coffee Beans — Whole Bean, Chocolate & Toasted Nut",
+      "category": "Tea & Coffee",
+      "seller": "greenfield-grocers",
+      "price": 9.99,
+      "compareAt": 0,
+      "stock": 60,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "500 g bag",
+      "tag": "Chef's choice",
+      "image": "/images/products/dark-roast-coffee-beans.png",
+      "description": "A blend of Brazilian and Colombian arabica roasted dark for a heavy body, low acidity and notes of dark chocolate and toasted hazelnut. It stands up to milk and makes a proper espresso.\n\nSold as whole beans — grind just before brewing for the best cup. Roast date is printed on the bag; it is at its best within six weeks of it.",
+      "images": [
+        "/images/products/dark-roast-coffee-beans.png"
+      ]
+    },
+    {
+      "ref": "p56",
+      "slug": "cold-brew-coffee",
+      "name": "Cold Brew Coffee — 18-Hour Steep, Smooth & Low Acid",
+      "category": "Tea & Coffee",
+      "seller": "cold-press-co",
+      "price": 3.59,
+      "compareAt": 0,
+      "stock": 70,
+      "rating": 0,
+      "reviews": 0,
+      "unit": "500 ml bottle",
+      "tag": "Trending",
+      "image": "/images/products/cold-brew-coffee.png",
+      "description": "Coarse-ground arabica steeped in cold water for eighteen hours, then filtered twice. The slow extraction gives a naturally sweet, low-acid coffee with no bitterness — unsweetened and ready to drink.\n\nPour over ice as it is, or top with cold milk for an instant iced latte. Keep refrigerated; best within seven days of opening.",
+      "images": [
+        "/images/products/cold-brew-coffee.png"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fruits",
+      "slug": "fruits",
+      "image": "/images/products/alphonso-mango.png",
+      "count": 342,
+      "subs": "Berries · Citrus · Stone fruit · Melons",
+      "tint": "bg-lime/25"
+    },
+    {
+      "name": "Vegetables",
+      "slug": "vegetables",
+      "image": "/images/products/crown-broccoli.png",
+      "count": 418,
+      "subs": "Leafy greens · Roots · Salads · Herbs",
+      "tint": "bg-primary/12"
+    },
+    {
+      "name": "Dairy",
+      "slug": "dairy",
+      "image": "/images/products/free-range-eggs/01.png",
+      "count": 96,
+      "subs": "Eggs · Cheese · Milk · Yoghurt",
+      "tint": "bg-lime/20"
+    },
+    {
+      "name": "Bakery",
+      "slug": "bakery",
+      "image": "/images/products/jumbo-rolled-oats/01.png",
+      "count": 74,
+      "subs": "Oats · Honey · Flour · Spreads",
+      "tint": "bg-muted"
+    },
+    {
+      "name": "Meat",
+      "slug": "meat",
+      "image": "/images/products/grass-fed-beef-patties.png",
+      "count": 126,
+      "subs": "Beef · Chicken · Pork · Lamb",
+      "tint": "bg-brand/10"
+    },
+    {
+      "name": "Seafood",
+      "slug": "seafood",
+      "image": "/images/products/atlantic-salmon-steaks.png",
+      "count": 84,
+      "subs": "Fillets · Shellfish · Smoked · Sashimi",
+      "tint": "bg-primary-soft"
+    },
+    {
+      "name": "Pantry",
+      "slug": "pantry",
+      "image": "/images/products/california-walnut-halves.png",
+      "count": 512,
+      "subs": "Pasta & rice · Oils · Tins · Spreads",
+      "tint": "bg-muted"
+    },
+    {
+      "name": "Frozen",
+      "slug": "frozen",
+      "image": "/images/products/milho-verde-sweetcorn-lollies.jpg",
+      "count": 173,
+      "subs": "Veg · Fruit · Bakes · Desserts",
+      "tint": "bg-primary/8"
+    },
+    {
+      "name": "Beverages",
+      "slug": "beverages",
+      "image": "/images/products/fresh-squeezed-orange-juice.png",
+      "count": 48,
+      "subs": "Juice · Coconut · Tea · Coffee",
+      "tint": "bg-primary/10"
+    },
+    {
+      "name": "Berries",
+      "slug": "berries",
+      "image": "/images/products/kent-strawberries.png",
+      "count": 3,
+      "subs": "Strawberries, blueberries and grapes",
+      "tint": "bg-lime/25",
+      "parent": "fruits"
+    },
+    {
+      "name": "Citrus",
+      "slug": "citrus",
+      "image": "/images/products/persian-limes.png",
+      "count": 3,
+      "subs": "Limes, oranges and lemons",
+      "tint": "bg-lime/25",
+      "parent": "fruits"
+    },
+    {
+      "name": "Tropical",
+      "slug": "tropical",
+      "image": "/images/products/hass-avocados.png",
+      "count": 4,
+      "subs": "Avocado, mango, banana and kiwi",
+      "tint": "bg-lime/25",
+      "parent": "fruits"
+    },
+    {
+      "name": "Orchard",
+      "slug": "orchard",
+      "image": "/images/products/pink-lady-apples/01.png",
+      "count": 2,
+      "subs": "Apples and pears",
+      "tint": "bg-lime/25",
+      "parent": "fruits"
+    },
+    {
+      "name": "Melons",
+      "slug": "melons",
+      "image": "/images/products/seedless-watermelon.png",
+      "count": 1,
+      "subs": "Cut and whole melons",
+      "tint": "bg-lime/25",
+      "parent": "fruits"
+    },
+    {
+      "name": "Salads & Greens",
+      "slug": "salads-greens",
+      "image": "/images/products/juicy-vine-tomatoes.png",
+      "count": 6,
+      "subs": "Tomatoes, cucumbers, peppers and leaves",
+      "tint": "bg-primary/12",
+      "parent": "vegetables"
+    },
+    {
+      "name": "Roots & Alliums",
+      "slug": "roots-alliums",
+      "image": "/images/products/baby-potatoes.png",
+      "count": 4,
+      "subs": "Potatoes, carrots, onions and garlic",
+      "tint": "bg-primary/12",
+      "parent": "vegetables"
+    },
+    {
+      "name": "Brassicas",
+      "slug": "brassicas",
+      "image": "/images/products/crown-broccoli.png",
+      "count": 3,
+      "subs": "Broccoli, cabbage and cauliflower",
+      "tint": "bg-primary/12",
+      "parent": "vegetables"
+    },
+    {
+      "name": "Summer Veg",
+      "slug": "summer-veg",
+      "image": "/images/products/tender-okra.png",
+      "count": 3,
+      "subs": "Okra, courgettes and aubergines",
+      "tint": "bg-primary/12",
+      "parent": "vegetables"
+    },
+    {
+      "name": "Eggs",
+      "slug": "eggs",
+      "image": "/images/products/free-range-eggs/01.png",
+      "count": 1,
+      "subs": "Free-range and organic eggs",
+      "tint": "bg-lime/20",
+      "parent": "dairy"
+    },
+    {
+      "name": "Cheese",
+      "slug": "cheese",
+      "image": "/images/products/mature-cheddar/01.png",
+      "count": 1,
+      "subs": "Cheddar and farmhouse cheese",
+      "tint": "bg-lime/20",
+      "parent": "dairy"
+    },
+    {
+      "name": "Oats & Cereals",
+      "slug": "oats-cereals",
+      "image": "/images/products/jumbo-rolled-oats/01.png",
+      "count": 1,
+      "subs": "Porridge oats and granola",
+      "tint": "bg-muted",
+      "parent": "bakery"
+    },
+    {
+      "name": "Honey & Spreads",
+      "slug": "honey-spreads",
+      "image": "/images/products/runny-blossom-honey/01.png",
+      "count": 1,
+      "subs": "Honey, jams and nut butters",
+      "tint": "bg-muted",
+      "parent": "bakery"
+    },
+    {
+      "name": "Beef",
+      "slug": "beef",
+      "image": "/images/products/grass-fed-beef-patties.png",
+      "count": 1,
+      "subs": "Patties, mince and steaks",
+      "tint": "bg-brand/10",
+      "parent": "meat"
+    },
+    {
+      "name": "Chicken",
+      "slug": "chicken",
+      "image": "/images/products/chicken-thigh-fillets/01.png",
+      "count": 1,
+      "subs": "Thighs, breasts and whole birds",
+      "tint": "bg-brand/10",
+      "parent": "meat"
+    },
+    {
+      "name": "Pork",
+      "slug": "pork",
+      "image": "/images/products/outdoor-pork-sausages/01.png",
+      "count": 1,
+      "subs": "Sausages, bacon and chops",
+      "tint": "bg-brand/10",
+      "parent": "meat"
+    },
+    {
+      "name": "Fish",
+      "slug": "fish",
+      "image": "/images/products/atlantic-salmon-steaks.png",
+      "count": 2,
+      "subs": "Salmon, cod and fillets",
+      "tint": "bg-primary-soft",
+      "parent": "seafood"
+    },
+    {
+      "name": "Shellfish",
+      "slug": "shellfish",
+      "image": "/images/products/raw-king-prawns/01.png",
+      "count": 1,
+      "subs": "Prawns, mussels and crab",
+      "tint": "bg-primary-soft",
+      "parent": "seafood"
+    },
+    {
+      "name": "Pasta & Rice",
+      "slug": "pasta-rice",
+      "image": "/images/products/aged-basmati-rice/01.png",
+      "count": 2,
+      "subs": "Dried pasta, rice and grains",
+      "tint": "bg-muted",
+      "parent": "pantry"
+    },
+    {
+      "name": "Oils & Vinegars",
+      "slug": "oils-vinegars",
+      "image": "/images/products/extra-virgin-olive-oil/01.png",
+      "count": 1,
+      "subs": "Olive oil and dressings",
+      "tint": "bg-muted",
+      "parent": "pantry"
+    },
+    {
+      "name": "Nuts & Pulses",
+      "slug": "nuts-pulses",
+      "image": "/images/products/california-walnut-halves.png",
+      "count": 2,
+      "subs": "Walnuts, lentils and beans",
+      "tint": "bg-muted",
+      "parent": "pantry"
+    },
+    {
+      "name": "Frozen Veg",
+      "slug": "frozen-veg",
+      "image": "/images/products/frozen-garden-peas/01.png",
+      "count": 1,
+      "subs": "Peas, corn and mixed veg",
+      "tint": "bg-primary/8",
+      "parent": "frozen"
+    },
+    {
+      "name": "Frozen Fruit",
+      "slug": "frozen-fruit",
+      "image": "/images/products/frozen-mixed-berries/01.png",
+      "count": 1,
+      "subs": "Berries and smoothie mixes",
+      "tint": "bg-primary/8",
+      "parent": "frozen"
+    },
+    {
+      "name": "Frozen Treats",
+      "slug": "frozen-treats",
+      "image": "/images/products/milho-verde-sweetcorn-lollies.jpg",
+      "count": 1,
+      "subs": "Lollies and desserts",
+      "tint": "bg-primary/8",
+      "parent": "frozen"
+    },
+    {
+      "name": "Juices & Smoothies",
+      "slug": "juices-smoothies",
+      "image": "/images/products/fresh-squeezed-orange-juice.png",
+      "count": 4,
+      "subs": "Pressed juice, coconut and lassi",
+      "tint": "bg-primary/10",
+      "parent": "beverages"
+    },
+    {
+      "name": "Tea & Coffee",
+      "slug": "tea-coffee",
+      "image": "/images/products/dark-roast-coffee-beans.png",
+      "count": 4,
+      "subs": "Loose leaf, beans and cold brew",
+      "tint": "bg-primary/10",
+      "parent": "beverages"
+    }
+  ],
+  "sellers": [
+    {
+      "slug": "greenfield-grocers",
+      "name": "Greenfield Grocers",
+      "mono": "GG",
+      "brandGradient": "linear-gradient(150deg, var(--color-primary), var(--color-brand))",
+      "cover": "/images/shops/greenfield-grocers.jpg",
+      "reviews": 189,
+      "products": 220,
+      "followers": "49M",
+      "rating": 4.5,
+      "cats": [
+        "Fruits",
+        "Vegetables",
+        "Pantry"
+      ],
+      "categories": "Fresh Produce, Fruits & Vegetables, Organic Groceries, Dairy Products, Breads & Bakery, Meat & Seafood",
+      "since": "2014",
+      "town": "Bristol",
+      "bio": "A third-generation greengrocer that went online in 2014 and never lost the market-stall habits — everything is bought at dawn, graded by hand and sold the same day. If a crop is not good enough this week, Greenfield simply will not list it."
+    },
+    {
+      "slug": "harvest-lane",
+      "name": "Harvest Lane",
+      "mono": "HL",
+      "brandGradient": "linear-gradient(150deg, var(--color-accent-orange), var(--color-accent-crimson))",
+      "cover": "/images/shops/harvest-lane.jpg",
+      "reviews": 164,
+      "products": 176,
+      "followers": "12M",
+      "rating": 5,
+      "cats": [
+        "Vegetables",
+        "Fruits"
+      ],
+      "categories": "Seasonal Fruit, Leafy Greens, Vine Tomatoes, Root Vegetables, Herbs & Salads",
+      "since": "2018",
+      "town": "Somerset",
+      "bio": "Four family farms sharing one packhouse. Harvest Lane specialises in the awkward, seasonal things supermarkets skip — purple sprouting, forced rhubarb, real vine tomatoes — and gets them to you within a day of cutting."
+    },
+    {
+      "slug": "cold-press-co",
+      "name": "Cold Press Co",
+      "mono": "CP",
+      "brandGradient": "linear-gradient(150deg, var(--color-info), var(--color-brand))",
+      "cover": "/images/shops/cold-press-co.jpg",
+      "reviews": 118,
+      "products": 92,
+      "followers": "3.4M",
+      "rating": 4,
+      "cats": [
+        "Frozen",
+        "Pantry"
+      ],
+      "categories": "Cold-Pressed Juice, Smoothies, Kombucha, Dairy Alternatives, Breakfast & Cereal",
+      "since": "2020",
+      "town": "Cardiff",
+      "bio": "A small production kitchen pressing juice to order rather than to a forecast. Nothing is heat-treated, nothing sits in a warehouse, and every bottle carries the date it was pressed on the neck."
+    }
+  ],
+  "posts": [
+    {
+      "ref": "b1",
+      "slug": "10-essential-grocery-items-every-home-should-have",
+      "title": "10 essential grocery items every home should have",
+      "tag": "Guides",
+      "image": "/images/blog/journal-01.jpg",
+      "date": "09 Feb 2027",
+      "read": "7 min read",
+      "excerpt": "The short pantry list that turns a bare kitchen into one that can cook almost anything on a Tuesday night.",
+      "body": "A well-stocked kitchen is not a full one. It is a kitchen where almost any fresh thing you bring home — a bunch of greens, a couple of salmon steaks, whatever looked best at the market — can become dinner without a second trip to the shop. That comes down to about ten things, bought well and kept properly.\n\n![Paper bags of dried beans, lentils and fresh tomatoes on a white table](/images/blog/journal-03.jpg \"The quiet workhorses: a grain, a pulse, something tinned and something fresh.\")\n\n## Why a short list beats a long one\n\nLong pantry lists fail in the same way every time. Half the jars go stale before they are opened, the cupboard stops being readable, and you buy a third bottle of something you already had. A short list does the opposite: everything on it gets used, so everything on it stays fresh, and you can tell at a glance what is running low.\n\nThe ten below were chosen for one reason — each one makes the others more useful. Oil and acid season everything. A starch turns a handful of vegetables into a meal. A pulse turns a meal into one that keeps you full. Keep these ten topped up and the fresh part of your shop can follow the seasons instead of a recipe.\n\n> **Tip:** Keep a note on the fridge door. When you open the last of something on this list, write it down — that note becomes next week's order, and nothing runs out twice.\n\n## The ten essentials\n\n### 1. A good cooking oil — and a better finishing one\n\nOne neutral, high-heat oil for frying and roasting, and one olive oil you actually like the taste of for dressings and finishing. The second is the one worth spending on: a spoonful over roasted vegetables or beans does more for a plate than any sauce.\n\n{{products: extra-virgin-olive-oil}}\n\n### 2. Onions and garlic\n\nAlmost every savoury dish in almost every cuisine starts here. Buy them loose rather than netted so you can check each one — firm, dry papery skins, no soft spots, no green shoots. Store them somewhere cool and dark, but *not* together: onions make garlic sprout.\n\n{{products: red-onions, garlic-bulbs}}\n\n### 3. Potatoes\n\nThe most forgiving ingredient in the kitchen. Roast them, mash them, crush them into a salad or drop them into a soup to give it body. Small waxy potatoes are the most versatile — they hold their shape boiled and crisp beautifully when roasted.\n\n{{products: baby-potatoes}}\n\n### 4. Tomatoes — tinned always, fresh in season\n\nA couple of tins of good plum tomatoes are the fastest route to a sauce, a soup, a curry or a braise. When fresh tomatoes are at their best, buy them for eating raw: sliced with salt and that good olive oil, they need nothing else. Keep fresh tomatoes out of the fridge; cold dulls their flavour within a day.\n\n{{products: roma-tomatoes, vine-tomatoes}}\n\n### 5. Citrus\n\nLemons and limes are the difference between food that tastes flat and food that tastes finished. A squeeze at the end wakes up soups, dressings, fish and grains. Choose fruit that feels heavy for its size — that weight is juice.\n\n{{products: sicilian-lemons, persian-limes}}\n\n### 6. Eggs\n\nBreakfast, a quick lunch, a binder for baking, the golden top on a bowl of rice and greens. Eggs keep for weeks in the fridge and turn leftovers into a meal in minutes. Store them in their box on a shelf rather than in the door, where the temperature swings every time it opens.\n\n{{products: free-range-eggs}}\n\n![A canvas tote spilling eggs, fresh bread, greens and vegetables](/images/blog/journal-02.jpg \"Eggs, bread and a few good vegetables — the base of a week of easy meals.\")\n\n### 7. A grain, a pasta and oats\n\nRice for anything with a sauce, a dried pasta for the nights you have fifteen minutes, and oats for breakfast, baking and thickening. Buy them in amounts you will finish within a couple of months and decant them into sealed jars — it keeps them fresh and keeps the cupboard easy to read.\n\n{{products: aged-basmati-rice, bronze-die-spaghetti, jumbo-rolled-oats}}\n\n### 8. Beans and lentils\n\nTinned chickpeas and beans for speed, dried red lentils because they cook in twenty minutes without soaking. Together they make soups heartier, salads more filling and a small amount of meat go much further — and they are among the cheapest protein you can buy.\n\n{{products: puy-lentils}}\n\n### 9. Hardy vegetables that last the week\n\nNot everything fresh has to be used on day one. Broccoli, cabbage and carrots keep well in the salad drawer and fill the gap between shops: shredded into a slaw, charred in a hot pan, or simmered into a soup with the lentils above.\n\n{{products: crown-broccoli, green-cabbage, sweet-snacking-carrots}}\n\n![A wicker basket of broccoli, peppers, onions and leafy greens](/images/editorial/veg-basket.jpg \"Hardy vegetables earn their place by lasting until the next shop.\")\n\n### 10. Nuts — and one protein in the freezer\n\nA bag of walnuts or almonds adds crunch to salads, oats and roasted vegetables, and makes a better snack than most things in a wrapper. Keep them in a jar in a cool cupboard — or the freezer, if they will take a while to finish, as their oils turn quickly in the warm. Then keep one protein frozen for the evenings nothing is planned: fish steaks cook from frozen in a hot oven in under twenty minutes.\n\n{{products: california-walnut-halves, atlantic-salmon-steaks}}\n\n## How to keep them at their best\n\nBuying well is half the job; storing well is the other half. Four rules cover almost everything on this list:\n\n- **Cool, dark and dry** for onions, garlic and potatoes — never the fridge, and never in plastic, which traps the moisture that makes them sprout and rot.\n- **Sealed jars** for grains, oats, pulses and nuts. Air and light are what make them stale, and a clear jar also shows you when you are running low.\n- **The fridge shelf, not the door,** for eggs and anything that needs a steady cold.\n- **The fruit bowl** for tomatoes and citrus until they are ripe — then eat them within a few days.\n\n## Three dinners, straight from the list\n\nThe test of a good pantry is what it makes on a night you did not plan for. Each of these uses nothing but the ten essentials:\n\n1. **Crushed potatoes with a fried egg** — boiled baby potatoes, crushed with olive oil and garlic, a runny egg on top and a squeeze of lime. Twenty-five minutes.\n2. **Tomato and lentil soup** — onion and garlic softened in oil, a tin of tomatoes, a cup of red lentils and water, simmered until thick. Finish with citrus. Thirty minutes, and it freezes well.\n3. **Roast salmon with charred broccoli** — salmon from the freezer and broccoli in one tray, a hot oven, walnuts scattered over for the last five minutes. Under twenty minutes, one tray to wash.\n\n![A delivery of fresh groceries handed over at the door](/images/blog/journal-07.jpg \"Top up the list once a week and let the fresh part of the shop follow the season.\")\n\n## Make it your list\n\nThese ten are a starting point, not a rulebook. If you cook a lot of curry, your list will have spices on it; if there are children in the house, it will have more oats. The principle stays the same: keep a short list of things you truly use, buy them well, store them properly, and let everything else be fresh and seasonal.\n\nStart with what you have, fill the gaps on your next [shop](/shop), stock the cupboard from the [pantry aisle](/shop/pantry), and see how many dinners come together without a plan. Most of the essentials above are in the [vegetables aisle](/shop/vegetables) today — picked this morning."
+    },
+    {
+      "ref": "b2",
+      "slug": "smart-grocery-shopping-tips-to-save-money-every-week",
+      "title": "Smart grocery shopping tips to save money every week",
+      "tag": "Money",
+      "image": "/images/blog/journal-02.jpg",
+      "date": "04 Feb 2027",
+      "read": "5 min read",
+      "excerpt": "Small habit changes at the shelf edge that quietly take twenty percent off a weekly shop.",
+      "body": "Most advice about saving money on food asks you to change how you live: cook everything from scratch, give up meat, shop at four different places. The savings that actually last are smaller and quieter than that. They happen in the few seconds you spend at the shelf edge, deciding which pack to pick up and how many. Get seven of those small decisions right, week after week, and for many households the total comes down by something close to a fifth, without eating any differently.\n\n![A paper grocery bag spilling tomatoes, carrots, bread and milk](/images/blog/journal-01.jpg \"The same shop, bought a little more carefully, costs noticeably less.\")\n\n## Why habits beat budgets\n\nA budget is a number you check once the money is already spent. A habit works before you reach the till. The difference matters because most overspending is not one big purchase; it is a dozen slightly worse choices, each costing a little, spread across a trolley. Nobody notices the extra on a single pack of chicken. Everybody notices it across a year.\n\nThe habits below share one feature: none of them takes more than a few seconds, and none of them requires you to buy less food. They just make sure you pay a fair price for the food you were going to buy anyway, and that less of it ends up in the bin.\n\n## Seven habits at the shelf edge\n\n### 1. Read the unit price, not the sticker\n\nThe large number on a shelf label is the pack price. The small one underneath, per kilo or per litre, is the only fair way to compare. Bigger packs are usually cheaper per kilo, but not always: promotions on smaller sizes can flip it, and \"family packs\" of meat are sometimes priced higher per kilo than the standard tray beside them. Make the small number the one your eye goes to first.\n\n### 2. Look above and below eye level\n\nThe products at eye height are often the ones a shop most wants to sell, not necessarily the best value. Own-label rice, oats, tinned tomatoes and frozen vegetables tend to sit on the bottom shelf and are frequently made to a very similar specification. Try the cheaper version once. If you cannot tell the difference, you have saved on that line for good.\n\n### 3. Buy loose when you need less\n\nPre-packed produce is priced for convenience and often sold in quantities that suit the packer rather than you. Buying loose onions, carrots or apples lets you take exactly the four you will use. The saving is less in the price per kilo than in not paying for the two that go soft at the back of the drawer.\n\n### 4. Let the freezer cover what is out of season\n\nFrozen peas and berries are picked and frozen at their peak, and out of season they often cost a fraction of the fresh equivalent per kilo. They also do not spoil halfway through the week. Keep fresh for what is in season and cheap; let the freezer handle the rest.\n\n{{products: frozen-garden-peas, frozen-mixed-berries}}\n\n### 5. Choose the harder-working cut\n\nChicken thighs cost noticeably less per kilo than breasts, stay juicier and forgive a few extra minutes in the oven. A whole cabbage or a bag of potatoes does more meals per kilo than almost anything else in the vegetable aisle. Cheaper cuts and hardy vegetables are not a compromise; in a lot of kitchens they are the better ingredient.\n\n{{products: chicken-thigh-fillets, green-cabbage, baby-potatoes}}\n\n### 6. Treat multibuys with suspicion\n\n\"Three for two\" is only a saving if you would have used all three before they spoil. For tins, dried pasta and frozen goods it often is. For soft fruit, bagged salad and bread, it often is not. Ask one question before you add the extra: will this definitely be eaten by its date?\n\n### 7. Shop the list, then the shelf\n\nWrite the list at home, after you have looked in the fridge, and plan it around what needs using first. Then, at the shop, allow yourself one swap: if something on the list is poor or expensive and something similar is excellent and cheap, take the better buy. That keeps the discipline of a list with the flexibility of a good cook. Our piece on [seasonal eating](/journal/seasonal-eating-without-a-wall-chart) explains how to spot the cheap, good swap quickly.\n\n![A cotton tote packed with carrots, leeks, cabbage and onions](/images/editorial/tote-of-veg.jpg \"Hardy, loose vegetables: bought in the quantity you need, used before they turn.\")\n\n## How the twenty percent adds up\n\nNo single habit here saves a fifth on its own. The total comes from several modest savings stacking up. As a rough guide, from what we see in a typical weekly basket:\n\n- **Unit pricing and own-label swaps** can take somewhere around five to eight percent off the lines where you use them.\n- **Buying loose and choosing hardy vegetables** tends to save a few percent more, mostly through less waste.\n- **Frozen fruit and vegetables out of season** can cut the cost of those lines by a third or more, which works out at a few percent of the whole shop.\n- **Cheaper cuts** make a real difference if meat is a large part of your basket.\n- **Wasting less** is often the biggest single item. Food that is bought and thrown away is the most expensive food in the house.\n\nYour own numbers will vary with what you buy and how much you cook. But households who pick up four or five of these habits commonly find the weekly total noticeably lower within a month.\n\n> **Good to know:** \"Use by\" dates are about safety; do not eat food after them. \"Best before\" dates are about quality, and dry goods, tins and frozen food are often fine for some time afterwards if stored well.\n\n## What not to economise on\n\nSome savings cost more than they save. Buying a cheaper cooking oil is sensible; buying a finishing olive oil you do not enjoy means you will use less of it and eat plainer food. Buying reduced fish close to its date is fine if you cook or freeze it that day, but not if it sits in the fridge until the weekend.\n\nTemperature is the other thing worth protecting. A fridge running warm quietly shortens the life of everything in it. Keep it at or below 5 °C and the freezer at −18 °C, and the food you have bought so carefully will last as long as it should. [The freezer is not a graveyard](/journal/the-freezer-is-not-a-graveyard) covers how to make the freezer work harder too.\n\n![A bag of fresh vegetables handed over at the door](/images/blog/journal-07.jpg \"A planned order arrives with nothing extra in the bag.\")\n\n## Start with one habit\n\nPick the one that fits the way you already shop, most likely the unit price, and use it on every line of your next trip. Once it is automatic, add another. Build your list from the [vegetables aisle](/shop/vegetables) and the [pantry aisle](/shop/pantry), check the per-kilo price on each line, and compare the total with last week's."
+    },
+    {
+      "ref": "b3",
+      "slug": "how-to-choose-fresh-fruits-and-vegetables-like-a-pro",
+      "title": "How to choose fresh fruits and vegetables like a pro",
+      "tag": "Fresh",
+      "image": "/images/blog/journal-03.jpg",
+      "date": "28 Jan 2027",
+      "read": "5 min read",
+      "excerpt": "Weight, skin, smell and stem — the four checks a greengrocer runs in about two seconds.",
+      "body": "Watch a good greengrocer pick a melon and it looks like instinct. It is not. It is four quick checks, run in the same order every time: weight, skin, smell and stem. Each one tells you something different about how the fruit or vegetable was grown, how long ago it was picked and how it has been kept since. Together they take about two seconds, and once you know what you are looking for, you will never again bring home a woolly apple or a lemon with no juice in it.\n\n![A smiling woman holding a double handful of fresh fruit and vegetables](/images/editorial/handful-of-produce.jpg \"Pick it up, turn it over, smell it, look at the stem. Two seconds.\")\n\n## Weight: heavy for its size\n\nPick up two of the same thing, roughly the same size, one in each hand. Take the heavier one. That extra weight is water, and in fresh produce water means juice, crispness and recent picking. As fruit and vegetables age they lose moisture through their skins, so a light one has usually been sitting around longer or was never very juicy to begin with.\n\nThis is the single most reliable check for citrus, melons, cabbages, cucumbers, peppers and tomatoes. A heavy orange peels easily and runs with juice; a light one of the same size is often pithy and dry. A cabbage should feel dense, almost like a ball of wet paper, with no give when you squeeze it.\n\n{{products: navel-oranges, sicilian-lemons}}\n\nFor melons, weight works alongside a gentle knock. A ripe watermelon sounds deep and hollow rather than dull, and it should have a creamy yellow patch on one side where it rested on the ground. A white or pale green patch usually means it was picked early.\n\n## Skin: tight, bright and the right kind of dull\n\nThe skin is the produce's packaging, and it shows its age first. In general you want skin that is taut and unwrinkled, with even colour and no soft or sunken patches. Wrinkles mean moisture loss. Soft spots mean bruising or the start of decay.\n\nBut \"shiny\" is not always good. Aubergines, courgettes and peppers should be glossy. Blueberries and red grapes should have a pale, powdery bloom that rubs off with a finger; that bloom is natural and shows they have not been handled much. Plums are similar. A very shiny grape or blueberry has often been knocked about.\n\nFor firm vegetables, press gently with a thumb. An aubergine should spring back. A carrot should snap rather than bend. A broccoli head should feel tight and heavy, with florets packed close and no hint of yellow, which is the first sign it is past its best.\n\n{{products: crown-broccoli, glossy-aubergines}}\n\n> **Tip:** Press near the stem end, not the middle. Avocados, mangoes and pears ripen from the inside out and soften there first, and a thumb in the middle leaves a bruise for the next person.\n\n## Smell: the check most people skip\n\nRipe fruit smells like itself. Hold a mango, a melon or a tomato near the stem end and breathe in. If you get a clear, sweet, recognisable scent, it is ready or nearly ready. If you get nothing, it was probably picked early or has been kept too cold, and it may never develop full flavour. If you get something sharp, boozy or fermented, it has gone too far.\n\nThis matters most for fruit that is picked before it is fully ripe and finishes on the way to you: mangoes, melons, peaches and pineapples. Tomatoes are similar. Tomatoes still on the vine should smell green and peppery at the stalk; a tomato with no scent at all has often spent too long in a fridge, which dulls flavour within a day or so. Our piece on [the cold chain](/journal/the-cold-chain-explained-in-plain-language) explains why.\n\n{{products: alphonso-mango, juicy-vine-tomatoes}}\n\nSmell also warns you off vegetables. Leafy greens and herbs should smell fresh and grassy. Anything sour, musty or slightly sweet in a bag of salad leaves means it is starting to break down.\n\n## Stem: where the freshness shows first\n\nThe stem, stalk or cut end is the most honest part of any fruit or vegetable, because it is where the plant was separated from it. Freshness drains away from there first.\n\n- **Cut ends** on broccoli, cauliflower, asparagus and celery should look pale and moist. A dry, brown or hollow end means it was cut days ago.\n- **Grape stalks** should be green and flexible. Brown, brittle stems mean the bunch has been in storage a long time, even if the grapes still look fine.\n- **Avocados** have a small cap where the stem was. Flick it off: bright green underneath means ripe and good; brown means overripe.\n- **Strawberries** should have green, fresh-looking leaves at the top. Wilted, dry leaves mean they were picked some time ago, and strawberries do not ripen any further after picking.\n- **Pears** tell you through the neck. When the flesh just below the stem gives slightly under a thumb, the pear is ready.\n\n{{products: hass-avocados, kent-strawberries}}\n\n![A wicker basket of broccoli, peppers, onions and leafy greens](/images/editorial/veg-basket.jpg \"Tight florets, glossy skins, moist cut ends: freshness you can see.\")\n\n## A few exceptions worth knowing\n\nThe four checks work for almost everything, but a handful of foods break the rules. Bananas are picked green and ripen perfectly at home, so brown freckles are a sign of sweetness, not age. Potatoes and onions should be firm with dry, papery skins, and any green patches on potatoes should be cut away generously or the potato left out. Onions and garlic should never smell strongly through the skin; if they do, they are starting to sprout or rot.\n\nSome things are better slightly under than slightly over. If you are buying avocados, pears or mangoes for later in the week, choose firm ones and ripen them in the fruit bowl. Once ripe, they can go in the fridge for a day or two to hold them there.\n\n> **Watch out:** Mould on soft fruit spreads quickly through a punnet. Check the bottom as well as the top, and at home remove any mouldy berries straight away.\n\n## Try it on your next shop\n\nChoose one thing you buy every week, perhaps lemons or tomatoes, and run all four checks on it next time: weight, skin, smell, stem. Compare two or three before you pick. Within a couple of shops it becomes automatic, and you can use it on everything in the [fruit aisle](/shop/fruits) and the [vegetables aisle](/shop/vegetables). Then read our guide to [seasonal eating](/journal/seasonal-eating-without-a-wall-chart), because produce in season passes all four checks far more often."
+    },
+    {
+      "ref": "b4",
+      "slug": "weekly-grocery-list-what-to-buy-for-a-healthy-lifestyle",
+      "title": "Weekly grocery list: what to buy for a healthy lifestyle",
+      "tag": "Health",
+      "image": "/images/blog/journal-04.jpg",
+      "date": "21 Jan 2027",
+      "read": "5 min read",
+      "excerpt": "A balanced trolley, planned once, that covers breakfast through dinner without repeating a meal.",
+      "body": "Eating well through a week rarely fails for lack of good intentions. It fails on Wednesday evening, when there is nothing in the fridge that goes together and the easiest option is the least balanced one. The fix is to plan the trolley once, around a handful of ingredients that each turn up in several different meals. Below is one such list, written for two adults, and a week of twenty-one meals built from it: seven breakfasts, seven lunches and seven dinners, with no meal repeated.\n\n![A paper grocery bag spilling tomatoes, carrots, bread and milk](/images/blog/journal-01.jpg \"One planned shop, a week of different meals.\")\n\n## How the trolley is built\n\nA balanced week does not need a nutritionist, just a simple shape. For many people a useful rule is that roughly half of each plate is vegetables or fruit, a quarter is a protein and a quarter is a starch, ideally a wholegrain one, with a little good fat to finish. The list follows that shape across the whole week rather than meal by meal.\n\nThe other principle is overlap. Every fresh ingredient on the list appears in at least two different meals, so nothing is bought for a single recipe and left to wilt. Whatever fruit the meals do not use becomes the week's snacks. Hardy vegetables carry the second half of the week; delicate ones are used first. Proteins are split between fresh for the early days and frozen for the later ones.\n\n## The list\n\nQuantities are for two adults with reasonable appetites. Adjust from there.\n\n- **Fruit:** a bunch of bananas, six apples, a punnet of blueberries, four kiwis, two lemons, a bag of frozen mixed berries.\n- **Vegetables:** a bag of baby spinach, three mixed peppers, three courgettes, a head of broccoli, a small green cabbage, a kilo of carrots, a bag of baby potatoes, four red onions, a bulb of garlic, a tray of vine tomatoes, a cucumber, two avocados, a bag of frozen peas.\n- **Protein:** a dozen eggs, four chicken thigh fillets, two cod fillets, two salmon steaks, a bag of Puy lentils, a tin of chickpeas.\n- **Dairy:** a large pot of natural yoghurt, milk, a block of mature cheddar.\n- **Grains and pantry:** jumbo rolled oats, basmati rice, wholemeal bread, spaghetti, walnuts, honey, olive oil, a tin of chopped tomatoes.\n\n{{products: baby-leaf-spinach, mixed-bell-peppers, courgettes}}\n\n## Seven days, twenty-one meals\n\nEach day lists breakfast, lunch and dinner. Some lunches use the previous night's leftovers, but always as a different dish.\n\n1. **Monday** — porridge with sliced banana and walnuts; wholemeal toast with avocado, tomato and lemon; roast chicken thighs with peppers, red onion and baby potatoes on one tray.\n2. **Tuesday** — yoghurt with blueberries and honey; chicken, spinach and cucumber salad from last night's spare thigh; cod baked with tomatoes and garlic, with rice and broccoli.\n3. **Wednesday** — scrambled eggs with spinach on toast; rice salad with peas, cucumber, lemon and chickpeas; spaghetti with courgette, garlic, lemon and grated cheddar.\n4. **Thursday** — overnight oats with apple and cinnamon; Puy lentil salad with roasted peppers and red onion; salmon with crushed baby potatoes and charred cabbage.\n5. **Friday** — two boiled eggs with toast and sliced kiwi; warm potato and broccoli salad with walnuts, spinach and lemon; lentil and tomato stew with carrots, served with rice.\n6. **Saturday** — berry smoothie with frozen berries, banana, oats and yoghurt; cheddar and cabbage slaw toastie; chickpea and vegetable curry with spinach and peas.\n7. **Sunday** — courgette and pepper omelette; carrot and lentil soup from the last of the stew base, with bread; a Spanish-style tortilla with potatoes, onion and peas, with a tomato and cucumber salad.\n\n{{products: jumbo-rolled-oats, free-range-eggs}}\n\nThe order matters. Fish and spinach are used in the first half of the week while they are at their best. Cabbage, carrots, potatoes and lentils carry the last three days because they keep well. The frozen peas and berries are there as insurance.\n\n> **Tip:** When you cook the chicken on Monday and the lentils on Thursday, make a little extra of each. Cool leftovers and get them into the fridge within two hours, keep them no more than two days, and reheat until piping hot.\n\n![A woman in a wheat field at harvest, holding a basket of vegetables](/images/home-promos/keep-active.jpg \"Hardy vegetables carry the second half of the week.\")\n\n## Making the list stretch\n\nThree habits keep this kind of week on track.\n\n**Prep once, early.** On the evening of the shop, wash and dry the spinach, cut the peppers into strips and cook a pan of Puy lentils. They take around twenty-five minutes and hold their shape for three or four days in the fridge. That single half hour makes most of the week's lunches a matter of assembly.\n\n**Store things where they last.** Tomatoes and bananas stay out of the fridge. Spinach goes in the salad drawer with a sheet of kitchen paper in the bag to absorb moisture. Fish goes on the bottom shelf, where it is coldest and cannot drip onto anything else. Keep the fridge at or below 5 °C.\n\n**Freeze before it is too late.** Check the use-by date on Thursday's salmon. If it falls sooner, freeze it on the day you buy it and thaw it in the fridge overnight before cooking.\n\n{{products: skinless-cod-fillets, chicken-thigh-fillets}}\n\n## Adjusting for your household\n\nFor one person, halve the fresh produce and protein, keep the pantry quantities the same, and lean on the freezer; our guide to [meal planning for a household of one](/journal/meal-planning-for-a-household-of-one) goes into detail. For a family, double the grains and potatoes first, since those are cheap and filling, then add proteins as needed.\n\nIf you do not eat meat or fish, replace the chicken with a second tin of chickpeas and the fish with eggs or extra lentils. The structure of the week stays exactly the same.\n\n![A wicker basket of just-picked vegetables on a wooden table in a sunny field](/images/home-promos/grocery-cta.jpg \"Swap in whatever is in season; the shape of the week stays the same.\")\n\n## Write your own version\n\nTake this list and cross out anything your household will not eat, then swap in the nearest seasonal equivalent. Keep the overlap principle and the order of the week. Build it from the [vegetables aisle](/shop/vegetables), the [fruit aisle](/shop/fruits) and the [pantry aisle](/shop/pantry) in one sitting, and for a head start on the mornings, read [breakfast that survives a weekday morning](/journal/breakfast-that-survives-a-weekday-morning)."
+    },
+    {
+      "ref": "b5",
+      "slug": "top-pantry-staples-you-should-always-keep-stocked",
+      "title": "Top pantry staples you should always keep stocked",
+      "tag": "Pantry",
+      "image": "/images/editorial/tote-of-veg.jpg",
+      "date": "14 Jan 2027",
+      "read": "5 min read",
+      "excerpt": "The twelve jars, tins and bags that make a fridge raid feel like a plan rather than a panic.",
+      "body": "Open the fridge on a tired evening and find half a courgette, two eggs and the end of a block of cheese, and one of two things happens. Either you order a takeaway, or you reach into the cupboard and make something good in twenty minutes. The difference is not skill. It is whether the right twelve jars, tins and bags are sitting on the shelf. Here they are, why each one earns its place, and how to keep them in good condition.\n\n![Paper bags of dried beans, lentils, tomatoes, peppers, leeks and greens](/images/blog/journal-03.jpg \"A grain, a pulse and something tinned: the scaffolding for whatever is fresh.\")\n\n## What earns a place on the shelf\n\nA pantry staple has to do three things. It has to keep for months without special care. It has to combine with most of the fresh food you buy. And it has to be something you will genuinely finish, rather than a jar bought for one recipe and found two years later. Everything below passes all three tests. If you already keep the basics in our list of [ten essential grocery items](/journal/10-essential-grocery-items-every-home-should-have), think of these twelve as the cupboard that sits behind them.\n\n## The twelve staples\n\n### 1. Extra virgin olive oil\n\nThe one bottle that improves almost everything it touches: dressings, roasted vegetables, a bowl of beans, a slice of toast. Buy it in a dark bottle or a tin, keep it away from the hob, and aim to finish it within a couple of months of opening, as it loses its peppery freshness with air and light.\n\n{{products: extra-virgin-olive-oil}}\n\n### 2. A vinegar you like\n\nRed wine, cider or sherry vinegar. A spoonful lifts a stew, a lentil salad or a pan of softened onions in the way a squeeze of lemon does, and it keeps for years.\n\n### 3. Tinned tomatoes\n\nTwo or three tins at all times. They are the fastest way to a sauce, a soup, a braise or a curry. Whole plum tomatoes tend to be better quality than chopped; crush them in the pan with a spoon.\n\n### 4. Dried pasta\n\nA bronze-die pasta has a rougher surface that holds sauce better, and it is worth the small premium. One long shape and one short one cover most nights.\n\n### 5. Rice\n\nA long-grain rice such as aged basmati for anything with a sauce. It cooks in about fifteen minutes and turns a handful of vegetables and an egg into dinner.\n\n{{products: bronze-die-spaghetti, aged-basmati-rice}}\n\n### 6. Lentils\n\nPuy lentils hold their shape and make a warm salad in twenty-five minutes; red lentils collapse into soups and dals. Neither needs soaking. Keep at least one of each.\n\n{{products: puy-lentils}}\n\n### 7. Tinned chickpeas or beans\n\nReady in the time it takes to open the tin. Roast chickpeas with spices, stir beans into a tomato sauce, or mash them with olive oil and garlic onto toast.\n\n### 8. Jumbo rolled oats\n\nPorridge, overnight oats, crumble toppings, flapjacks, and a handful to thicken a soup. Jumbo oats keep more texture than fine ones.\n\n{{products: jumbo-rolled-oats}}\n\n### 9. Runny honey\n\nFor porridge and yoghurt, but also for dressings and glazes: a spoon of honey with mustard and vinegar is a dressing in itself. Honey keeps almost indefinitely in a sealed jar. It should not be given to babies under twelve months.\n\n{{products: runny-blossom-honey}}\n\n### 10. Walnuts\n\nCrunch for salads, oats and roasted vegetables, and a quick pesto with garlic and oil. Because their oils turn rancid in the warm, keep them sealed and cool, or in the freezer if they will take more than a month or two to use.\n\n{{products: california-walnut-halves}}\n\n### 11. Tinned fish\n\nSardines, mackerel or tuna in olive oil. Stirred through pasta with lemon and chilli, piled onto toast or folded into a potato salad, a tin makes a proper meal with almost no cooking.\n\n### 12. A jar of concentrated flavour\n\nStock concentrate, miso, a curry paste, harissa or good mustard: choose the one you reach for most. A spoonful turns water into a soup base or plain vegetables into a curry. Once opened, most of these belong in the fridge; check the label.\n\n![A canvas tote spilling eggs, bread, bottled water, apples, courgette and greens](/images/blog/journal-02.jpg \"Fresh food, with the cupboard behind it.\")\n\n## Keeping them at their best\n\nDry goods fail for three reasons: air, light and damp. Decant pasta, rice, oats, lentils and nuts into sealed jars once the bag is open. It keeps them fresh, keeps out pantry moths, and lets you see at a glance what is running low. Store oils and nuts somewhere cool, not beside the oven.\n\nTins keep for a long time, but once opened the contents should go into a lidded container in the fridge rather than stay in the tin, and be used within a couple of days. Rotate as you shop: new tins and packs go to the back, older ones come forward.\n\n> **Good to know:** A \"best before\" date on a tin or a bag of pasta is about quality, not safety. Well-stored dry goods are usually fine past it. A \"use by\" date is about safety and should always be followed.\n\n## Three panic-free dinners\n\nEach of these uses a couple of fresh things plus the cupboard.\n\n1. **Pasta with tinned fish, lemon and walnuts** — spaghetti, a tin of sardines in oil, garlic softened in olive oil, lemon zest and toasted walnuts. Fifteen minutes.\n2. **Chickpea and tomato stew with an egg** — onion and garlic in olive oil, a spoon of harissa, a tin of tomatoes and a tin of chickpeas, simmered for ten minutes, then eggs cracked in and covered until set. Twenty minutes.\n3. **Lentil and rice pilaf** — rice and Puy lentils cooked together with stock concentrate, finished with vinegar, olive oil and whatever greens need using. Thirty minutes.\n\n> **Watch out:** If you cook extra rice, cool it quickly and get it into the fridge within two hours, sooner if you can. Eat it within a day and reheat it only once, until piping hot.\n\n![A bag of fresh vegetables handed over at the door](/images/blog/journal-07.jpg \"Top up the cupboard with the weekly shop and it never runs dry.\")\n\n## Check your shelf tonight\n\nGo through your cupboard with this list and note which of the twelve are missing. Fill the gaps from the [pantry aisle](/shop/pantry), the [pasta and rice shelf](/shop/pasta-rice) and the [nuts and pulses shelf](/shop/nuts-pulses) on your next shop, and then read [batch cooking for people who hate batch cooking](/journal/batch-cooking-for-people-who-hate-batch-cooking) to see how far a stocked cupboard can take you."
+    },
+    {
+      "ref": "b6",
+      "slug": "organic-vs-regular-what-should-you-actually-choose",
+      "title": "Organic vs regular: what should you actually choose?",
+      "tag": "Sourcing",
+      "image": "/images/home-promos/maintain-fitness.jpg",
+      "date": "06 Jan 2027",
+      "read": "5 min read",
+      "excerpt": "Where the premium genuinely buys you something, and where it very honestly does not.",
+      "body": "Organic food usually costs more, sometimes a little and sometimes a great deal more per kilo. Whether that premium is worth paying depends less on the word itself than on what you are buying and what you care about. For some foods, and some priorities, organic certification genuinely buys you something. For others, it very honestly does not, and the money is better spent on buying more fresh food, or better fresh food, of any kind. Here is how our buyers think about it.\n\n![A smiling woman holding a double handful of fresh fruit and vegetables](/images/editorial/handful-of-produce.jpg \"The most important choice is eating plenty of fresh produce at all.\")\n\n## What the organic label actually means\n\nIn the UK and EU, \"organic\" is a protected term. Food sold as organic has to come from a farm certified by an approved control body and inspected at least once a year, and packaged organic food in the EU carries the green leaf logo. In many other markets, including the US, there are similar national schemes with their own rules.\n\nBroadly, organic standards restrict synthetic pesticides and fertilisers, ban genetically modified crops, and set higher animal welfare requirements: more space, access to the outdoors, and limits on the routine use of antibiotics.\n\nWhat organic does *not* mean matters just as much. It does not mean pesticide-free: organic farmers can use a limited list of approved pesticides, many of natural origin. It does not mean local, small-scale or picked recently. And it says nothing about how fresh the food is by the time it reaches you. Words like \"natural\" and \"farm fresh\", by contrast, are largely unregulated marketing terms in many places. Our guide to [reading a label](/journal/reading-a-label-without-falling-for-it) goes into those.\n\n## Where the premium tends to buy something\n\n### Animal welfare\n\nThis is where organic certification makes the clearest, most measurable difference. Organic standards for meat, eggs and dairy generally require outdoor access, lower stocking densities and more natural diets than standard production. If welfare is your main concern, this is the place to spend. That said, organic is not the only route: free-range and outdoor-reared labels also set meaningful welfare standards, often at a lower price.\n\n{{products: free-range-eggs, chicken-thigh-fillets}}\n\n### Food you eat skin and all\n\nResidues from pesticides, where present, are mostly found on or near the surface. For soft fruit and leaves that you eat whole and cannot peel, such as strawberries, blueberries and spinach, some people choose organic to reduce their exposure. It is a reasonable preference. It is worth keeping in proportion, though, and the next section explains why.\n\n{{products: kent-strawberries, wild-blueberries}}\n\n### Farming practices you want to support\n\nOrganic farms tend to have more on-farm biodiversity, such as insects, birds and wildflowers, and they rely on crop rotation and compost rather than synthetic fertiliser. Many people buy organic as a vote for that kind of farming. The picture is not simple: organic yields are usually lower, which means more land is needed for the same amount of food, and researchers still disagree about the overall environmental balance. But if on-farm biodiversity matters to you, organic is a straightforward way to support it.\n\n![A wicker basket of just-picked vegetables on a wooden table in a sunny field](/images/home-promos/grocery-cta.jpg \"How food is grown matters, and so does how it is handled afterwards.\")\n\n## Where it very honestly does not\n\n### Thick-skinned produce you peel\n\nBananas, oranges, avocados, melons, onions and mangoes all have skins you discard. Whatever residue sits on the outside largely goes in the bin with the peel. For these, paying extra for organic mostly buys you the farming practices above, not a meaningfully different thing to eat.\n\n{{products: navel-oranges, hass-avocados, seedless-watermelon}}\n\n### Nutrition\n\nThis is the claim most often made and least clearly supported. Some studies have found modestly higher levels of certain compounds in some organic crops; others have found no meaningful difference. For most people, the evidence does not suggest that organic food is significantly more nutritious. How fresh a vegetable is, how it has been stored and how you cook it tend to matter far more.\n\n### Taste\n\nFlavour depends mostly on variety, ripeness, season and the cold chain, not certification. A conventional tomato picked ripe in July will usually taste better than an organic one picked green in January and shipped a long way. Our piece on [the cold chain](/journal/the-cold-chain-explained-in-plain-language) explains why.\n\n### Processed food\n\nAn organic biscuit is still a biscuit. Organic crisps, cereals and snacks can be just as high in sugar, salt and fat as their standard versions.\n\n## Residues, in proportion\n\nIn the UK and EU, pesticide residues in food are regulated with legal maximum levels and monitored by regular testing, and the large majority of samples come back within those limits. Conventional produce is not a hazard to be avoided, and nobody should eat less fruit and vegetables because organic is out of budget.\n\n> **Tip:** Wash all produce, organic or not, under cold running water just before you eat or cook it. Rub firm fruit and vegetables with your hands or a brush. You do not need soap or special washes.\n\n## A practical way to split the budget\n\nIf you want to buy some organic but not everything, spend where it counts most for your own priorities:\n\n1. **Meat, eggs and dairy** first if animal welfare is your main concern, or choose free-range and outdoor-reared as a strong alternative.\n2. **Soft fruit and leaves** next, if you would like to reduce residues on food eaten whole.\n3. **Thick-skinned and peeled produce** last, or not at all.\n4. **Seasonal and fresh** over organic and tired, every time.\n\n![An older farmer in a straw hat holding a bowl of vegetables in a field](/images/home-promos/stay-strong.jpg \"Good growing, organic or not, shows up in the bowl.\")\n\n## Decide one aisle at a time\n\nRather than switching everything or nothing, choose one category this week where organic matters to you, perhaps eggs or berries, and buy the best version you can there. Keep everything else fresh, seasonal and plentiful from the [fruit aisle](/shop/fruits) and the [vegetables aisle](/shop/vegetables). Then read our guide to [seasonal eating](/journal/seasonal-eating-without-a-wall-chart), which often does more for flavour and price than any label."
+    },
+    {
+      "ref": "b7",
+      "slug": "batch-cooking-for-people-who-hate-batch-cooking",
+      "title": "Batch cooking for people who hate batch cooking",
+      "tag": "Kitchen",
+      "image": "/images/blog/journal-01.jpg",
+      "date": "26 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "Three components on a Sunday, six dinners by Friday — without a single identical plate.",
+      "body": "Most batch cooking fails on Wednesday. Sunday goes well, the fridge fills with identical tubs, and by the third night of the same curry you are ordering a takeaway and quietly binning the rest. The fix is not to cook more on Sunday. It is to cook less, and to cook *parts* rather than meals. Three plain components, made in about two hours, can become six different dinners between Sunday night and Friday, each finished in fifteen or twenty minutes with something fresh.\n\n## Why whole meals go wrong\n\nA finished dish has already made every decision for you. The seasoning, the texture and the portion size are fixed on Sunday, and by midweek your appetite has moved on. Components stay flexible. A pot of plainly cooked lentils can be a warm salad, a soup or a side; a tray of roast chicken can go into pasta, rice or a wrap. You keep the slow, dull work in one session and leave the quick, enjoyable part for the evening.\n\nThe other advantage is honesty about time. Nobody wants to spend a whole Sunday cooking. The plan below takes roughly two hours, and most of that is the oven and the hob working while you do something else.\n\n![A canvas tote spilling eggs, bread, apples, courgette and greens](/images/blog/journal-02.jpg \"Buy the fresh finishing touches with the base ingredients, so the week is covered in one shop.\")\n\n## The three Sunday components\n\n### 1. A tray of roast chicken thighs\n\nSkinless thigh fillets are forgiving. They stay juicy where breast dries out, and they reheat well. Toss a kilo with olive oil, salt, a crushed garlic bulb's worth of cloves and a little smoked paprika, then roast at 200 °C for about 25 minutes, until the juices run clear and the thickest piece reaches 75 °C in the centre. Keep the seasoning deliberately simple; each dinner will add its own character.\n\n{{products: chicken-thigh-fillets, garlic-bulbs}}\n\n### 2. A pot of Puy lentils\n\nPuy lentils hold their shape, which is why they suit this job: they will not turn to mush on the second reheat. Rinse 400 g, cover with plenty of cold water, add a bay leaf and simmer for 20 to 25 minutes until just tender. Drain, then dress while warm with olive oil, salt and a squeeze of lemon. Warm lentils absorb dressing far better than cold ones.\n\n### 3. A slow tomato sauce\n\nHalve a kilo and a half of Roma tomatoes, roast them cut side up with two red onions, a head of garlic and a generous pour of olive oil at 180 °C for an hour, then blend or crush. Roma tomatoes are meaty and less watery than salad varieties, so the sauce thickens quickly and freezes without separating.\n\n{{products: roma-tomatoes, puy-lentils, extra-virgin-olive-oil}}\n\n## Cool it, store it, keep it safe\n\nThis is the part that matters most, and the part most often skipped. Cooked food should be cooled and in the fridge within two hours. Spread the chicken on a cold plate, tip the lentils into a wide shallow dish and divide the sauce between containers rather than leaving it in the deep pan, where the middle stays warm for hours. Your fridge should run at 5 °C or below; a cheap fridge thermometer will tell you if it does.\n\nThen split everything. Cooked chicken and lentils are best eaten within two days of cooking, so anything meant for Wednesday onwards goes straight into the freezer on Sunday night, labelled with what it is and the date. The freezer should hold −18 °C. Move each night's portion to the fridge the evening before, so it thaws slowly and safely.\n\n> **Watch out:** Reheat each portion only once, and until it is piping hot all the way through, not just steaming at the edges. Take out only what you need.\n\n## Six dinners, none of them the same\n\n1. **Sunday: chicken, warm lentils and greens.** Eat the chicken hot from the oven with a spoonful of lentils and a handful of baby spinach wilted into them. The easiest night, and the one that proves the plan works.\n2. **Monday: spaghetti with the tomato sauce.** Bronze-die spaghetti has a rough surface that grips the sauce. Loosen the sauce with a ladle of pasta water and finish with grated mature cheddar or olive oil and black pepper.\n3. **Tuesday: a lentil salad with peppers and walnuts.** Cold lentils, sliced mixed peppers, cucumber, toasted walnuts and a sharp lemon dressing. No reheating at all, which is exactly what a Tuesday needs.\n4. **Wednesday: eggs baked in tomato sauce.** Warm sauce in a pan until bubbling, make four hollows, crack in the eggs, cover and cook until the whites set. Bread on the side. Ten minutes.\n5. **Thursday: chicken and tomato rice.** Thawed chicken, sliced and fried hard until hot through, stirred into basmati rice with the last of the sauce and a few frozen peas. It tastes like a different kitchen made it.\n6. **Friday: lentil and tomato soup.** Thawed lentils, any sauce left in the freezer, a litre of stock, simmered for ten minutes and finished with lemon. The week's scraps become the week's most comforting bowl.\n\n{{products: bronze-die-spaghetti, free-range-eggs, baby-leaf-spinach}}\n\n![A wicker basket of broccoli, peppers, onions and leafy greens](/images/editorial/veg-basket.jpg \"A few fresh vegetables each night keep a batch-cooked week from tasting like leftovers.\")\n\n## Small habits that make it stick\n\nThe plan survives because it leaves room. A few habits help:\n\n- **Season lightly on Sunday, boldly on the night.** Salt and oil at the batch stage; chilli, herbs, citrus and cheese at the plate.\n- **Keep one fresh thing per dinner.** Spinach, peppers, cucumber, a lemon. It is what stops the week tasting reheated.\n- **Use shallow, clear containers.** They cool faster, stack better and show you what is left.\n- **Swap freely.** Salmon for chicken, chickpeas for lentils, a tray of roast vegetables for the sauce. The structure matters more than the ingredients.\n\nIf the idea of cooking for one makes the quantities feel daunting, halve everything; the same logic applies, and our guide to [meal planning for a household of one](/journal/meal-planning-for-a-household-of-one) covers portioning in more detail. For the freezer side, [the freezer is not a graveyard](/journal/the-freezer-is-not-a-graveyard) has a labelling system that takes ten seconds.\n\n## Try it this Sunday\n\nPick just one component this week, the lentils are the easiest, and see how many different plates it becomes before Wednesday. Next week add the sauce. By the third week you will have your own three, and the Sunday session will feel less like a chore and more like buying yourself five quiet evenings. The chicken, lentils and tomatoes are in the [meat](/shop/meat), [pantry](/shop/pantry) and [vegetables](/shop/vegetables) aisles."
+    },
+    {
+      "ref": "b8",
+      "slug": "the-cold-chain-explained-in-plain-language",
+      "title": "The cold chain, explained in plain language",
+      "tag": "Sourcing",
+      "image": "/images/blog/journal-02.jpg",
+      "date": "24 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "Why the temperature between the field and your fridge decides how a tomato tastes.",
+      "body": "A tomato picked ripe on a warm afternoon is a small, living thing that keeps on changing after it leaves the plant. What it tastes like on your plate depends less on the variety than on the temperatures it passes through on the way: the field, the packhouse, the lorry, the warehouse, the shop and finally your kitchen. That sequence of controlled temperatures is the cold chain. It is not glamorous, but it quietly decides whether a tomato tastes of summer or of wet cardboard, and whether a fillet of fish is sweet or tired.\n\n## What the cold chain actually is\n\nThe cold chain is simply the rule that food should be held at the right temperature at every step, with no gaps. The key words are *right* and *no gaps*. Colder is not always better, and a single warm hour on a loading bay can undo days of careful handling.\n\nFresh food spoils for two main reasons. Produce keeps breathing after harvest, using up its sugars and moisture, and the warmer it is the faster it breathes. Meat, fish and dairy, meanwhile, give bacteria a place to grow, and bacteria multiply quickly between roughly 5 °C and 60 °C. Cold slows both processes. It does not stop them, which is why a cold chain is a chain: every link buys time, and every broken link spends it.\n\n![A bag of fresh vegetables handed over at a front door](/images/blog/journal-07.jpg \"The last link in the chain is the shortest and the easiest to break: the doorstep to the fridge.\")\n\n## Why a tomato hates the fridge\n\nHere is the part that surprises people. Tomatoes are one of several foods that are damaged by cold. Below roughly 10 to 12 °C, the enzymes that build a tomato's flavour and aroma slow down and some switch off, and the flesh can turn mealy. A tomato chilled for a day or two often does not fully recover its perfume, even after warming up again.\n\nSo for tomatoes the right temperature is cool, not cold: somewhere around 12 to 15 °C in transit, and a fruit bowl out of direct sun at home. Our buyers ask growers to pick vine tomatoes close to ripe and keep them out of chilled storage for exactly this reason. It costs more in handling, and it is the single biggest difference you can taste.\n\n{{products: vine-tomatoes, juicy-vine-tomatoes}}\n\nThe same caution applies to a few other warm-climate crops. Bananas darken and stall below about 12 °C. Aubergines pit and brown. Avocados can fail to ripen evenly if chilled while hard. Once any of these is ripe, a day or two in the fridge slows it down; before that, the counter is kinder.\n\n## Three temperatures, three kinds of food\n\nMost of what you buy falls into one of three bands:\n\n- **Cool (about 10–15 °C):** tomatoes, bananas, aubergines, unripe avocados and mangoes, potatoes and onions. These want air and shade rather than refrigeration.\n- **Chilled (about 0–5 °C):** leafy greens, broccoli, berries, grapes, apples, dairy, meat and fish. Leafy crops are cooled within hours of picking to take the field heat out; fish is held on ice close to 0 °C from the boat onwards.\n- **Frozen (−18 °C or colder):** vegetables and fruit frozen quickly after harvest, and fish frozen at sea. Held steadily at −18 °C, they keep their quality for months.\n\nGrapes are a good example of the chilled band doing its job. Held near 0 °C with the right humidity, they stay crisp and their stems stay green for weeks; a few warm days and the stems shrivel and the berries soften.\n\n{{products: red-seedless-grapes, crown-broccoli}}\n\n## Frozen is part of the chain too\n\nFrozen food is often treated as second best, but it can be the freshest thing in the shop. Garden peas start turning their sugar to starch the moment they are picked, so a pea frozen within hours of harvest can taste sweeter than a \"fresh\" one that spent three days in transit. Prawns frozen on board the boat skip the journey entirely.\n\nThe catch is steadiness. Food that thaws a little and refreezes grows larger ice crystals, which break cell walls and leave fish watery and vegetables limp. Frost inside a bag is a sign that has happened somewhere along the way.\n\n{{products: frozen-garden-peas, raw-king-prawns}}\n\n> **Good to know:** Thawed raw meat or fish should not be refrozen unless you cook it first. Once cooked, it can go back in the freezer as a new, cooked dish.\n\n## Your kitchen is the last link\n\nEverything above can be done perfectly and still come undone in the forty minutes between the doorstep and the fridge. A few habits keep your link strong:\n\n1. **Unpack chilled and frozen food first.** Put it away before the cupboard things, and do it straight away, especially in warm weather.\n2. **Use an insulated bag** if the shopping will spend more than half an hour in a car.\n3. **Check your fridge runs at 5 °C or below** and your freezer at −18 °C. A simple thermometer on the middle shelf is the only way to know.\n4. **Do not overfill the fridge.** Cold air needs to circulate; a packed shelf has warm pockets.\n5. **Keep the door for sturdy things.** It is the warmest, most changeable part of the fridge, so milk and eggs are better on a shelf.\n6. **Give cool-loving produce a cool spot.** Tomatoes, bananas and potatoes belong in a shaded bowl or a dark cupboard, not the salad drawer.\n\n![A wicker basket of just-picked vegetables on a wooden table in a sunny field](/images/home-promos/grocery-cta.jpg \"Field heat is the first enemy: the sooner produce is cooled to the right temperature, the longer it lasts.\")\n\n## Put one thing to the test\n\nThis week, buy a few tomatoes and split them. Keep half in the fruit bowl and put half in the fridge for two days, then taste them side by side at room temperature. You will not need convincing after that. If you want to go further, our guide on [how to choose fresh fruits and vegetables like a pro](/journal/how-to-choose-fresh-fruits-and-vegetables-like-a-pro) covers what to look for at the shelf, and the [vegetables aisle](/shop/vegetables) is a good place to start."
+    },
+    {
+      "ref": "b9",
+      "slug": "reading-a-label-without-falling-for-it",
+      "title": "Reading a label without falling for it",
+      "tag": "Guides",
+      "image": "/images/blog/journal-03.jpg",
+      "date": "22 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "The four words on packaging that mean something, and the nine that legally mean nothing.",
+      "body": "The front of a pack is advertising. The back is information. Most of us read the front, because that is where the big letters and the pictures of sunlit fields are, and most of what is written there has been chosen to make you feel something rather than tell you something. A handful of terms, though, are tied to rules that producers have to meet and can be checked on. Learn those four, learn to shrug at the nine that carry no fixed legal meaning in most places, and a label becomes a quick, useful read rather than a pitch.\n\n## Where the real information lives\n\nBefore the words themselves, a habit: turn the pack over. In the UK and EU, and in many other markets, the back or side of the pack carries the parts producers are required to show, including the ingredients list in descending order of weight, the allergens (highlighted in the UK and EU), the nutrition table per 100 g, the date mark and storage instructions. The front can say almost anything that is not actively misleading. The back has to be accurate.\n\nThe ingredients list is the most honest thing on the box. If a \"strawberry\" yoghurt lists sugar before strawberries, there is more sugar than fruit. If a short list of recognisable ingredients becomes a long one, the product has been engineered for shelf life or price, which is not always bad, but is worth knowing.\n\n![A paper grocery bag spilling tomatoes, carrots, bread and milk](/images/blog/journal-01.jpg \"Loose produce carries almost no label at all, which is one reason it is easier to judge by eye.\")\n\n## The four words that mean something\n\n### 1. Use by\n\nThis is a safety date, found on food that goes off quickly: fresh meat, fish, many dairy products and ready meals. After the date, the food may not be safe even if it looks and smells fine, so do not eat it, cook it or freeze it past this point. Freezing before the date is fine, and pauses the clock. Follow any storage instructions alongside it, such as \"keep refrigerated at 5 °C or below\".\n\n### 2. Best before\n\nThis is about quality, not safety. After a best before date, a packet of pasta, a tin of tomatoes or a bag of oats may be a little less crisp or aromatic, but it is generally fine to eat if it has been stored as directed and the pack is intact. Eggs are the exception people ask about most: in the UK they carry a best before date, and official advice there is that they can be eaten for a short while after it only if cooked thoroughly, until the white and yolk are solid. Use your senses, and when in doubt, leave it out.\n\n{{products: jumbo-rolled-oats, aged-basmati-rice}}\n\n### 3. Organic\n\nIn the UK, the EU and the US, among others, \"organic\" is a protected term. Food sold as organic has to be produced to a defined standard and certified by an approved body, and the pack will carry that body's code or logo. It tells you something specific about how the food was grown or reared. It does not, on its own, tell you the food is more nutritious or better tasting; our piece on [organic vs regular](/journal/organic-vs-regular-what-should-you-actually-choose) weighs up where the premium earns its keep.\n\n### 4. Free-range\n\nFor eggs and poultry meat in the UK and EU, \"free-range\" is defined by marketing rules that set requirements such as access to outdoor space. On eggs, the printed code tells you the system: 0 for organic, 1 for free-range, 2 for barn and 3 for caged. Rules differ elsewhere, and for other meats the term is often looser, so check which product it is attached to.\n\n{{products: free-range-eggs, chicken-thigh-fillets}}\n\n> **Tip:** On eggs, the first digit of the stamped code is more reliable than any picture on the box.\n\n## The nine that mean almost nothing\n\nThese words are not lies, exactly. They are simply not tied to a fixed legal definition in most markets, so one producer's \"artisan\" can be another's factory line. Some countries publish guidance on a few of them, but guidance is not a standard you can check.\n\n1. **Natural.** On the front of a pack, largely a marketing word. (Specific phrases such as \"natural flavouring\" do have defined meanings in the UK and EU, which is a different thing.)\n2. **Farm fresh.** Every egg and vegetable came from a farm. The word says nothing about how long ago.\n3. **Artisan.** No agreed size, method or number of hands involved.\n4. **Hand-crafted.** Similar. A single manual step can be enough to justify it.\n5. **Premium.** A price position, not a quality standard.\n6. **Wholesome.** A feeling, not a measure.\n7. **Gourmet.** Says more about the packaging budget than the contents.\n8. **Clean.** Has no agreed meaning for food at all.\n9. **Country-style.** Describes a look or a recipe, not where or how it was made.\n\nWhen you see one of these, go back to the ingredients list and the nutrition table. They will tell you what the word will not.\n\n## A thirty-second label check\n\nFor anything new in your basket, this routine is enough:\n\n- **Turn it over** and read the first three ingredients. They make up most of the product.\n- **Compare per 100 g,** not per portion. Portion sizes vary wildly between brands and are often smaller than anyone eats.\n- **Find the date mark** and note which kind it is: use by for safety, best before for quality.\n- **Look for a certification mark** if you are paying extra for organic or free-range, rather than trusting a picture.\n- **Ignore the adjectives.** Anything in the list of nine above can be skipped.\n\nSingle-ingredient foods make this almost effortless. A bag of lentils or a bottle of olive oil has one line of ingredients, and what matters is the grade and the date rather than the story.\n\n{{products: puy-lentils, extra-virgin-olive-oil}}\n\n![A cotton tote packed with carrots, leeks, cabbage and onions](/images/editorial/tote-of-veg.jpg \"The shorter the ingredients list, the less there is for the front of the pack to hide.\")\n\n## Read one pack tonight\n\nTake one packet from your cupboard, something you buy every week, and read the back properly for the first time. Check the first three ingredients, the per-100 g sugar and salt, and the kind of date mark. That one pack will teach you more than any list. When you next restock, the [pantry aisle](/shop/pantry) and [eggs](/shop/eggs) are a good place to put the habit to work."
+    },
+    {
+      "ref": "b10",
+      "slug": "seasonal-eating-without-a-wall-chart",
+      "title": "Seasonal eating without a wall chart",
+      "tag": "Fresh",
+      "image": "/images/home-promos/keep-active.jpg",
+      "date": "20 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "A simple rule of thumb that gets you cheaper, better produce all year round.",
+      "body": "Seasonal charts are lovely things that almost nobody uses. They go up on the fridge in January, get consulted twice, and are hidden behind a takeaway menu by March. You do not need one. A single rule of thumb, applied every time you shop, will steer you towards produce that is cheaper, tastier and at its peak all year round: **buy what is plentiful, heavy and priced low for its kind.** When a fruit or vegetable is in season, the shop tells you, if you know how to read it.\n\n## The rule, and why it works\n\nWhen a crop is at its natural peak, growers have more of it than they know what to do with. It comes from closer to home, travels a shorter distance and does not need heated glasshouses or long cold storage to exist. All of that shows up in three places you can see without a chart:\n\n- **Plenty.** The display is full, often spilling into a second crate. Our buyers order more of whatever growers are struggling to keep up with.\n- **Price.** It is noticeably cheaper per kilo than it was a month or two ago, often by a third or more.\n- **Weight and smell.** In-season produce feels heavy for its size, because it is full of water and sugar, and ripe fruit smells of itself from a short distance.\n\nWhen all three line up, you are almost certainly looking at something in season. When a fruit is expensive, sparse and smells of nothing, it is either early, late or has come a very long way. None of that makes it bad, but it rarely makes it the best buy.\n\n![A woman holding a double handful of fresh fruit and vegetables](/images/editorial/handful-of-produce.jpg \"Heavy for its size and piled high: the two signs that matter more than any calendar.\")\n\n## How the rule plays out through the year\n\nThe details depend on where you live, but in a temperate climate like the UK's the rule tends to point you in the same direction each season. Think of this as an illustration, not a chart to pin up.\n\n### Spring\n\nThe tender things arrive first: new potatoes, spinach and other young leaves, the first asparagus. Winter roots are still around and getting cheaper as stores run down. Baby potatoes are at their waxiest and most flavourful.\n\n{{products: baby-potatoes, baby-leaf-spinach}}\n\n### Summer\n\nThis is when the rule is easiest to follow, because the shelves overflow. Strawberries, then courgettes, cucumbers and peppers, then tomatoes in late summer. A strawberry in June that smells from a metre away is a different fruit from a pale one in February.\n\n{{products: kent-strawberries, courgettes}}\n\n### Autumn\n\nOrchard fruit takes over. Apples and pears are picked from late summer into October, and many varieties keep well in cold storage for months, which is why they stay good value well into the new year. Squash, cabbages and cauliflower come in as the weather cools.\n\n{{products: pink-lady-apples, conference-pears}}\n\n### Winter\n\nBrassicas and roots are at their best, often sweeter after a frost. This is also citrus season in the Mediterranean, so oranges and lemons are heavy, juicy and at their cheapest. The winter shop may look less colourful, but it is some of the best value of the year.\n\n{{products: green-cabbage, navel-oranges}}\n\n## Where the rule needs a little help\n\nA rule of thumb is not a law, and a few cases can trip it up.\n\n- **Imported produce has its own seasons.** Mangoes, avocados and bananas come from the other side of the world, where the calendar is different. The rule still works: when mangoes are piled high, fragrant and cheaper per kilo, they are in season somewhere.\n- **Promotions can mimic plenty.** A heavily discounted item may simply be overstocked. Check the other two signs, weight and smell, before you believe the price.\n- **Storage crops blur the edges.** Potatoes, onions, apples and carrots are stored for months. They are not out of season in spring, just older, so check them for firmness and sprouting.\n- **Glasshouse crops are season-light.** Tomatoes and cucumbers grown under glass are available for much of the year. They taste best, and cost least, when the natural season and the glasshouse season overlap in summer.\n\n> **Tip:** Frozen vegetables and fruit are picked and frozen at their peak. When something you want is out of season, the frozen aisle is often a better bet than a tired fresh version.\n\n## Making it a habit at the shelf\n\nThe rule only works if you let it change what you buy. That means walking in with a loose plan rather than a fixed recipe:\n\n1. **Write categories, not items.** \"A green vegetable, two fruits, something for a salad\" leaves room to choose whatever is best on the day.\n2. **Look at the biggest display first.** It is usually the most seasonal, freshest and best value thing in the aisle.\n3. **Compare the price per kilo** with what you remember paying a month ago.\n4. **Pick one up.** If it feels heavy and smells of something, buy it and build dinner around it.\n5. **Cook simply.** In-season produce needs very little. Roast, dress with olive oil and salt, and let the flavour do the work.\n\nFor a closer look at what to check in the hand, see [how to choose fresh fruits and vegetables like a pro](/journal/how-to-choose-fresh-fruits-and-vegetables-like-a-pro), and for keeping costs down all week, [smart grocery shopping tips to save money every week](/journal/smart-grocery-shopping-tips-to-save-money-every-week).\n\n![A wicker basket of just-picked vegetables on a wooden table in a sunny field](/images/home-promos/grocery-cta.jpg \"What grows well together tends to taste good together, and arrives in the shop at the same time.\")\n\n## Your next shop\n\nNext time you shop, before you look at your list, find the fullest, cheapest, heaviest thing in the [fruit](/shop/fruits) and [vegetable](/shop/vegetables) aisles and buy it first. Then plan one meal around it. Do that every week for a month and you will know the seasons better than any chart could teach you."
+    },
+    {
+      "ref": "b11",
+      "slug": "how-to-store-herbs-so-they-last-a-fortnight",
+      "title": "How to store herbs so they last a fortnight",
+      "tag": "Kitchen",
+      "image": "/images/editorial/veg-basket.jpg",
+      "date": "18 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "Stems in water, leaves out of the draught — small habits, dramatic difference.",
+      "body": "A bunch of parsley bought on Saturday is usually a damp, yellowing lump by Wednesday. That is not because herbs are fragile. It is because most of us store them in the worst possible way: squashed in their plastic sleeve, at the back of the fridge, where the cold air blows straight over the leaves. Treat herbs more like cut flowers, give the stems water and keep the leaves out of the draught, and most bunches will stay bright and usable for around two weeks. The method depends on which kind of herb you have, and there are only two kinds.\n\n## Soft herbs and hard herbs\n\nSort your herbs by their stems before you do anything else.\n\n- **Soft herbs** have tender, green, bendy stems: parsley, coriander, dill, mint, chervil, tarragon and basil. They are mostly water, and they wilt when they lose it.\n- **Hard herbs** have woody stems: rosemary, thyme, sage, oregano and bay. They contain less water and more aromatic oil, and they suffer more from damp than from drying out.\n\nSoft herbs need a drink. Hard herbs need gentle humidity without being wet. Almost every storage mistake comes from treating one like the other.\n\n![A wicker basket of just-picked vegetables on a wooden table in a sunny field](/images/home-promos/grocery-cta.jpg \"Herbs are freshest the day they are cut, so the aim at home is simply to slow the clock.\")\n\n## The jar method for soft herbs\n\nThis is the habit that makes the biggest difference, and it takes two minutes when you unpack the shopping.\n\n1. **Take the herbs out of their packaging** and pick out any yellow or slimy stems. One rotting stem will spread to the rest.\n2. **Trim the stem ends** by a centimetre with a sharp knife, as you would flowers. A fresh cut drinks water far better than a dried, sealed end.\n3. **Stand them in a jar** with about three centimetres of cold water. Only the stems should be in the water; leaves sitting below the waterline rot quickly.\n4. **Cover the leaves loosely** with a clean, roomy food bag, tucked around the jar but not sealed tight. It holds a little humidity and shields the leaves.\n5. **Put the jar in the fridge door or on a front shelf,** away from the back wall, where the air is coldest and the fan blows hardest.\n6. **Change the water every two or three days,** and trim the stems again if they look cloudy.\n\nKept this way, parsley and coriander tend to last ten days to two weeks, sometimes longer. Dill and tarragon manage a little less. Mint is tough and often outlasts the lot.\n\n> **Tip:** Wash herbs just before you use them, not when you put them away. Water sitting on leaves in the fridge is the fastest route to black, slimy patches.\n\n## Basil is the exception\n\nBasil is a warm-climate plant and dislikes the cold much as tomatoes do. In the fridge its leaves blacken within a day or two. Keep it in a jar of water on the kitchen counter instead, out of direct sun and away from draughts from a window, oven or radiator. It should stay fresh for about a week. A potted basil plant on a bright windowsill, watered from below, will last far longer if you pick from the top.\n\nBasil's natural partners, ripe tomatoes, garlic and a good olive oil, also keep best out of the fridge, so they can share the same corner of the kitchen.\n\n{{products: vine-tomatoes, garlic-bulbs, extra-virgin-olive-oil}}\n\n## Hard herbs: damp paper, not water\n\nRosemary, thyme, sage and oregano do not need standing in water. Instead:\n\n- Wrap the bunch loosely in a sheet of kitchen paper that has been dampened and then wrung out until it feels barely moist.\n- Put the parcel in a lidded container or a loosely closed bag.\n- Store it in the salad drawer, where the humidity is higher and steadier.\n\nTreated this way, rosemary and thyme often last two to three weeks. Check the paper every few days; if it has dried out, dampen it again, and if it is wet, replace it. As they age, hard herbs dry rather than rot, and dried sprigs are still perfectly good for roasting.\n\nThe same gentle, damp-but-not-wet approach suits other tender leaves too. A bag of baby spinach lasts longer with a sheet of dry kitchen paper tucked inside to catch condensation.\n\n{{products: baby-leaf-spinach}}\n\n![A cotton tote packed with carrots, leeks, cabbage and onions](/images/editorial/tote-of-veg.jpg \"Unpack herbs first: ten minutes in a warm bag does more damage than two days in a jar.\")\n\n## Using up the last of a bunch\n\nEven well-kept herbs eventually slow down. Before they turn, use them in something that does not need them to look perfect:\n\n- **Blitz soft herbs into a sauce** with olive oil, garlic, a squeeze of lemon and salt. Salsa verde, chimichurri and a quick pesto all start here.\n- **Freeze chopped herbs in an ice-cube tray,** topped up with water or oil, then tip the cubes into a labelled bag. They are for cooking rather than garnishing, and keep their flavour for a few months at −18 °C.\n- **Dry hard herbs** by hanging a small bunch somewhere airy and out of the sun for a week or two.\n- **Add stems to stocks and soups.** Parsley and coriander stalks carry more flavour than the leaves.\n\n{{products: sicilian-lemons, persian-limes}}\n\n> **Watch out:** Herbs or garlic kept in oil at room temperature can allow harmful bacteria to grow. Keep any homemade herb oil or pesto in the fridge and use it within a few days, or freeze it.\n\n## Start with your next bunch\n\nThe next time you bring herbs home, unpack them before anything else. Trim, stand the soft ones in a jar with a loose bag over the top, wrap the hard ones in damp paper, and leave the basil on the counter. It takes less time than making a cup of tea, and by the second week you will still be cooking with the same bunch. Tender leaves like spinach are in [salads and greens](/shop/salads-greens), and the lemons and oil to finish a herb sauce are in [citrus](/shop/citrus) and [oils and vinegars](/shop/oils-vinegars)."
+    },
+    {
+      "ref": "b12",
+      "slug": "what-a-fair-price-for-fish-actually-looks-like",
+      "title": "What a fair price for fish actually looks like",
+      "tag": "Money",
+      "image": "/images/home-promos/grocery-cta.jpg",
+      "date": "16 Dec 2026",
+      "read": "6 min read",
+      "excerpt": "Where the premium goes, and the two cuts that quietly outperform the expensive ones.",
+      "body": "Fish is the one counter where most of us stop trusting our own judgement. The prices swing more than anything else in the shop, the names change from one week to the next, and it is hard to tell whether a higher figure on the label buys better fish or just better trimming. Once you know where the money goes between the boat and your plate, the prices start to make sense, and two humble cuts turn out to be better value than the ones everyone reaches for first.\n\n## Where the money in a piece of fish goes\n\nA whole fish arrives at the processor with its head, bones, skin and belly still on. By the time it becomes a neat, skinless, boneless portion, a large share of its weight has gone. For a round white fish such as cod, a clean fillet is often somewhere around 40 to 50 percent of the whole fish's weight. For salmon the yield is better, but trimming it down to a uniform, skinless loin still takes away a good deal of weight.\n\nThat lost weight has to be paid for. Your price per kilo of fillet carries the whole fish, the labour of cutting it, the ice and packaging, and the cold chain that keeps it at the right temperature all the way. The more a portion has been trimmed, squared off and made to look identical to its neighbour, the more of the original fish you are paying for and not eating.\n\nFour other things push the price up:\n\n- **Distance and speed.** Fresh fish flown in to be sold within days costs far more to move than fish frozen at sea and shipped slowly.\n- **Season and weather.** A week of storms keeps boats in harbour and prices climb. That tells you nothing about quality.\n- **Fashion.** Species that are popular on restaurant menus carry a premium that has little to do with how they taste at home.\n- **Certification.** Schemes such as the MSC blue label, common in the UK and EU, cost fisheries money to join and audit. It is a premium worth paying if sustainability matters to you, but it is a statement about the fishery, not about flavour.\n\n> Much of what you pay for in the fish aisle is the knife work, not the fish.\n\n## Fresh, frozen at sea, or thawed\n\nThe word \"fresh\" on a fish counter does a lot of work. Fish caught on a long trip may have spent over a week on ice before landing. Fish frozen within hours of being caught, then kept at −18 °C or below, can be in better condition when you cook it than a \"fresh\" fillet that has been in transit for days.\n\nIn many markets, fish that has been frozen and thawed for display has to be labelled as defrosted. Look for that word. Defrosted fish is fine to buy and cook, but it should be eaten within a day or two and **not refrozen raw**. If you want to keep it longer, cook it first, cool it, and freeze the cooked dish.\n\n> **Good to know:** Frozen fish is often the cheaper route to the same quality. Buy it in portions, thaw it overnight in the fridge on a plate, and cook it the next day.\n\n{{products: raw-king-prawns}}\n\nPrawns are the clearest example. Almost all prawns are frozen soon after catching, so the \"fresh\" ones on ice have usually been thawed. Buying them frozen and thawing them yourself gets you the same product for less, and they last longer in the freezer.\n\n## How to judge a fair price per kilo\n\nCompare like with like. Always look at the price per kilo, not per pack, and then ask what state the fish is in.\n\n1. **Whole fish** has the lowest price per kilo but the most waste. A fishmonger will usually gut and fillet it for you at no charge.\n2. **Bone-in steaks and skin-on fillets** sit in the middle. Less waste than whole fish, much less trimming than loins.\n3. **Skinless, boneless loins and \"portions\"** cost the most per kilo because you are paying for everything that was cut away.\n\nA fair price is one where the trimming matches what you need. If you are flaking fish into a pie, paying for perfect squares makes no sense. If you are serving a single fillet on its own, the tidy cut may be worth it.\n\n![A wicker basket of broccoli, peppers, onions and leafy greens](/images/editorial/veg-basket.jpg \"What goes beside the fish matters as much as the cut.\")\n\n## The two cuts that quietly outperform\n\n### 1. The bone-in salmon steak\n\nA salmon steak is cut straight across the fish, through the backbone. It keeps the bone, a ring of skin and a little of the belly, and it usually costs noticeably less per kilo than a skinless salmon loin. The bone and skin protect the flesh as it cooks, so a steak is much harder to dry out. It stays moist in a hot oven, under the grill or on a barbecue.\n\nThe bone lifts out easily once it is cooked. Roast at 200 °C for 12 to 15 minutes, until the flesh flakes and comes away from the bone, and finish with lemon.\n\n{{products: atlantic-salmon-steaks, sicilian-lemons}}\n\n### 2. The tail end of a white fish fillet\n\nThe thick centre loin of cod is the prized piece. The thinner tail end, from the same fish, is often sold more cheaply or in \"mixed\" packs because the pieces are uneven. It is the same fish, with the same flavour, and it cooks in half the time. For fish tacos, a fish pie, a curry or a quick pan-fried supper, where the fish ends up in flakes anyway, the tail is the better buy.\n\nIf you do want the thick loin, buy it for dishes where it is the star, and use the tail for everything else. Thick, skinless cod fillets are the right choice for a single plate. The tail is the right choice for anything with a sauce.\n\n{{products: skinless-cod-fillets}}\n\n## Getting home what you paid for\n\nThe best cut is wasted if it sits in a warm car. A few habits protect the money:\n\n- Buy fish last and go straight home. Use a cool bag in warm weather.\n- Keep fresh fish in the coldest part of the fridge, at or below 5 °C, and cook it within a day or two, before the \"use by\" date. That date is about safety, not quality.\n- Smell it before cooking. Good fish smells of the sea, never of ammonia.\n- Thaw frozen fish in the fridge, never on the counter.\n\nYou can read more about how temperature shapes quality in [the cold chain, explained in plain language](/journal/the-cold-chain-explained-in-plain-language).\n\n![A smiling woman holding a double handful of fruit and vegetables](/images/editorial/handful-of-produce.jpg \"A cheaper cut leaves room in the budget for the good produce beside it.\")\n\n## Try this on your next shop\n\nNext time you buy fish, skip the neatest portion on the shelf. Pick up a pair of bone-in salmon steaks or a pack of cod tails, check the price per kilo against the loins, and cook them the simple way: a hot oven, a little oil, salt and a squeeze of lemon. The [fish aisle](/shop/fish) and the [shellfish aisle](/shop/shellfish) both list the price per kilo, so the comparison takes a few seconds."
+    },
+    {
+      "ref": "b13",
+      "slug": "meal-planning-for-a-household-of-one",
+      "title": "Meal planning for a household of one",
+      "tag": "Health",
+      "image": "/images/blog/journal-07.jpg",
+      "date": "14 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "Portioning, freezing and shopping small without wasting half of everything.",
+      "body": "Cooking for one is not cooking for four, divided by four. Recipes are written for families, packs are sized for families, and the half bag of spinach that goes slimy by Thursday feels like a small personal failure. It is not. It is a planning problem, and it has three parts: how you portion, what you freeze, and how small you are willing to shop. Get those three right and a single person can eat well all week without throwing half of it away.\n\n## Plan around ingredients, not recipes\n\nMost meal plans list seven dinners. For one person, that is the wrong unit. A better plan starts with three or four fresh ingredients for the week and gives each one two or three jobs.\n\nTake a cabbage. On Monday a quarter of it becomes a crunchy slaw with carrot and lime. On Wednesday another quarter is shredded into a stir-fry. On Saturday the rest goes into a soup with lentils. One vegetable, three dinners that taste nothing alike, and nothing left over.\n\nGood candidates for this are the ingredients that last well and change character depending on how you cook them:\n\n- **Cabbage, carrots and broccoli**, which keep for a week or more in the salad drawer.\n- **Peppers and courgettes**, which can be eaten raw, roasted or stirred into pasta.\n- **Eggs**, which turn any leftover vegetable into a meal in ten minutes.\n- **A pulse or grain**, which stretches everything else.\n\n{{products: green-cabbage, crown-broccoli, sweet-snacking-carrots}}\n\n> **Tip:** Before you shop, write down the three fresh things you will buy and next to each one, two ways you will use it. If you cannot think of a second use, buy a smaller amount or pick something else.\n\n## Portion before it goes in the fridge\n\nPortioning is the step that saves the most food, and it takes five minutes when you unpack the shopping. The idea is simple: turn a family-sized pack into single meals straight away, while everything is fresh.\n\n1. **Meat and fish.** Split packs into single portions. Keep what you will cook in the next day or two in the fridge, at or below 5 °C, and freeze the rest flat in labelled bags on the same day. Do it well before the \"use by\" date, not on it.\n2. **Bread.** Slice it and freeze most of the loaf. Toast slices straight from frozen.\n3. **Herbs.** Chop what you will not use this week and freeze it in a little oil.\n4. **Cheese.** Grate half a block and freeze it in a bag. It melts perfectly from frozen onto pasta or toast.\n\nChicken thigh fillets are especially good for this. They come in manageable sizes, freeze well and stay juicy when cooked, so a single pack can become four separate dinners.\n\n{{products: chicken-thigh-fillets, mature-cheddar}}\n\n![A cotton tote packed with carrots, leeks, cabbage and onions](/images/editorial/tote-of-veg.jpg \"Hardy vegetables are the friend of a small household: they wait for you.\")\n\n## Cook once, eat twice, freeze once\n\nThe most useful habit for one person is to cook a dish that makes three portions. You eat one that night. One goes in the fridge for lunch or dinner within the next two days. One goes in the freezer for a night when you cannot face cooking.\n\nThe rules that keep this safe are few, but they matter:\n\n- Cool leftovers quickly and get them into the fridge or freezer within two hours of cooking. Spreading food out in a shallow container helps it cool faster.\n- Eat fridge leftovers within two days.\n- Keep the freezer at −18 °C. Freezing keeps food safe, but its quality slowly drops, so aim to eat frozen meals within about three months.\n- Reheat until piping hot all the way through, and reheat only once.\n\nSoups, stews, curries, chilli and pasta sauces all work well for this. Rice and pasta are better cooked fresh, since they take minutes. If you do keep cooked rice, cool it fast and eat it within a day.\n\nFor a lighter version of this approach, [batch cooking for people who hate batch cooking](/journal/batch-cooking-for-people-who-hate-batch-cooking) builds a week from three simple parts.\n\n## Shop small without paying more\n\nBuying loose and buying small can cost more per kilo, but only if you would have eaten the whole large pack. Most single people do not. Paying slightly more per kilo for exactly what you need is usually cheaper than buying a bigger bag and throwing a third away.\n\nA few ways to shop small well:\n\n- **Buy loose fruit and vegetables** by the piece: two peppers, three apples, one courgette.\n- **Buy the big pack only for things that freeze or keep.** Oats, rice, lentils, frozen peas and frozen berries are all fine in bulk.\n- **Shop twice a week if you can**, or once a week with a smaller top-up. Fresh food bought for three days is eaten. Fresh food bought for seven often is not.\n- **Use the freezer for your vegetables too.** Frozen peas and spinach are picked and frozen quickly and are ready whenever you are.\n\n{{products: frozen-garden-peas, puy-lentils}}\n\nPuy lentils earn a place on this list. They cook in about 20 minutes, hold their shape, and a small bag makes many single portions: warm with roast vegetables, cold in a salad, or stirred into soup.\n\n![A smiling woman holding a double handful of fruit and vegetables](/images/editorial/handful-of-produce.jpg \"Buy only what you can hold in two hands, and you will use all of it.\")\n\n## A sample week for one\n\nHere is how a week can look with just a cabbage, a pack of chicken thighs, a bag of lentils, a few peppers and a box of eggs:\n\n1. **Monday:** roast chicken thigh with peppers and lentils. Cook two extra thighs.\n2. **Tuesday:** the extra chicken, sliced cold into a cabbage and carrot slaw.\n3. **Wednesday:** omelette with the last roast peppers and grated cheese.\n4. **Thursday:** lentil and cabbage soup. Make three portions and freeze two.\n5. **Friday:** pasta with frozen peas, garlic, olive oil and cheese.\n6. **Saturday:** a frozen soup from the stash, with toast.\n7. **Sunday:** the last of the cabbage, stir-fried with egg and rice.\n\nNothing is repeated, nothing is thrown out, and the freezer holds a spare dinner for next week.\n\n## Your next step\n\nOn your next shop, pick three fresh ingredients and give each one two jobs before you put it in the basket. Portion the meat as soon as you get home. You will likely throw away less by the end of the week. Everything above is in the [vegetables aisle](/shop/vegetables) and the [frozen vegetables aisle](/shop/frozen-veg), sold in quantities that suit one."
+    },
+    {
+      "ref": "b14",
+      "slug": "our-growers-the-vale-orchard-twelve-years-on",
+      "title": "Our growers: the Vale orchard, twelve years on",
+      "tag": "Sourcing",
+      "image": "/images/home-promos/stay-strong.jpg",
+      "date": "12 Dec 2026",
+      "read": "6 min read",
+      "excerpt": "One family, four hundred trees and a harvest that still moves entirely by hand.",
+      "body": "The Vale orchard sits at the bottom of a sheltered valley, on a slope that faces south and catches the afternoon sun. It is not large. There are four hundred trees across a little over three hectares, most of them apples, with two long rows of pears along the lower hedge. The same family has worked it for three generations, and for the past twelve years every apple and pear they pick by hand has come to our shelves. This is the story of how a small orchard has stayed small on purpose, and why its harvest still happens one piece of fruit at a time.\n\n## One family, three generations\n\nRuth Vale planted the first rows in the 1970s, on land that had been grazing pasture. Her son Tom took over in the nineties and replaced the tall old standard trees with smaller trees on dwarfing rootstocks, which bear fruit sooner and can be picked from the ground or a short ladder. Today Tom and his daughter Hannah run the orchard between them, with Ruth still walking the rows most mornings and offering opinions on the pruning.\n\nWhen our buyers first met them, the Vales were selling most of their crop to a wholesaler who blended it with fruit from dozens of other farms. The fruit was good. It simply disappeared into a bigger pile. The arrangement we agreed that first autumn was simple: we would take a fixed share of the harvest at a price agreed before picking began, and the Vale name would stay on the crate. Twelve seasons later, that is still the deal.\n\n![A grower in a greenhouse holding a crate of fresh produce](/images/home-promos/maintain-fitness.jpg \"Between harvests the work is tending: pruning, thinning and checking every row.\")\n\n## Four hundred trees, counted one by one\n\nAt this size, Hannah knows the orchard tree by tree. She keeps a notebook for each row with notes on blossom, fruit set, disease and yield. The trees are numbered, and the older ones have names.\n\nThat attention shows up in the fruit. A small orchard can thin by hand in early summer, removing some of the young fruit so that the rest grows larger and sweeter. It can prune each tree to let light into its centre, where colour and sugar develop. And it can walk every row after a storm to check for damage, which on a large estate would take days.\n\nPollination is shared work. A beekeeper from the next village keeps a dozen hives along the top hedge each spring, and the bees work the blossom for the few weeks it is open. The Vales count on them for a good fruit set, and the beekeeper counts on the orchard for a light, floral spring honey. It is the kind of arrangement that only works when both sides plan to be there next year.\n\nThe Vales grow several apple varieties, picked over a long season, and two varieties of pear. Our shelves carry Pink Lady apples and Conference pears from their best rows in a good year, alongside fruit from other trusted growers when the Vale crop runs out.\n\n{{products: pink-lady-apples, conference-pears}}\n\n## A harvest that still moves by hand\n\nApples bruise easily, and a bruise that is invisible on picking day turns brown a week later. So nothing at Vale is shaken from a tree or gathered from the ground for sale. Every fruit is picked by hand.\n\nThe pickers wear a canvas bag across the chest with an opening at the bottom. Each apple is lifted and turned upward so the stalk comes away cleanly, then placed, not dropped, into the bag. When the bag is full, its bottom opens into a wooden bin, and the fruit rolls gently out. A good picker can fill a bin in a morning.\n\nNot every apple on a tree ripens on the same day. The fruit on the sunny, outside branches is ready first. So each row is picked two or three times, a week or so apart, taking only the fruit that is ready. Pink Lady is one of the last apples of the season to ripen, and its picking often runs well into late autumn.\n\n> \"You can't hurry an apple. You just go back and ask it again next week.\" — Tom Vale\n\nPears are handled differently. Conference pears are picked while still firm and green, when they lift easily from the branch. They ripen off the tree, in cool storage and then in your fruit bowl. A pear left to soften on the branch tends to turn grainy at the core.\n\n## What twelve years have changed\n\nThe trees have changed. When we started, about a third of the orchard was old trees that cropped every other year. Tom has replanted in stages, a row or two each winter, so the orchard never loses its whole crop to replanting at once.\n\nThe way the fruit is stored has changed, too. With help from a long-term buying agreement, the Vales invested in a small cold store, which keeps apples at a steady low temperature after picking. That slows their ripening, so fruit picked in October can still be crisp weeks later. It also means the fruit leaves the farm in better condition, which is one of the reasons it arrives on our shelves tasting the way it does. There is more on this in [the cold chain, explained in plain language](/journal/the-cold-chain-explained-in-plain-language).\n\nWhat has not changed is the scale. The Vales have been offered more land more than once. They have said no each time. Four hundred trees is what one family can know properly, and they would rather know every tree than grow twice as many.\n\n![A picker at harvest holding a basket in a sunlit field](/images/home-promos/keep-active.jpg \"Picking season still moves one basket at a time.\")\n\n## How to get the best from their fruit\n\nFruit picked this carefully deserves careful keeping at home:\n\n- **Apples** stay crisp much longer in the fridge than in a fruit bowl. Keep a few out to eat that day and the rest in the salad drawer.\n- **Pears** should ripen at room temperature. Check the neck, near the stalk: when it gives slightly to gentle pressure, the pear is ready. Then move it to the fridge and eat it within a couple of days.\n- **Keep apples away from other produce** in the bowl if you want it to last. Ripening apples give off ethylene, a gas that speeds up ripening in fruit and vegetables nearby.\n\n## Taste the difference this autumn\n\nWhen Vale fruit is in season, it is marked with the orchard's name in the [orchard fruit aisle](/shop/orchard). Buy a few apples and a couple of pears, keep them the way the Vales would, then eat one side by side with an apple from somewhere else and see whether you notice the difference."
+    },
+    {
+      "ref": "b15",
+      "slug": "the-freezer-is-not-a-graveyard",
+      "title": "The freezer is not a graveyard",
+      "tag": "Pantry",
+      "image": "/images/blog/journal-02.jpg",
+      "date": "10 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "A labelling system that takes ten seconds and rescues about thirty dollars a week.",
+      "body": "Every freezer has a back corner where food goes to be forgotten. A foil parcel with no name. A bag of something brown that might be chilli and might be stew. Half a loaf from a month nobody remembers. Most of it was perfectly good when it went in, and most of it will be thrown out when it finally comes back out. The fix is not a bigger freezer or a stricter plan. It is a label that takes ten seconds to write, and a way of stacking that makes the oldest food the easiest to reach.\n\n## Why freezers turn into graveyards\n\nFood does not go bad in a freezer kept at −18 °C. Freezing stops the growth of the bacteria that make food unsafe, so frozen food stays safe for a very long time. What it loses is quality. Over months, ice crystals damage texture, air dries out the surface into pale \"freezer burn\", and flavours fade.\n\nSo the problem is rarely safety. It is that we cannot tell what something is or how long it has been there. Faced with a mystery bag, most of us leave it where it is and cook something else. By the time we look again, it has been there a year, and in the bin it goes.\n\n> A freezer does not waste food. Forgetting what is in it does.\n\n## The ten-second label\n\nEvery bag or box that goes into the freezer gets three things, written on a strip of masking tape with a permanent marker:\n\n1. **What it is, and how much.** \"Chicken thigh x2\", \"Lentil soup, 1 portion\", \"Bread, 6 slices\". Be specific enough that you could plan a meal from the label alone.\n2. **The date it went in.** Day and month is enough.\n3. **An \"eat by\" month.** Your own target for best quality, not a safety date.\n\nThat is it. Masking tape sticks to cold plastic, peels off cleanly and costs very little. Keep a roll and a marker in the drawer nearest the freezer, so labelling happens at the same moment as freezing. If you have to go and find a pen, you will skip it.\n\n> **Tip:** Write the \"eat by\" month bigger than everything else. It is the one line you need to read at a glance with the door open.\n\nFor the \"eat by\" month, these are sensible targets for home freezers:\n\n- **Bread, cakes and pastry:** within 3 months.\n- **Cooked dishes, soups and sauces:** within 3 months.\n- **Raw fish and prawns:** within 3 months for the best texture.\n- **Raw chicken, sausages and minced meat:** within 3 to 4 months.\n- **Raw joints and steaks:** within 6 months.\n- **Frozen vegetables and fruit:** follow the \"best before\" on the pack. These are frozen quickly after harvest and keep their quality well.\n\n{{products: frozen-garden-peas, frozen-mixed-berries}}\n\n## Stack it so the oldest comes first\n\nA label only helps if you can see it. Two simple layout rules make the difference:\n\n- **Freeze flat, then file upright.** Fill bags about two thirds full, press out the air and freeze them flat on a tray. Once solid, stand them upright in a drawer like files in a cabinet, labels facing up. You can read every one without moving anything.\n- **New goes to the back.** When you add something, move the older items forward. The front of each drawer is always \"eat this next\".\n\nGive each drawer a job if you can: one for raw meat and fish, one for cooked meals, one for bread, vegetables and fruit. Raw meat and fish should sit below ready-to-eat food, in sealed bags, so nothing drips onto something you will not cook again.\n\n![A canvas tote of vegetables and fruit with a bottle of produce wash](/images/blog/journal-04.jpg \"Portion and label on the day you shop, while everything is at its freshest.\")\n\n## Freezing and thawing, safely\n\n### Putting it in\n\nPortion before you freeze, not after. A single block of eight chicken thighs is useless on a night you want two. Freeze in the amounts you actually cook.\n\n- **Meat and fish:** freeze on the day you buy it, well before its \"use by\" date. Portion into single meals and freeze flat.\n- **Bread:** slice first. Toast straight from frozen.\n- **Cooked food:** cool it quickly and get it into the freezer within two hours of cooking. Shallow containers cool faster than deep ones.\n- **Ripe bananas:** peel, slice and freeze on a tray for smoothies and baking.\n- **Grated cheese:** freeze in a bag and use straight from frozen on pasta or toast.\n\n{{products: chicken-thigh-fillets, outdoor-pork-sausages}}\n\n### Taking it back out\n\nA good label tells you what to take out the night before. The safest way to thaw is slowly, in the fridge, on a plate to catch any liquid. Most portions thaw overnight. Never thaw raw meat or fish on the kitchen counter.\n\nSome food can be cooked straight from frozen. Frozen vegetables, prawns and thin fish fillets go straight into the pan or oven. Sausages can be cooked from frozen if you cook them longer and check they are piping hot in the middle. Reheated leftovers should also be piping hot all the way through.\n\n> **Watch out:** Once raw meat or fish has thawed, do not refreeze it raw. Cook it first, cool it, and then you can freeze the cooked dish.\n\n{{products: raw-king-prawns}}\n\n## The five-minute weekly check\n\nOnce a week, before you write your shopping list, open the freezer and read the front row of each drawer. Anything with this month's \"eat by\" goes onto the week's meal plan first. It takes a few minutes, and it turns the freezer from a store room into a second larder.\n\nHow much this saves depends on your household. The figure in the headline is a rough estimate for a family that regularly throws out frozen food, and your own number could be higher or lower. The simplest way to find out is to keep a note for a month of everything you would once have binned.\n\n![A delivery of fresh groceries handed over at the door](/images/blog/journal-07.jpg \"Check the freezer before you order, and the shop gets smaller.\")\n\n## Start with one roll of tape\n\nTonight, put a roll of masking tape and a marker next to the freezer. Label the next thing you put in, and the one after that. Within a few weeks the mystery bags will be gone. For more ideas on stretching what you already have, read [meal planning for a household of one](/journal/meal-planning-for-a-household-of-one), and browse the [frozen vegetables aisle](/shop/frozen-veg) for the staples that make the freezer work hardest."
+    },
+    {
+      "ref": "b16",
+      "slug": "breakfast-that-survives-a-weekday-morning",
+      "title": "Breakfast that survives a weekday morning",
+      "tag": "Health",
+      "image": "/images/blog/journal-03.jpg",
+      "date": "8 Dec 2026",
+      "read": "5 min read",
+      "excerpt": "Five assemblies, none of them requiring a pan or a decision before coffee.",
+      "body": "Weekday breakfast fails for two reasons, and neither of them is a lack of food. The first is effort: anything that needs a pan, a hob and a wash-up loses to the clock. The second is choice: standing at the open fridge at seven in the morning, deciding what to eat, is how most people end up eating nothing. The five breakfasts below solve both. None of them uses a pan. Each one is assembled in under five minutes, or put together the night before. And because each has its own day, there is nothing to decide before coffee.\n\n## The rules that make it work\n\nThree principles sit behind every one of these breakfasts:\n\n- **Assemble, do not cook.** A bowl, a knife, a toaster at most. If it needs a pan, it belongs on a weekend.\n- **Give each breakfast a day.** A fixed rota removes the decision. Monday is always the same, and so is Tuesday. You can swap days when you feel like it, but you never have to.\n- **Shop for the rota.** Once a week, buy what the five breakfasts need and nothing else for the morning. The fridge then holds the answer before you open it.\n\nEach breakfast combines something slow-burning, such as oats, bread or nuts, with fruit and some protein. For many people that tends to feel more filling through the morning than sugary cereal alone, though everyone is different.\n\n![A paper grocery bag spilling tomatoes, carrots, bread and milk](/images/blog/journal-01.jpg \"One weekly shop covers all five mornings.\")\n\n## The five assemblies\n\n### 1. Monday: overnight oats with blueberries and honey\n\nMade on Sunday night in a jar or a lidded bowl. Stir together half a cup of jumbo rolled oats and about three quarters of a cup of milk or yoghurt, then add a pinch of salt. Put the lid on and leave it in the fridge. In the morning the oats have softened into something creamy and thick. Top with a handful of blueberries, a spoonful of honey and a few walnut halves.\n\nJumbo oats are best here. They hold their shape overnight instead of turning to paste. Make two jars at once and Tuesday's breakfast is ready too, if you want it.\n\n{{products: jumbo-rolled-oats, wild-blueberries, runny-blossom-honey}}\n\n### 2. Tuesday: avocado toast with tomato and lime\n\nThe toaster is the only appliance. While the bread toasts, halve a ripe avocado and slice a tomato. Mash the avocado straight onto the toast with a fork, lay the tomato over it, add salt, pepper and a good squeeze of lime. A drizzle of olive oil is worth it if you have it.\n\nBuy avocados at different stages of ripeness so one is always ready. A ripe Hass avocado gives slightly when you press gently near the stalk. Keep ripe ones in the fridge to slow them down.\n\n{{products: hass-avocados, juicy-vine-tomatoes, persian-limes}}\n\n### 3. Wednesday: the cheese, apple and walnut plate\n\nA breakfast that needs only a board and a knife. Slice an apple, cut a few slices of mature cheddar and add a small handful of walnuts. Add a piece of bread or a couple of oatcakes if you are hungry. It sounds more like lunch than breakfast, but sweet fruit and sharp cheese are a very old pairing, and it keeps well in a lunchbox if you have to eat on the way.\n\n{{products: pink-lady-apples, mature-cheddar, california-walnut-halves}}\n\n### 4. Thursday: the green smoothie that does not taste green\n\nA blender is not a pan, and this takes about two minutes. Blend one banana, a peeled kiwi, a large handful of baby spinach, two tablespoons of oats and a glass of milk. The banana and kiwi cover the taste of the spinach almost completely, and the oats make it thick and filling.\n\nFor a colder smoothie, peel and slice ripe bananas at the weekend and freeze them on a tray. Wash the blender jug straight away, while it takes seconds.\n\n{{products: cavendish-bananas, ripe-kiwis, baby-leaf-spinach}}\n\n### 5. Friday: yoghurt, pear and honey bowl\n\nThe easiest of the five. Spoon thick yoghurt into a bowl, slice a ripe pear over it, drizzle with honey and finish with crushed walnuts. A ripe pear should give a little near the stalk. If the pears are still firm on Monday, leave them in the fruit bowl and they should be ready by Friday.\n\n![A smiling woman holding a double handful of fruit and vegetables](/images/editorial/handful-of-produce.jpg \"Fruit bought for a plan gets eaten. Fruit bought on a whim often does not.\")\n\n## The Sunday ten minutes\n\nA little preparation on Sunday makes the whole week easier:\n\n1. Make Monday's overnight oats, or two jars of them.\n2. Check the avocados and pears. Move ripe ones to the fridge and leave firm ones out.\n3. Wash and dry the blueberries only when you are ready to eat them. Stored wet, they spoil faster.\n4. Put walnuts in a small jar next to the kettle, so they are within reach for three of the five breakfasts.\n\nKeep the fridge at or below 5 °C and eat overnight oats within two days. Keep milk, yoghurt and cheese on a shelf, not in the door, where the temperature changes each time it opens.\n\n> **Tip:** Write the rota on a sticky note inside a cupboard door. It sounds too simple to matter, but it is the note, not your memory, that makes the decision at seven in the morning.\n\n## Your shopping list for the week\n\nEverything for the five breakfasts, for one person:\n\n- Jumbo rolled oats, milk and thick yoghurt\n- A punnet of blueberries\n- Two avocados, two tomatoes and a lime\n- Two apples, two pears, two bananas and a kiwi\n- A bag of baby spinach\n- A block of mature cheddar and a loaf of bread\n- Walnut halves and a jar of honey\n\nFor more ways to plan a week of eating without repeating yourself, see [weekly grocery list: what to buy for a healthy lifestyle](/journal/weekly-grocery-list-what-to-buy-for-a-healthy-lifestyle).\n\n## Start on Sunday night\n\nThis Sunday, make one jar of overnight oats and write the rota on a note. Monday morning will already be decided. Pick up the fruit from the [fruits aisle](/shop/fruits) and the oats from [oats and cereals](/shop/oats-cereals), and see whether the week feels easier by Friday."
+    }
+  ],
+  "hero": [
+    {
+      "order": 0,
+      "kicker": "Exclusive offer · 25% OFF",
+      "off": "25%",
+      "title": "Shop the smart way, anytime, anywhere",
+      "body": "Farm-fresh produce, everyday pantry staples and local favourites — picked this morning, at your door in under two hours.",
+      "cta": "Start shopping",
+      "href": "/shop",
+      "art": "/images/products/crown-broccoli.png",
+      "bg": "linear-gradient(105deg, var(--color-brand-deep) 0%, var(--color-primary) 58%, var(--color-brand) 100%)",
+      "glow": "radial-gradient(circle at 78% 42%, color-mix(in oklab, var(--color-lime) 26%, transparent), transparent 58%)"
+    },
+    {
+      "order": 1,
+      "kicker": "Seasonal harvest · in season now",
+      "off": "30%",
+      "title": "Picked at dawn, on your table by lunch",
+      "body": "Stone fruit, leafy greens and vine tomatoes straight from growers within 90 miles — no cold-store detour along the way.",
+      "cta": "Shop the harvest",
+      "href": "/shop",
+      "art": "/images/products/alphonso-mango.png",
+      "bg": "linear-gradient(105deg, var(--color-brand) 0%, var(--color-primary) 55%, var(--color-brand) 100%)",
+      "glow": "radial-gradient(circle at 74% 30%, color-mix(in oklab, var(--color-warning) 22%, transparent), transparent 56%)"
+    },
+    {
+      "order": 2,
+      "kicker": "Grovia Plus · free delivery",
+      "off": "45%",
+      "title": "Free delivery on every single order",
+      "body": "Six ninety-nine a month covers unlimited two-hour slots, priority windows and members-only pricing across the store.",
+      "cta": "Join Grovia Plus",
+      "href": "/auth",
+      "art": "/images/products/kent-strawberries.png",
+      "bg": "linear-gradient(105deg, var(--color-brand-deep) 0%, var(--color-brand) 50%, var(--color-primary) 100%)",
+      "glow": "radial-gradient(circle at 70% 60%, color-mix(in oklab, var(--color-info) 20%, transparent), transparent 58%)"
+    }
+  ],
+  "heroStats": [
+    {
+      "value": "340+",
+      "label": "Local growers"
+    },
+    {
+      "value": "2 hrs",
+      "label": "Average delivery"
+    },
+    {
+      "value": "4.8 ★",
+      "label": "From 61k reviews"
+    }
+  ],
+  "announcements": [
+    "Free delivery on orders over $40",
+    "25% off first order — code GROVIA25",
+    "Farm-fresh, picked this morning",
+    "Same-day slots until 9pm"
+  ],
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Shop",
+      "href": "/shop"
+    },
+    {
+      "label": "Sellers",
+      "href": "/sellers"
+    },
+    {
+      "label": "Journal",
+      "href": "/blog"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "FAQ",
+      "href": "/faq"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "faq": [
+    {
+      "cat": "Delivery",
+      "q": "How fast is delivery?",
+      "a": "Orders placed before 6pm are delivered the same day across most postcodes. You pick an exact two-hour window at checkout, and the driver texts you when they are fifteen minutes away."
+    },
+    {
+      "cat": "Delivery",
+      "q": "Which areas do you deliver to?",
+      "a": "England and Wales, within roughly 90 miles of one of our six hubs. Enter your postcode at checkout and the available slots for the next seven days appear straight away."
+    },
+    {
+      "cat": "Delivery",
+      "q": "What happens if I miss my slot?",
+      "a": "The driver waits five minutes and then leaves chilled items in an insulated tote in your safe place, if you have set one. If not, we rebook the next free slot at no extra cost."
+    },
+    {
+      "cat": "Orders",
+      "q": "Is there a minimum order?",
+      "a": "There is no minimum. Orders over $40 ship free; below that it is a flat $3.90, or free on every order with a Grovia Plus membership."
+    },
+    {
+      "cat": "Orders",
+      "q": "Can I change an order after placing it?",
+      "a": "Yes — up until the order enters packing, usually around 45 minutes after you check out. Open the order in your account and choose Edit items."
+    },
+    {
+      "cat": "Orders",
+      "q": "How do substitutions work?",
+      "a": "We only substitute if you opt in, and we never swap across a category. You approve or reject each substitution from the driver notification before the van arrives."
+    },
+    {
+      "cat": "Returns",
+      "q": "What if something arrives damaged?",
+      "a": "Tap the item in your order history and choose Report an issue. Fresh items are refunded instantly — no photos, no phone calls, nothing to send back."
+    },
+    {
+      "cat": "Returns",
+      "q": "How do refunds work?",
+      "a": "Refunds go back to your original payment method within three business days. If you would rather have Grovia credit, it lands in your account immediately."
+    },
+    {
+      "cat": "Products",
+      "q": "Where do you source produce?",
+      "a": "From 340 growers within 90 miles of each hub. Every product page names the farm and the date the crop was picked."
+    },
+    {
+      "cat": "Products",
+      "q": "Is the cold chain really unbroken?",
+      "a": "Chilled goods travel in temperature-logged crates between 2 and 5°C from the packhouse to your door. Every van is refrigerated, and the log is available on request."
+    },
+    {
+      "cat": "Account",
+      "q": "What does Grovia Plus include?",
+      "a": "Free delivery on every order, priority two-hour windows, members-only pricing and early access to seasonal drops — $6.99 a month, cancel any time."
+    },
+    {
+      "cat": "Account",
+      "q": "How do I delete my account?",
+      "a": "Account settings, then Delete account. We remove your data within 30 days, though order records are kept for the seven years tax law requires."
+    }
+  ],
+  "faqCategories": [
+    "Delivery",
+    "Orders",
+    "Returns",
+    "Products",
+    "Account"
+  ],
+  "promises": [
+    {
+      "title": "Picked this morning",
+      "body": "Produce leaves the field and the packhouse on the same day it reaches your door."
+    },
+    {
+      "title": "Two-hour windows",
+      "body": "Choose an exact slot at checkout. The driver texts fifteen minutes ahead."
+    },
+    {
+      "title": "Unbroken cold chain",
+      "body": "Temperature-logged crates between 2 and 5°C, in refrigerated vans, every trip."
+    },
+    {
+      "title": "Refunds without a fight",
+      "body": "Report an issue on any fresh item and it is refunded instantly. No photos."
+    }
+  ],
+  "stats": [
+    {
+      "value": "340+",
+      "label": "Growers within 90 miles"
+    },
+    {
+      "value": "6",
+      "label": "Regional packing hubs"
+    },
+    {
+      "value": "61k",
+      "label": "Verified customer reviews"
+    },
+    {
+      "value": "34 min",
+      "label": "Average first support reply"
+    }
+  ],
+  "values": [
+    {
+      "title": "Buy it the day you sell it",
+      "body": "We hold almost no stock. Buyers are at market before dawn and only list what is genuinely good that week — which is why a crop occasionally disappears from the site for a fortnight."
+    },
+    {
+      "title": "Name the farm",
+      "body": "Every product page carries the grower, the town and the date the crop was picked. If we cannot tell you where something came from, we do not sell it."
+    },
+    {
+      "title": "Price honestly",
+      "body": "No fake was-prices, no rolling permanent sale. When something is cheaper this week it is because it cost us less, and we say which crop it is."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Priya Nandakumar",
+      "role": "Customer since 2023",
+      "avatar": "/images/people/priya-nandakumar.jpg",
+      "quote": "Genuinely the best mangoes I have had outside of a market in Ratnagiri. Arrived firm and ripened perfectly over three days."
+    },
+    {
+      "name": "Jonas Weber",
+      "role": "Customer since 2021",
+      "avatar": "/images/people/jonas-weber.jpg",
+      "quote": "The two-hour window is the whole reason I switched. Four months in and they have hit it every single time."
+    },
+    {
+      "name": "Anya Volkova",
+      "role": "Grovia Plus member",
+      "avatar": "/images/people/anya-volkova.jpg",
+      "quote": "Salmon arrived properly cold and vacuum sealed. Seared beautifully — better than my local fishmonger, honestly."
+    }
+  ],
+  "team": [
+    {
+      "name": "Marcus Bell",
+      "role": "Founder & head buyer",
+      "avatar": "/images/people/marcus-bell.jpg"
+    },
+    {
+      "name": "Mei Lin Chow",
+      "role": "Head of sourcing",
+      "avatar": "/images/people/mei-lin-chow.jpg"
+    },
+    {
+      "name": "Daniel Osei",
+      "role": "Operations lead",
+      "avatar": "/images/people/daniel-osei.jpg"
+    },
+    {
+      "name": "Leslie Alexander",
+      "role": "Customer support lead",
+      "avatar": "/images/people/leslie-alexander.jpg"
+    }
+  ],
+  "howItWorks": [
+    {
+      "step": "01",
+      "title": "Fill your basket",
+      "body": "Browse by aisle or search. Prices are the same whether you order once or every week."
+    },
+    {
+      "step": "02",
+      "title": "Pick a two-hour slot",
+      "body": "Seven days of availability appear once you enter a postcode. Same-day until 9pm."
+    },
+    {
+      "step": "03",
+      "title": "We pack it cold",
+      "body": "Your order is picked at the nearest hub and loaded into a temperature-logged crate."
+    },
+    {
+      "step": "04",
+      "title": "It arrives",
+      "body": "The driver texts fifteen minutes ahead. Anything not right is refunded on the spot."
+    }
+  ],
+  "bestTabs": [
+    "All products",
+    "Fruit & veg",
+    "Meat & seafood",
+    "Pantry",
+    "On sale"
+  ],
+  "languages": [
+    {
+      "id": "en",
+      "code": "EN",
+      "name": "English"
+    },
+    {
+      "id": "fr",
+      "code": "FR",
+      "name": "French"
+    },
+    {
+      "id": "es",
+      "code": "ES",
+      "name": "Spanish"
+    },
+    {
+      "id": "bn",
+      "code": "BN",
+      "name": "Bangla"
+    },
+    {
+      "id": "hi",
+      "code": "HI",
+      "name": "Hindi"
+    },
+    {
+      "id": "ar",
+      "code": "AR",
+      "name": "Arabic"
+    }
+  ],
+  "currencies": [
+    {
+      "code": "USD",
+      "symbol": "$"
+    },
+    {
+      "code": "EUR",
+      "symbol": "€"
+    },
+    {
+      "code": "GBP",
+      "symbol": "£"
+    },
+    {
+      "code": "BDT",
+      "symbol": "৳"
+    },
+    {
+      "code": "INR",
+      "symbol": "₹"
+    },
+    {
+      "code": "AED",
+      "symbol": "د.إ"
+    }
+  ],
+  "deliverySlots": [
+    {
+      "id": 0,
+      "label": "Today · 4pm – 6pm",
+      "note": "2 slots left"
+    },
+    {
+      "id": 1,
+      "label": "Today · 6pm – 8pm",
+      "note": "Most popular"
+    },
+    {
+      "id": 2,
+      "label": "Tomorrow · 8am – 10am",
+      "note": "Priority window"
+    },
+    {
+      "id": 3,
+      "label": "Tomorrow · 12pm – 2pm",
+      "note": ""
+    }
+  ],
+  "paymentMethods": [
+    {
+      "id": 0,
+      "label": "Card",
+      "note": "Visa, Mastercard, Amex"
+    },
+    {
+      "id": 1,
+      "label": "Apple Pay",
+      "note": "One-tap checkout"
+    },
+    {
+      "id": 2,
+      "label": "PayPal",
+      "note": "Redirects to PayPal"
+    },
+    {
+      "id": 3,
+      "label": "Cash on delivery",
+      "note": "Exact change appreciated"
+    }
+  ],
+  "trackingSteps": [
+    {
+      "label": "Order placed",
+      "note": "We have your basket"
+    },
+    {
+      "label": "Packing",
+      "note": "Picked at the Bristol hub"
+    },
+    {
+      "label": "Out for delivery",
+      "note": "Driver is on the road"
+    },
+    {
+      "label": "Delivered",
+      "note": "Left with you"
+    }
+  ],
+  "coupons": {
+    "GROVIA25": 0.25,
+    "FRESH10": 0.1,
+    "PLUS5": 0.05
+  },
+  "commerce": {
+    "freeDeliveryThreshold": 40,
+    "deliveryFee": 3.9,
+    "plusPrice": 6.99
+  },
+  "art": {
+    "promo": {
+      "winterSale": "/images/hero/winter-sale.jpg",
+      "daily": "/images/editorial/tote-of-veg.jpg",
+      "delivery": "/images/editorial/handful-of-produce.jpg",
+      "newLaunch": "/images/editorial/veg-basket.jpg",
+      "about": "/images/hero/about-hero.jpg"
+    },
+    "editorial": {
+      "tote": "/images/editorial/tote-of-veg.jpg",
+      "basket": "/images/editorial/veg-basket.jpg",
+      "handful": "/images/editorial/handful-of-produce.jpg"
+    },
+    "brand": {
+      "paymentCards": "/images/brand/payment-cards.png"
+    }
+  },
+  "homePromos": [
+    {
+      "name": "shortlist-keep-active",
+      "slot": "editors-shortlist",
+      "variant": "photo-overlay",
+      "title": "Keep Active. Keep Well.",
+      "description": "Discover vitamins, supplements, skincare and immunity boosters — all in one place.",
+      "image": "/images/home-promos/keep-active.jpg",
+      "buttonTitle": "Shop Now",
+      "buttonHref": "/shop",
+      "order": 0
+    },
+    {
+      "name": "shortlist-maintain-fitness",
+      "slot": "editors-shortlist",
+      "variant": "photo-overlay",
+      "title": "Maintain Fitness.",
+      "description": "Discover vitamins, supplements, skincare and immunity boosters — all in one place.",
+      "image": "/images/home-promos/maintain-fitness.jpg",
+      "buttonTitle": "Shop Now",
+      "buttonHref": "/shop",
+      "order": 1
+    },
+    {
+      "name": "shortlist-stay-strong",
+      "slot": "editors-shortlist",
+      "variant": "photo-overlay",
+      "title": "Stay Strong. Stay Vibrant.",
+      "description": "Discover vitamins, supplements, skincare and immunity boosters — all in one place.",
+      "image": "/images/home-promos/stay-strong.jpg",
+      "buttonTitle": "Shop Now",
+      "buttonHref": "/shop",
+      "order": 2
+    },
+    {
+      "name": "after-category-family",
+      "slot": "after-category",
+      "variant": "caption-card",
+      "title": "Fresh & Healthy Food for Your Family",
+      "description": "Fast delivery in your area",
+      "image": "/images/home-promos/family.jpg",
+      "buttonTitle": "Shop Now",
+      "buttonHref": "/shop",
+      "order": 0
+    },
+    {
+      "name": "after-category-essentials",
+      "slot": "after-category",
+      "variant": "framed",
+      "title": "All Your Daily Essentials in a Single Spot",
+      "description": "From fresh produce to pantry staples",
+      "image": "/images/home-promos/essentials.jpg",
+      "buttonTitle": "Shop Now",
+      "buttonHref": "/shop",
+      "order": 1
+    },
+    {
+      "name": "after-category-staples",
+      "slot": "after-category",
+      "variant": "plain",
+      "title": "Your Daily Staples, All Right Here",
+      "description": "From fresh produce to pantry staples, delivered fast",
+      "image": "/images/home-promos/staples.jpg",
+      "buttonTitle": "Shop Now",
+      "buttonHref": "/shop",
+      "order": 2
+    }
+  ]
+}

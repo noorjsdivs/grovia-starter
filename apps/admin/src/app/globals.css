@@ -1,0 +1,350 @@
+@import "tailwindcss";
+
+/* ────────────────────────────────────────────────────────────────────────────
+   Grovia design tokens — transcribed from the Claude Design project
+   "Storly Admin.dc.html" (project 9038c515-2db3-4444-8fe7-6cd5fa053b12).
+   This file is the styling source of truth for apps/admin.
+
+   Rules (see /CLAUDE.md):
+   - Never use raw palette utilities (bg-green-500, text-slate-700, …).
+   - Never add `dark:` variants — Grovia is light-theme only.
+   - Never inline hex colors. Add a token here first.
+   ──────────────────────────────────────────────────────────────────────────── */
+
+@theme {
+  /* Same six solids as apps/web */
+  --color-garden-cream: #f6f9f4;
+  --color-garden-mist: #e3f3de;
+  --color-garden-lime: #c9f05a;
+  --color-garden-leaf: #0b6a5b;
+  --color-garden-canopy: #0d3d3b;
+  --color-garden-soil: #062826;
+
+  /* Brand */
+  --color-primary: #0b6a5b;
+  --color-primary-hover: #084f45;
+  --color-primary-soft: #e3f3de;
+  --color-brand: #0d3d3b;
+  --color-brand-deep: #062826;
+  --color-lime: #c9f05a;
+
+  /* Accents */
+  --color-accent-orange: #f4622e;
+  --color-accent-crimson: #cb0233;
+  --color-accent-blue: #1890ff;
+  --color-accent-amber: #ffb400;
+
+  /* Dashboard KPI tiles — tints of the tokens above (Figma Sellzy widgets). */
+  --color-kpi-mint: color-mix(in srgb, var(--color-primary) 28%, white);
+  --color-kpi-sun: color-mix(in srgb, var(--color-accent-amber) 38%, white);
+  --color-kpi-peach: color-mix(in srgb, var(--color-accent-orange) 32%, white);
+  --color-kpi-blush: color-mix(in srgb, var(--color-accent-crimson) 16%, white);
+  --color-kpi-lilac: color-mix(in srgb, var(--color-accent-blue) 30%, white);
+  --color-kpi-sand: color-mix(in srgb, var(--color-accent-amber) 48%, white);
+  --color-kpi-leaf: color-mix(in srgb, var(--color-lime) 52%, white);
+  --color-kpi-sky: color-mix(in srgb, var(--color-accent-blue) 36%, white);
+
+  /* Surfaces */
+  --color-background: #ffffff;
+  --color-card: #ffffff;
+  --color-muted: #f3f6f1;
+  --color-border: #dbe3d9;
+
+  /* Text */
+  --color-foreground: #1b2b28;
+  --color-muted-foreground: #4c625d;
+  --color-subtle-foreground: #66796f; /* 4.64:1 on white — helper text still passes AA */
+
+  /* Status */
+  --color-success: #1f9d5a;
+  --color-warning: #ffb400;
+  --color-danger: #cb0233;
+  --color-info: #1890ff;
+
+  /* Focus / ring */
+  --color-ring: #0b6a5b;
+
+  /* Radii */
+  --radius-card: 20px;
+  --radius-tile: 14px;
+  --radius-control: 10px;
+  --radius-kpi: 16px;
+
+  /* Hover / color transitions — Tailwind `transition-*` utilities inherit these. */
+  --default-transition-duration: 300ms;
+  --default-transition-timing-function: ease-in-out;
+  /* The "settle" curve every enter animation uses. */
+  --ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Elevation */
+  --shadow-pop: 0 26px 50px -22px
+    color-mix(in oklab, var(--color-brand-deep) 24%, transparent);
+  --shadow-drop: 0 22px 44px -20px
+    color-mix(in oklab, var(--color-brand-deep) 20%, transparent);
+  --shadow-tile: 0 2px 8px -4px
+    color-mix(in oklab, var(--color-brand-deep) 18%, transparent);
+  --shadow-brand: 0 6px 16px -8px
+    color-mix(in oklab, var(--color-primary) 45%, transparent);
+
+  /* Layout */
+  --spacing-shell: 1380px;
+
+  /* Motion */
+  --animate-rise: rise 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-drop: drop 0.16s ease both;
+  --animate-marquee: marquee 34s linear infinite;
+  --animate-float: float 7s ease-in-out infinite;
+  /* Right-edge drawers (edit panels) — match storefront Auth/Cart drawers. */
+  --animate-slide-in: slide-in 0.28s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-slide-out: slide-out-right 0.24s cubic-bezier(0.4, 0, 1, 1) both;
+  /* Left-edge drawers (mobile nav). */
+  --animate-slide-in-left: slide-in-left 0.28s cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-slide-out-left: slide-out-left 0.24s cubic-bezier(0.4, 0, 1, 1) both;
+  --animate-fade-in: fade-in 0.22s ease both;
+  --animate-fade-out: fade-out 0.24s ease both;
+}
+
+/*
+ * Fonts must be `inline` so utilities resolve to the next/font CSS variables
+ * (set on <html>) rather than a frozen string that never sees the self-hosted
+ * @font-face. TikTok Sans is not in next/font/google — it loads from the
+ * Google Fonts CSS API in the root layout.
+ */
+@theme inline {
+  --font-sans: var(--font-public-sans), "Public Sans", system-ui, -apple-system,
+    sans-serif;
+  --font-display: "TikTok Sans", var(--font-public-sans), "Public Sans",
+    system-ui, sans-serif;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes drop {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes marquee {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-1.5deg);
+  }
+  50% {
+    transform: translateY(-14px) rotate(1.5deg);
+  }
+}
+
+/* Enter from off-screen right (right-edge panels). */
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: none;
+  }
+}
+
+@keyframes slide-out-right {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+/* Enter from off-screen left (left-edge panels). */
+@keyframes slide-in-left {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: none;
+  }
+}
+
+@keyframes slide-out-left {
+  from {
+    transform: none;
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    scroll-behavior: smooth;
+  }
+
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    color: var(--color-brand);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a,
+  button,
+  [role="button"],
+  [role="tab"],
+  [role="menuitem"],
+  [role="option"],
+  [role="switch"],
+  [role="checkbox"],
+  [role="radio"],
+  summary,
+  select,
+  label,
+  input[type="checkbox"],
+  input[type="radio"] {
+    transition-property: color, background-color, border-color, outline-color,
+      text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+  }
+
+  ::placeholder {
+    color: var(--color-subtle-foreground);
+    opacity: 1;
+  }
+
+  input,
+  textarea,
+  select,
+  button {
+    font: inherit;
+    color: inherit;
+  }
+
+  input:not([type="checkbox"]):not([type="radio"]),
+  textarea,
+  select {
+    background-color: var(--color-card);
+    color: var(--color-foreground);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+}
+
+@utility shell {
+  margin-inline: auto;
+  width: 100%;
+  max-width: var(--spacing-shell);
+  padding-inline: clamp(1rem, 3vw, 2rem);
+}
+
+@utility scroll-slim {
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    height: 7px;
+    width: 7px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: color-mix(in oklab, var(--color-subtle-foreground) 45%, transparent);
+    border-radius: 99px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/*
+ * Tailwind v4 preflight no longer sets cursor: pointer on buttons. Every
+ * clickable control in the three apps should read as clickable, so restore it
+ * here once instead of per component — and keep disabled controls honest.
+ */
+@layer base {
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  [role="tab"]:not([aria-disabled="true"]),
+  [role="switch"]:not([aria-disabled="true"]),
+  [role="menuitem"]:not([aria-disabled="true"]),
+  [role="option"]:not([aria-disabled="true"]),
+  [role="combobox"]:not([aria-disabled="true"]),
+  label[for],
+  summary,
+  select:not(:disabled) {
+    cursor: pointer;
+  }
+  button:disabled,
+  [aria-disabled="true"] {
+    cursor: not-allowed;
+  }
+}

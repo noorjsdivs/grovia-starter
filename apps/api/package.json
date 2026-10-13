@@ -1,0 +1,35 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Backend API for Grovia e-commerce platform",
+  "type": "module",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "nodemon -e ts,js --ignore dist/ --exec tsx server.ts",
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
+    "start": "node dist/server.js",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "compression": "^1.8.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "mongoose": "^9.11.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/compression": "^1.8.1",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.4",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0",
+    "nodemon": "^3.1.14",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.1"
+  }
+}
