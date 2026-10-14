@@ -47,8 +47,6 @@ The finished product runs in production:
 | Storefront | **https://grovia.reactbd.com** |
 | Admin dashboard and seller portal | **https://admin.grovia.reactbd.com** (staff sign-in) |
 | Documentation site | **https://docs.grovia.reactbd.com** |
-| REST API health | https://api.grovia.reactbd.com/api/health |
-| REST API reference (Swagger) | https://api.grovia.reactbd.com/api/docs |
 
 ### What you'll build
 
