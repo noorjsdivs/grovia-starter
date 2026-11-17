@@ -29,6 +29,7 @@ This is the free companion repo for the **Grovia from scratch** course on the [R
 - **The monorepo is done:** pnpm workspaces, the Turborepo pipeline, one root `.env`, strict TypeScript everywhere, and a setup script.
 - **Each app is at the end of its "Foundation" chapter.** It installs, builds, lints, type-checks and runs, with nothing missing and nothing stubbed.
 - **The asset pack is included:** 50 product, editorial, people and promo photos, plus the seed data the course loads into MongoDB.
+- **The Grovia Mobile app icons:** the six icons the mobile course copies into its Expo app, in [`mobile-icons/`](./mobile-icons/).
 
 Everything after the foundations is what the course teaches you to build. If you'd rather start from the end, the [complete Grovia source](#get-the-full-version) is available as a one-time purchase.
 
@@ -161,6 +162,7 @@ grovia-starter/
 │           ├── components/ui/    primitives + Drawer, ConfirmDialog, DatePicker, TableFilters…
 │           └── lib/              utils, pagination, list-query, recover, observability (+ tests)
 ├── packages/                     reserved for shared packages
+├── mobile-icons/                 the six app icons for the Grovia Mobile course
 ├── _.env.example                 the one environment template (copy to .env)
 ├── setup.mjs                     first-run setup
 ├── turbo.json                    the task pipeline
